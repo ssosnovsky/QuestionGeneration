@@ -1,0 +1,41 @@
+question_content,reference_answer,method_label,question_type
+Which mean square can be influenced by population differences among group means?<br>A. MSwithin<br>B. MSbetween<br>C. SStotal<br>D. dfdenominator,B,GQ_ContentOnly,Multiple Choice
+The null hypothesis in one-way ANOVA says that all group population means are ___,equal,GQ_ContentOnly,Fill-in-the-blank
+Why is ANOVA preferred over multiple pairwise t-tests when comparing more than two groups?<br>A. It reduces the chance of Type I error<br>B. It guarantees normality<br>C. It forces equal variances<br>D. It always increases power,A,GQ_ContentOnly,Multiple Choice
+The one-way ANOVA test is always<br>A. left-tailed<br>B. two-tailed<br>C. right-tailed<br>D. undetermined tail,C,GQ_ContentOnly,Multiple Choice
+MS stands for ___,mean square,GQ_ContentOnly,Fill-in-the-blank
+The F distribution is derived from the<br>A. normal distribution<br>B. chi-square distribution<br>C. Student's t-distribution<br>D. binomial distribution,C,GQ_ContentOnly,Multiple Choice
+"If H0 is true, the F-ratio should be approximately<br>A. 0<br>B. 1<br>C. k<br>D. n",B,GQ_ContentOnly,Multiple Choice
+What is the F-ratio in one-way ANOVA?<br>A. MSbetween / MSwithin<br>B. MSwithin / MSbetween<br>C. SSbetween / SSwithin<br>D. MSbetween / SSwithin,A,GQ_ContentOnly,Multiple Choice
+"If the numerator df is 4 and the denominator df is 10, the distribution is written as ___","F ~ F4,10",GQ_ContentOnly,Fill-in-the-blank
+"In Example 13.1, the computed F statistic equals ___",0.3769,GQ_ContentOnly,Fill-in-the-blank
+"Which expression equals SSbetween (using group sums s_j and sizes n_j, total n)?<br>A. Σ[(s_j)^2 / n_j] − (Σ s_j)^2 / n<br>B. Σ x^2 − (Σ x)^2 / n<br>C. SStotal − SSbetween<br>D. SSwithin / dfwithin",A,GQ_ContentAndConcept,Multiple Choice
+SSbetween is the sum of squares that represents the variation ___ the different samples.,among,GQ_ContentAndConcept,Fill-in-the-blank
+The F-ratio is computed as ___ divided by MSwithin.,MSbetween,GQ_ContentAndConcept,Fill-in-the-blank
+Within-groups variation is also called variation due to ___ or unexplained variation.,error,GQ_ContentAndConcept,Fill-in-the-blank
+"Under the null hypothesis in one-way ANOVA, the F-ratio is expected to be approximately:<br>A. 0<br>B. 1<br>C. n − k<br>D. k − 1",B,GQ_ContentAndConcept,Multiple Choice
+The one-way ANOVA hypothesis test is always:<br>A. Left-tailed<br>B. Two-tailed<br>C. Right-tailed<br>D. Depends on the data,C,GQ_ContentAndConcept,Multiple Choice
+Which description matches SStotal?<br>A. Sum of squares of all values minus the square of the total sum divided by n<br>B. Sum of squares representing variation among groups<br>C. Sum of sample variances divided by dfwithin<br>D. SStotal − SSbetween,A,GQ_ContentAndConcept,Multiple Choice
+The variance within samples is estimated by the ___ of the sample variances.<br>A. sum<br>B. average<br>C. median<br>D. maximum,B,GQ_ContentAndConcept,Multiple Choice
+One-Way ANOVA is preferred over multiple pairwise t-tests when comparing more than ___ groups.,two,GQ_ContentAndConcept,Fill-in-the-blank
+The alternative hypothesis says that at least ___ of the sample groups come from populations with different normal distributions.,two,GQ_ContentAndConcept,Fill-in-the-blank
+"Using μ = df(denom)/(df(denom) − 2), what is the mean of an F distribution (when defined)?<br>A. df(denom)/(df(denom) − 2)<br>B. df(num)/(df(num) − 2)<br>C. df(denom)/(df(denom) + 2)<br>D. (df(num) + df(denom))/2",A,GQ_ConceptAndLOs,Multiple Choice
+"From an ANOVA table, F is calculated as:<br>A. MSbetween divided by MSwithin<br>B. SSwithin divided by SSbetween<br>C. MSwithin divided by MSbetween<br>D. SSbetween divided by dfwithin",A,GQ_ConceptAndLOs,Multiple Choice
+Which set correctly pairs one-way ANOVA components with their formulas?<br>A. dfbetween = k − 1; dfwithin = n − k; F = MSbetween/MSwithin<br>B. dfbetween = n − k; dfwithin = k − 1; F = SSbetween/SSwithin<br>C. dfbetween = k; dfwithin = n; F = MSwithin/MSbetween<br>D. dfbetween = k − 1; dfwithin = n − 1; F = SSwithin/dfwithin,A,GQ_ConceptAndLOs,Multiple Choice
+"If the null hypothesis is true in one-way ANOVA, which is expected?<br>A. MSbetween and MSwithin estimate the same variance and F is approximately 1<br>B. MSbetween greatly exceeds MSwithin and F is near 0<br>C. MSwithin exceeds MSbetween and F is negative<br>D. Only MSbetween estimates the common variance and F is left-tailed",A,GQ_ConceptAndLOs,Multiple Choice
+"For equal group sizes, the variance between samples is computed as:<br>A. The variance of the sample means multiplied by n<br>B. The average of the sample variances<br>C. SSwithin divided by dfwithin<br>D. The variance of all individual observations divided by n",A,GQ_ConceptAndLOs,Multiple Choice
+Variance within samples can be calculated as:<br>A. The mean of the sample variances (pooled variance) or MSwithin = SSwithin/dfwithin<br>B. The variance of the sample means multiplied by n<br>C. SSbetween/dfbetween<br>D. SStotal − SSbetween divided by k − 1,A,GQ_ConceptAndLOs,Multiple Choice
+"According to the given formula, SSbetween equals:<br>A. Σ[(s_j)²/n_j] − (Σ s_j)²/n<br>B. SSwithin + SStotal<br>C. Σx²/n − (Σx)²<br>D. (Σ s_j)²/n − Σ[(s_j)²/n_j]",A,GQ_ConceptAndLOs,Multiple Choice
+How is SSwithin obtained?<br>A. SSwithin = SStotal − SSbetween<br>B. SSwithin = SSbetween − SStotal<br>C. SSwithin = SSbetween + SStotal<br>D. SSwithin = (Σx)²/n − Σx²,A,GQ_ConceptAndLOs,Multiple Choice
+Which formulas define MSbetween and MSwithin?<br>A. MSbetween = SSbetween/dfbetween; MSwithin = SSwithin/dfwithin<br>B. MSbetween = SSwithin/dfbetween; MSwithin = SSbetween/dfwithin<br>C. MSbetween = SStotal/dfbetween; MSwithin = SStotal/dfwithin<br>D. MSbetween = SSbetween × dfbetween; MSwithin = SSwithin × dfwithin,A,GQ_ConceptAndLOs,Multiple Choice
+"In a one-way ANOVA with total sample size n and k groups, dfwithin is:<br>A. n − k<br>B. k − 1<br>C. n<br>D. n − 1",A,GQ_ConceptAndLOs,Multiple Choice
+The one-way ANOVA hypothesis test is always ____.,right-tailed,GQ_SuperPrompt,Fill-in-the-blank
+"In the diet plan example (k = 3, n = 10), what are dfbetween and dfwithin?<br>A. 2 and 7<br>B. 3 and 7<br>C. 2 and 10<br>D. 9 and 7",A,GQ_SuperPrompt,Multiple Choice
+Which is the correct formula for the total sum of squares SStotal?<br>A. ∑x^2 − (∑x)^2 / n<br>B. ∑x^2 + (∑x)^2 / n<br>C. (∑x^2)/n − (∑x)^2<br>D. ∑x^2 − n(∑x)^2,A,GQ_SuperPrompt,Multiple Choice
+"In the notation F ~ F4,10, what do 4 and 10 represent?<br>A. Numerator df = 4, denominator df = 10<br>B. Sample sizes of two groups<br>C. Number of groups and total sample size<br>D. Means of two samples",A,GQ_SuperPrompt,Multiple Choice
+"When group sizes are equal, which formula for F is used?<br>A. F = n · s_x̄^2 / s_pooled^2<br>B. F = s_pooled^2 / (n · s_x̄^2)<br>C. F = s_pooled^2 / s_x̄^2<br>D. F = s_x̄^2 / s_pooled^2",A,GQ_SuperPrompt,Multiple Choice
+Which ratio defines the F statistic in one-way ANOVA?<br>A. MSbetween/MSwithin<br>B. MSwithin/MSbetween<br>C. SSbetween/SSwithin<br>D. SSwithin/SSbetween,A,GQ_SuperPrompt,Multiple Choice
+"When the null hypothesis is true, the F-ratio should be approximately:<br>A. 0<br>B. 1<br>C. k<br>D. n",B,GQ_SuperPrompt,Multiple Choice
+SSwithin is also called:<br>A. Variation due to error (unexplained)<br>B. Variation due to treatment (explained)<br>C. Total variation across all data<br>D. Between-group variance only,A,GQ_SuperPrompt,Multiple Choice
+"Which statement about MSwithin and MSbetween is true?<br>A. MSwithin compares values to their own group mean, so differences among group means do not affect it<br>B. MSbetween is unaffected by differences among group means<br>C. Both MSwithin and MSbetween are affected only by sampling error<br>D. Neither MSwithin nor MSbetween estimates variance",A,GQ_SuperPrompt,Multiple Choice
+Why use one-way ANOVA instead of multiple t-tests for more than two groups?<br>A. To reduce the chance of a Type 1 error from multiple tests<br>B. It does not require any assumptions<br>C. It compares medians instead of means<br>D. It allows left-tailed tests,A,GQ_SuperPrompt,Multiple Choice

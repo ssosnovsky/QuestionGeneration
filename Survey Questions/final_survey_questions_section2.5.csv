@@ -1,0 +1,41 @@
+question_content,reference_answer,method_label,question_type
+"The data 680, 680, 700, 720, 720 are:<br>A. Unimodal at 700<br>B. Bimodal at 680 and 720<br>C. Multimodal with three modes<br>D. Without any mode",B,GQ_ContentOnly,Multiple Choice
+"For x̄ to be a good estimate of μ, the sample should be:<br>A. Truly random<br>B. Large but biased<br>C. Conveniently chosen<br>D. Evenly spaced in time",A,GQ_ContentOnly,Multiple Choice
+Which is a statistic?<br>A. Population mean μ<br>B. Sample mean x̄<br>C. Population median<br>D. Population mode,B,GQ_ContentOnly,Multiple Choice
+Which measure is generally better when there are outliers?<br>A. Mean<br>B. Median<br>C. Mode<br>D. Range,B,GQ_ContentOnly,Multiple Choice
+The mode is the ___ value.,most frequent,GQ_ContentOnly,Fill-in-the-blank
+"From Professor Blount’s grouped test scores, the best estimate of the class mean is about:<br>A. 72.00<br>B. 76.86<br>C. 83.50<br>D. 89.50",B,GQ_ContentOnly,Multiple Choice
+The mean of a frequency table is computed as:<br>A. Sum of midpoints divided by number of intervals<br>B. Sum of f×m divided by sum of f<br>C. Largest midpoint<br>D. Sum of frequencies,B,GQ_ContentOnly,Multiple Choice
+"If n = 100, the median occurs between which ordered positions?<br>A. 49th and 50th<br>B. 50th and 51st<br>C. 51st and 52nd<br>D. 100th and 101st",B,GQ_ContentOnly,Multiple Choice
+"The Law of Large Numbers says that as sample size grows, x̄ tends to:<br>A. Equal the sample median<br>B. Get closer to μ<br>C. Get farther from μ<br>D. Become bimodal",B,GQ_ContentOnly,Multiple Choice
+The sample mean is represented by ___.,x̄,GQ_ContentOnly,Fill-in-the-blank
+"Which measure can be used with qualitative data (for example, colors)?<br>A. mode<br>B. mean<br>C. median<br>D. midpoint",A,GQ_ContentAndConcept,Multiple Choice
+The median is generally a better measure of center when there are extreme values or ___.,outliers,GQ_ContentAndConcept,Fill-in-the-blank
+What is the midpoint of the interval 68.5–74.5?<br>A. 71.5<br>B. 68.5<br>C. 74.5<br>D. 72.5,A,GQ_ContentAndConcept,Multiple Choice
+The midpoint of an interval equals (lower boundary + upper boundary) divided by ___.,2,GQ_ContentAndConcept,Fill-in-the-blank
+Why is the mean from a grouped frequency table only an estimate?<br>A. Because the individual data values are unknown; only intervals and frequencies are given.<br>B. Because the median is not available.<br>C. Because the mode is always larger than the mean.<br>D. Because the sample is not random.,A,GQ_ContentAndConcept,Multiple Choice
+The population mean is represented by the Greek letter ___.,μ,GQ_ContentAndConcept,Fill-in-the-blank
+What does μ represent?<br>A. The arithmetic mean of an entire population.<br>B. The median of a sample.<br>C. The mode of grouped data.<br>D. The midpoint of the middle interval.,A,GQ_ContentAndConcept,Multiple Choice
+Which term means the sum of all data values divided by the number of values?<br>A. arithmetic mean (average)<br>B. median<br>C. mode<br>D. midpoint of an interval,A,GQ_ContentAndConcept,Multiple Choice
+Which calculation finds the mean when values have frequencies?<br>A. Sum of (value × frequency) divided by total number of data values.<br>B. Sum of frequencies divided by number of distinct values.<br>C. Median of the distinct values.<br>D. Most frequent value only.,A,GQ_ContentAndConcept,Multiple Choice
+The arithmetic mean is found by adding all data values and dividing by the number of values; it is commonly called the ___.,average,GQ_ContentAndConcept,Fill-in-the-blank
+Which measure of center is less affected by outliers?<br>A. Mean<br>B. Median<br>C. Both equally<br>D. Neither,B,GQ_ConceptAndLOs,Multiple Choice
+"For the sample 10, 12, 8, what is x̄?<br>A. 9<br>B. 10<br>C. 10.5<br>D. 12",B,GQ_ConceptAndLOs,Multiple Choice
+Which statement is correct?<br>A. x̄ summarizes a sample; μ summarizes an entire population.<br>B. μ summarizes a sample; x̄ summarizes an entire population.<br>C. x̄ and μ summarize the same scope of data.<br>D. x̄ and μ are different symbols for the same quantity in the same data set.,A,GQ_ConceptAndLOs,Multiple Choice
+"Given values 2 (freq 3), 5 (freq 1), and 9 (freq 2), what is the mean?<br>A. 4.83<br>B. 5.50<br>C. 7.00<br>D. 29.00",A,GQ_ConceptAndLOs,Multiple Choice
+Which measure is more robust to outliers?<br>A. Median<br>B. Mean<br>C. Both equally robust<br>D. Neither is a measure of center,A,GQ_ConceptAndLOs,Multiple Choice
+Which statement correctly differentiates location and value of the median?<br>A. The median’s location is a position index given by (n + 1) / 2; the median’s value is the data value at that position (or the average of the two middle values for even n).<br>B. The median’s location always equals the median’s value.<br>C. The median’s location is the same as the arithmetic mean.<br>D. The median’s value is always (n + 1) / 2.,A,GQ_ConceptAndLOs,Multiple Choice
+"What are the mode(s) of the data set 1, 1, 2, 2, 3?<br>A. 1<br>B. 2<br>C. 1 and 2<br>D. No mode",C,GQ_ConceptAndLOs,Multiple Choice
+"A frequency table has intervals with frequencies: 0–9: 3, 10–19: 5, 20–29: 2. How many data values are represented in total?<br>A. 8<br>B. 9<br>C. 10<br>D. 11",C,GQ_ConceptAndLOs,Multiple Choice
+What is the midpoint of the class interval 10–14?<br>A. 11<br>B. 12<br>C. 13<br>D. 12.5,B,GQ_ConceptAndLOs,Multiple Choice
+"Given intervals and frequencies: 0–10 (f=2), 10–20 (f=1). Using midpoints, what is the estimated mean Σ(fm)/Σf?<br>A. 5.00<br>B. 8.33<br>C. 10.00<br>D. 15.00",B,GQ_ConceptAndLOs,Multiple Choice
+"When estimating the mean from a grouped frequency table, each class is represented by its:<br>A. Lower boundary<br>B. Upper boundary<br>C. Midpoint<br>D. Class width",C,GQ_SuperPrompt,Multiple Choice
+A data set with two modes is called:<br>A. Unimodal<br>B. Bimodal<br>C. Multimodal<br>D. Symmetric,B,GQ_SuperPrompt,Multiple Choice
+Which measure of center is better when there are extreme values?<br>A. Mean<br>B. Median<br>C. Mode<br>D. Range,B,GQ_SuperPrompt,Multiple Choice
+Which symbol represents the population mean?<br>A. x̄<br>B. μ<br>C. M<br>D. n,B,GQ_SuperPrompt,Multiple Choice
+"In the AIDS drug example with 40 values, what is the median?<br>A. 23.6<br>B. 24<br>C. 20.5<br>D. 40",B,GQ_SuperPrompt,Multiple Choice
+Which symbol represents the sample mean?<br>A. x̄<br>B. μ<br>C. M<br>D. n,A,GQ_SuperPrompt,Multiple Choice
+"In a town with one $5,000,000 earner and 49 earners of $30,000, which is the better measure of center?<br>A. Mean<br>B. Median<br>C. Mode<br>D. Range",B,GQ_SuperPrompt,Multiple Choice
+Which measure can be calculated for qualitative data?<br>A. Mean<br>B. Median<br>C. Mode<br>D. Midpoint,C,GQ_SuperPrompt,Multiple Choice
+"For the sample 1,1,1,2,2,3,4,4,4,4,4, what is x̄?<br>A. 2.5<br>B. 2.7<br>C. 3.0<br>D. 3.5",B,GQ_SuperPrompt,Multiple Choice
+The expression (n + 1) / 2 gives the:<br>A. Mean<br>B. Value of the median<br>C. Location of the median<br>D. Mode,C,GQ_SuperPrompt,Multiple Choice

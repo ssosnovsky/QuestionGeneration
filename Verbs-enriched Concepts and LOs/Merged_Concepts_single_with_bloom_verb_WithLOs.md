@@ -1,0 +1,1977 @@
+
+---
+# Chapter: seg_3 Heading：chapter 1: sampling and data
+
+---
+# Section: seg_5 Heading：1.1 definitions of statistics, probability, and key terms
+- **Statistics** [0.7] : Define statistics as the science dealing with the collection, analysis, interpretation, and presentation of data.
+- **Statistics** [0.7] : Interpret basic data displays (such as dot plots) to discuss clustering and differences in the data as part of statistical thinking.
+- **Descriptive Statistics** [0.6] : Summarize data by graphing (e.g., dot plots) and by using numbers such as an average.
+- **Descriptive Statistics** [0.6] : Calculate a simple average to numerically summarize a small dataset.
+- **Inferential Statistics** [0.6] : Define inferential statistics as formal methods for drawing conclusions from good data using probability.
+- **Inferential Statistics** [0.6] : Describe how inferential statistics use probability to assess confidence in conclusions.
+- **Inferential Statistics** [0.6] : Differentiate inferential statistics from descriptive statistics by their goals of drawing conclusions versus organizing and summarizing data.
+- **Statistical Inference** [0.5] : Define statistical inference as using probability to determine how confident we can be that conclusions from sample data are correct.
+- **Statistical Inference** [0.5] : Describe the role of probability in supporting valid interpretation of data.
+- **Statistical Inference** [0.5] : Differentiate statistical inference from descriptive summarization of data in study examples.
+- **Probability** [0.7] : Define probability as a mathematical tool used to study randomness and the likelihood of events.
+- **Probability** [0.7] : Describe the long-run pattern of outcomes in repeated random trials using coin-toss examples.
+- **Population** [0.9] : Define a population as the entire collection of persons, things, or objects under study.
+- **Population** [0.9] : Differentiate a population from a sample in applied study scenarios.
+- **Sampling** [0.7] : Define sampling as selecting a portion (subset) of a larger population to study to gain information about the population.
+- **Sampling** [0.7] : Differentiate sampling from a census (examining an entire population) in terms of feasibility and purpose.
+- **Sample** [0.8] : Define a sample as the selected subset of the population used to study the population.
+- **Sample** [0.8] : Differentiate a representative sample from a non-representative one using given scenarios.
+- **Statistic** [0.9] : Define a statistic as a number that represents a property of a sample and estimates a population parameter.
+- **Statistic** [0.9] : Calculate a sample mean from provided data as an example of a statistic.
+- **Parameter** [0.9] : Define a parameter as a numerical characteristic of a population that can be estimated by a statistic.
+- **Parameter** [0.9] : Differentiate a parameter from a statistic in study contexts.
+- **Representative Sample** [0.6] : Define a representative sample as one that contains the characteristics of the population.
+- **Variable** [0.8] : Define a variable as a characteristic or measurement determined for each member of a population.
+- **Variable** [0.8] : Classify variables in examples as numerical or categorical.
+- **Numerical Variable** [0.6] : Define a numerical variable as one that takes on values with equal units such as weight in pounds or time in hours.
+- **Numerical Variable** [0.6] : Classify measurements like points earned or hours of sleep as numerical variables.
+- **Numerical Variable** [0.6] : Differentiate numerical variables from categorical variables by whether arithmetic operations are meaningful.
+- **Categorical Variable** [0.6] : Define a categorical variable as one that places a person or thing into a category.
+- **Categorical Variable** [0.6] : Differentiate categorical variables from numerical variables using examples such as party affiliation.
+- **Data** [0.8] : Define data as the actual values of variables resulting from sampling, and datum as a single value.
+- **Data** [0.8] : Exemplify data with values such as 5, 6.5, and 7 hours of sleep or $150, $200, and $225 spent.
+- **Mean** [0.7] : Define the mean as the arithmetic average found by adding values and dividing by the number of values.
+- **Mean** [0.7] : Calculate the mean of a small dataset (e.g., three exam scores) to one decimal place.
+- **Mean** [0.7] : Explain the common use of the word 'average' to refer to the arithmetic mean.
+- **Proportion** [0.7] : Calculate a proportion as the count in a category divided by the total (e.g., 22 out of 40).
+- **Proportion** [0.7] : Identify the category count and total needed to compute a proportion in a study scenario.
+
+---
+# Section: seg_7 Heading：1.2 data, sampling, and variation in data and sampling
+- **Qualitative Data** [0.9] : define qualitative data as data resulting from categorizing or describing attributes of a population
+- **Qualitative Data** [0.9] : classify data examples as qualitative when they are categorical labels such as hair color or blood type
+- **Categorical Data** [0.6] : define categorical data as another term for qualitative data consisting of named categories
+- **Categorical Data** [0.6] : describe the characteristics of categorical data, including representation by words or letters and the lack of meaningful arithmetic such as averaging
+- **Quantitative Data** [0.9] : define quantitative data as numerical data obtained by counting or measuring attributes
+- **Quantitative Data** [0.9] : classify data as quantitative when they are counts or measurements such as weight, pulse rate, or number of students
+- **Quantitative Data** [0.9] : differentiate quantitative data from qualitative data by recognizing that quantitative values are numbers amenable to mathematical analysis
+- **Quantitative Discrete Data** [0.9] : define quantitative discrete data as count-based numerical values that take on only certain numbers
+- **Quantitative Discrete Data** [0.9] : classify data as discrete when they arise from counting, such as number of phone calls or books
+- **Quantitative Continuous Data** [0.9] : define quantitative continuous data as measurement-based numerical values that may include fractions or decimals
+- **Quantitative Continuous Data** [0.9] : classify data as continuous when they result from measurements like length, weight, or time
+- **Quantitative Continuous Data** [0.9] : differentiate continuous from discrete data by recognizing the possibility of fractional values produced by measurement
+- **Pie Chart** [0.6] : define a pie chart as a circular graph with wedges proportional to category percentages that sum to 100% with no missing categories
+- **Pie Chart** [0.6] : explain when a pie chart is appropriate and when it is not, such as when percentages exceed or fall short of 100% or categories are missing
+- **Bar Graph** [0.7] : define a bar graph as a graph with bars whose lengths represent the number or percent in each category
+- **Bar Graph** [0.7] : interpret bar graphs to compare category sizes, including cases with percentages exceeding 100% or with missing categories
+- **Pareto Chart** [0.6] : define a Pareto chart as a bar graph with categories sorted from largest to smallest
+- **Pareto Chart** [0.6] : differentiate a Pareto chart from an unsorted bar graph by its descending order of bar heights that enhances readability
+- **Relative Frequency** [0.6] : define relative frequency as the percentage or proportion for a category
+- **Relative Frequency** [0.6] : compare categories across groups using relative frequencies to account for different totals
+- **Sample** [0.9] : define a sample as a subset intended to represent a population
+- **Sample** [0.9] : classify scenarios as involving a sample versus a population based on whether a subset or the entire group is used
+- **Random Sampling** [0.9] : define random sampling as selection methods in which each population member initially has an equal chance of being chosen
+- **Random Sampling** [0.9] : classify sampling methods as random or non-random based on their selection process
+- **Random Sampling** [0.9] : execute a random sampling procedure using random numbers or a calculator function to select members from a list
+- **Simple Random Sample** [0.9] : define a simple random sample as one where every group of n individuals has an equal chance of selection
+- **Simple Random Sample** [0.9] : construct a simple random sample from a roster using random digits or a random number generator
+- **Stratified Sample** [0.8] : define a stratified sample as one obtained by dividing the population into strata and selecting a proportionate number from each
+- **Stratified Sample** [0.8] : classify examples as stratified sampling when selection is made proportionately within groups
+- **Stratified Sample** [0.8] : construct a stratified sample by identifying strata and drawing proportionate simple random samples within each
+- **Strata** [0.5] : define strata as groups within a population used for stratified sampling
+- **Strata** [0.5] : describe ways to form strata, such as by department or class year, to reflect relevant subgroups
+- **Cluster Sample** [0.8] : define a cluster sample as one formed by randomly selecting clusters and including all members within selected clusters
+- **Cluster Sample** [0.8] : classify sampling scenarios as cluster sampling when entire groups are selected and fully included
+- **Cluster Sample** [0.8] : implement a cluster sampling plan by numbering clusters, randomly selecting some, and surveying all members in those clusters
+- **Systematic Sample** [0.8] : define a systematic sample as one created by randomly choosing a start and selecting every nth member from a list
+- **Systematic Sample** [0.8] : classify examples as systematic sampling when every nth item is chosen after a random start
+- **Systematic Sample** [0.8] : implement a systematic sample by picking a random start and taking every nth entry until the desired sample size is reached
+- **Convenience Sampling** [0.8] : define convenience sampling as using readily available respondents, noting that it may be biased
+- **Sampling With Replacement** [0.5] : define sampling with replacement as returning each selected member to the population so it may be chosen again
+- **Sampling With Replacement** [0.5] : compare sampling with and without replacement in terms of selection probabilities and when their results are approximately equivalent
+- **Sampling Without Replacement** [0.5] : define sampling without replacement as selecting each member at most once
+- **Sampling Without Replacement** [0.5] : compare without-replacement and with-replacement sampling, noting larger differences in small populations
+- **Sampling Without Replacement** [0.5] : calculate selection probabilities in without-replacement sampling for given population and sample sizes to four decimal places
+- **Sampling Error** [0.7] : define sampling error as error due to the sampling process itself, such as using an insufficient sample size
+- **Sampling Error** [0.7] : differentiate sampling error from nonsampling error in study descriptions
+- **Nonsampling Error** [0.6] : define nonsampling error as error from factors not related to sampling, such as a defective counting device
+- **Nonsampling Error** [0.6] : differentiate nonsampling error from sampling error using provided examples
+- **Sampling Bias** [0.8] : define sampling bias as occurring when some population members are not as likely to be chosen as others
+- **Sampling Bias** [0.8] : explain how sampling bias can lead to incorrect conclusions about the population
+- **Problems With Samples** [0.7] : identify common problems that make samples unrepresentative, such as bias and self-selection
+- **Problems With Samples** [0.7] : explain why non-representative (biased) samples yield inaccurate and invalid results
+- **Self-Selected Samples** [0.6] : define self-selected samples as those with responses only from people who choose to participate
+- **Sample Size Issues** [0.7] : define sample size issues as concerns that arise when samples are too small to be reliable
+- **Sample Size Issues** [0.7] : explain why larger random samples are generally better and when small samples may still be used
+- **Undue Influence** [0.5] : define undue influence as collecting data or asking questions in ways that sway responses
+- **Non-Response** [0.6] : define non-response as refusal or failure to participate in a study
+- **Non-Response** [0.6] : explain how non-response can make collected responses non-representative
+- **Causality** [0.6] : define causality as a cause-and-effect relationship and note that correlation alone does not establish it
+- **Causality** [0.6] : explain why a relationship between variables does not imply causation and how other variables may be involved
+- **Self-Funded Or Self-Interest Studies** [0.5] : define self-funded or self-interest studies as studies conducted by parties seeking to support a claim
+- **Self-Funded Or Self-Interest Studies** [0.5] : describe how to evaluate such studies for impartiality by examining the work and evidence presented
+- **Misleading Use Of Data** [0.6] : identify misleading uses of data such as improper graphs, incomplete data, or lack of context
+- **Misleading Use Of Data** [0.6] : explain how misleading displays or missing context can distort interpretation of results
+- **Confounding** [0.6] : define confounding as the inability to separate the effects of multiple factors on a response
+- **Confounding** [0.6] : describe scenarios in which confounding prevents valid conclusions about the effect of each factor
+- **Variation In Data** [0.7] : define variation in data as natural differences in measurements or counts
+- **Variation In Data** [0.7] : describe sources of variation such as measurement differences or manufacturing variability
+- **Variation In Samples** [0.8] : define variation in samples as natural differences between random samples drawn from the same population
+- **Variation In Samples** [0.8] : explain why two well-designed random samples can differ and how larger samples tend to reduce variability
+- **Sample Size** [0.8] : define sample size as the number of observations in a sample
+- **Sample Size** [0.8] : describe the role of sample size in analysis, including that larger random samples reduce sampling error and typical polling sizes are about 1,200 to 1,500
+
+---
+# Section: seg_9 Heading：1.3 frequency, frequency tables, and levels of measurement
+- **Level Of Measurement** [0.8] : Define levels of measurement and their role in selecting appropriate statistical procedures.
+- **Level Of Measurement** [0.8] : Describe the four levels of measurement (nominal, ordinal, interval, ratio) and allowable statistical operations at each level.
+- **Nominal Scale Level** [0.7] : Define the nominal scale level as unordered qualitative categories that are not used in calculations.
+- **Nominal Scale Level** [0.7] : Describe examples of nominal data and the lack of meaningful order or arithmetic.
+- **Ordinal Scale Level** [0.7] : Define the ordinal scale level as ordered categories without measurable differences and not used in calculations.
+- **Ordinal Scale Level** [0.7] : Compare ordinal and nominal scales with respect to order and measurability of differences.
+- **Interval Scale Level** [0.7] : Define the interval scale level as ordered data with measurable differences, no true zero, and meaningless ratio statements.
+- **Interval Scale Level** [0.7] : Compare interval and ratio scales regarding the presence of a true zero and legitimacy of ratio comparisons.
+- **Ratio Scale Level** [0.7] : Define the ratio scale level as ordered data with meaningful differences and a true zero that permits ratios and calculations.
+- **Ratio Scale Level** [0.7] : Compare ratio and interval scales for the meaningfulness of statements like 'twice as much'.
+- **Frequency** [0.9] : Define frequency as the number of occurrences of a data value in a dataset.
+- **Frequency** [0.9] : Calculate frequencies from data with a total equal to the number of observations.
+- **Relative Frequency** [0.9] : Define relative frequency as a value’s frequency divided by the total number of outcomes, expressible as a fraction, percent, or decimal.
+- **Relative Frequency** [0.9] : Calculate relative frequencies from a frequency table with sums approximately 1 when rounding occurs.
+- **Relative Frequency** [0.9] : Interpret relative frequencies in context, including fraction, percent, and decimal forms.
+- **Cumulative Relative Frequency** [0.8] : Define cumulative relative frequency as the accumulation of relative frequencies up to a given value.
+- **Cumulative Relative Frequency** [0.8] : Calculate cumulative relative frequencies by sequential addition of relative frequencies with a final entry of about 1.
+- **Cumulative Relative Frequency** [0.8] : Interpret cumulative relative frequencies for percentages below, between, or above specified values.
+- **Frequency Table** [1.0] : Construct a frequency table from raw data, including optional relative and cumulative relative frequency columns.
+- **Frequency Table** [1.0] : Interpret a frequency table for counts, relative percentages, and cumulative percentages over values or intervals.
+- **Rounding Off Rules** [0.6] : State the rounding rule for final answers and intermediate results, including required decimal places.
+- **Rounding Off Rules** [0.6] : Describe conditions for carrying extra decimal places in intermediate results.
+- **Rounding Off Rules** [0.6] : Use the rounding rules when computing averages, relative frequencies, and cumulative relative frequencies.
+
+---
+# Section: seg_11 Heading：1.4 experimental design and ethics
+- **Randomized Experiment** [0.9] : define a randomized experiment as a study in which the researcher manipulates the explanatory variable (treatments), randomly assigns experimental units, and measures resulting changes in the response variable
+- **Randomized Experiment** [0.9] : explain how randomized experiments, using random assignment and appropriate controls, can isolate the explanatory variable and establish cause-and-effect
+- **Randomized Experiment** [0.9] : design a basic randomized experiment that specifies experimental units, explanatory and response variables, treatments (including a control/placebo when appropriate), random assignment, and blinding if feasible
+- **Explanatory Variable** [0.9] : define the explanatory variable as the variable manipulated or used to explain change in the response variable
+- **Explanatory Variable** [0.9] : describe the role of the explanatory variable in causing changes measured in the response variable
+- **Response Variable** [0.9] : define the response variable as the outcome measured for experimental units that is affected by the explanatory variable
+- **Response Variable** [0.9] : describe how the response variable is recorded and used to compare outcomes across treatments
+- **Treatments** [0.8] : define treatments as the different values or conditions of the explanatory variable applied to experimental units
+- **Experimental Unit** [0.7] : define an experimental unit as a single object or individual being measured in an experiment
+- **Lurking Variables** [0.8] : define lurking variables as additional variables, other than the explanatory variable, that can cloud a study’s results
+- **Lurking Variables** [0.8] : explain how lurking variables can bias comparisons and how random assignment helps distribute them equally across treatment groups
+- **Random Assignment** [1.0] : define random assignment as randomly allocating experimental units to treatment groups to balance lurking variables
+- **Random Assignment** [1.0] : explain why random assignment isolates the explanatory variable and supports valid cause-and-effect conclusions
+- **Control Group** [0.7] : define a control group as a group that receives a placebo or inactive treatment to balance the effects of participation in the experiment
+- **Control Group** [0.7] : explain how a control group with a placebo helps separate the effect of the active treatment from expectation effects
+- **Placebo** [0.6] : define a placebo as a treatment that cannot influence the response variable
+- **Placebo** [0.6] : explain the purpose of a placebo in controlling for participants’ expectations
+- **Blinding** [0.7] : define blinding as keeping participants or researchers unaware of who receives active treatments or a placebo
+- **Blinding** [0.7] : explain how blinding reduces bias from expectations when measuring the response
+- **Double-Blind Experiment** [0.5] : define a double-blind experiment as one in which both subjects and researchers interacting with them are blinded to treatment assignment
+- **Double-Blind Experiment** [0.5] : describe how double-blind procedures control expectation effects for both participants and researchers
+- **Institutional Review Board (IRB)** [0.7] : define an Institutional Review Board (IRB) as an oversight committee that must approve human-subject studies in advance to ensure participant safety
+- **Institutional Review Board (IRB)** [0.7] : describe the IRB’s role in enforcing protections such as risk minimization, informed consent, and privacy
+- **Risk Minimization** [0.6] : define risk minimization as the requirement that risks to participants be minimized and reasonable relative to projected benefits
+- **Informed Consent** [0.7] : define informed consent as the process of clearly explaining risks to participants, obtaining written consent, and keeping documentation
+- **Informed Consent** [0.7] : describe the required elements of informed consent, including clear communication of risks, written consent, and maintained documentation
+- **Privacy Protection** [0.6] : define privacy protection as the requirement to guard data collected from individuals carefully to protect their privacy
+- **Privacy Protection** [0.6] : explain practical challenges in protecting privacy, such as whether removing names is sufficient and the possibility of re-identification
+- **Falsifying Data** [0.8] : identify forms of data falsification such as creating or altering data, changing instruments without reporting, or misrepresenting the number of subjects
+- **Falsifying Data** [0.8] : describe how falsifying data undermines the reliability of results and why adherence to proper methods and oversight is essential
+
+---
+# Section: seg_13 Heading：1.5 data collection experiment
+- **Systematic Sampling Technique** [0.8] : Demonstrate the systematic sampling technique by selecting a random starting name and moving down four names repeatedly on the class list to gather the sample.
+- **Relative Frequency Table** [0.9] : Construct relative frequency tables that include frequency, relative frequency, and cumulative relative frequency for the class movie-count data using specified categories.
+- **Relative Frequency Table** [0.9] : Interpret relative frequency tables to determine the percent at most or more than a given movie count using the appropriate grouping.
+- **Frequency** [0.6] : Construct frequency counts for each movie-count category from the collected class data.
+- **Frequency** [0.6] : Interpret frequency counts to compare how often different movie-count categories occur.
+- **Relative Frequency** [0.7] : Construct relative frequencies (percents) for each movie-count category from the class data.
+- **Relative Frequency** [0.7] : Interpret relative frequencies as the percent of observations in each movie-count category to compare categories.
+- **Cumulative Relative Frequency** [0.8] : Construct cumulative relative frequencies across ordered movie-count categories.
+- **Cumulative Relative Frequency** [0.8] : Interpret cumulative relative frequencies to find the percent of data at most a given number of movies.
+- **Data Grouping** [0.9] : Construct data groupings using single-value categories and combined intervals (for example, 0–1, 2–3, 4–5, 6–7+) for tabulating the movie-count data.
+- **Data Grouping** [0.9] : Interpret how different data groupings affect frequencies and percents and why one grouping may be preferred for a given question.
+
+---
+# Section: seg_15 Heading：1.6 sampling experiment
+- **Simple Random Sampling** [1.0] : Define simple random sampling as assigning labels to all population members and using a random number generator to select the sample so every member has an equal chance.
+- **Simple Random Sampling** [1.0] : Explain the procedure for simple random sampling, including labeling the population and using a random number generator to select the required number of labels.
+- **Simple Random Sampling** [1.0] : Demonstrate simple random sampling by executing a step-by-step selection of individuals from a numbered population list using a random number generator.
+- **Systematic Sampling** [0.9] : Demonstrate systematic sampling by computing k = (population size)/(desired sample size), choosing a random start, and selecting every kth individual from a population list.
+- **Systematic Sampling** [0.9] : Explain how to list the population, choose a random starting point, calculate k, and select every kth individual, wrapping to the beginning if needed.
+- **Stratified Sampling** [1.0] : Demonstrate stratified sampling by dividing the population into strata and using simple random sampling to select a proportionate number from each stratum.
+- **Stratified Sampling** [1.0] : Explain how stratified sampling ensures adequate representation of subgroups and outline the steps to implement it.
+- **Cluster Sampling** [0.9] : Demonstrate cluster sampling by randomly selecting clusters from a defined set of clusters and including all individuals within the selected clusters.
+- **Cluster Sampling** [0.9] : Explain the steps of cluster sampling, including defining clusters, using simple random sampling to select clusters, and sampling all members within chosen clusters.
+- **Cluster Sampling** [0.9] : Identify appropriate clusters in a population and scenarios where cluster sampling is suitable.
+- **Random Sampling** [0.8] : Demonstrate random sampling by implementing a selection process that gives every population member an equal chance, such as using a random number generator.
+- **Random Sampling** [0.8] : Explain the principle of random sampling and its role in producing representative samples.
+- **Population** [0.5] : Identify the population in a described study scenario.
+- **Population** [0.5] : Describe the population under study by specifying the individuals, objects, or measurements whose properties are being examined.
+- **Sample** [0.6] : Define a sample as a subset of the population used to draw conclusions about the population.
+- **Sample** [0.6] : Construct a valid sample from a defined population using an appropriate sampling method and briefly document the selection procedure.
+
+---
+# Chapter: seg_17 Heading：chapter 2: descriptive statistics
+
+---
+# Section: seg_19 Heading：2.1 stem-and-leaf graphs (stemplots), line graphs, and bar graphs
+- **Stem-And-Leaf Graph (Stemplot)** [0.9] : Construct a stem-and-leaf graph for a small data set by dividing each observation into a stem and a leaf (final significant digit), listing stems vertically from smallest to largest, and ordering leaves for each stem.
+- **Stem-And-Leaf Graph (Stemplot)** [0.9] : Identify the stem and leaf for a given numerical observation, including decimals, in the context of a stem-and-leaf graph.
+- **Stem-And-Leaf Graph (Stemplot)** [0.9] : Interpret a stem-and-leaf graph to describe concentrations of values and note any observations that appear to be outliers.
+- **Stem** [0.6] : Define a stem as the part of a number that precedes the final significant digit in a stemplot.
+- **Stem** [0.6] : Construct the stem column by listing stems in a vertical line from smallest to largest for a given data set.
+- **Leaf** [0.6] : Define a leaf as the final significant digit of an observation in a stemplot.
+- **Leaf** [0.6] : Construct the leaves for each stem by placing the final digits in increasing order next to their corresponding stem.
+- **Side-By-Side Stem-And-Leaf Plot** [0.5] : Define a side-by-side stem-and-leaf plot as two sets of leaves sharing the same stems with leaves displayed on both sides.
+- **Side-By-Side Stem-And-Leaf Plot** [0.5] : Construct a side-by-side stem-and-leaf plot for two data sets using shared stems and placing leaves on the left and right.
+- **Side-By-Side Stem-And-Leaf Plot** [0.5] : Compare two data sets using a side-by-side stem-and-leaf plot by examining differences in how leaves cluster around shared stems.
+- **Outlier** [0.5] : Define an outlier as an observation that does not fit the pattern of the rest of the data and may indicate a mistake or an unusual event.
+- **Line Graph** [0.7] : Define a line graph as a display with data values on the x-axis, frequencies on the y-axis, and frequency points connected by line segments.
+- **Line Graph** [0.7] : Construct a line graph from a frequency table by plotting data values on the x-axis, frequencies on the y-axis, and connecting the points with line segments.
+- **Line Graph** [0.7] : Describe the frequency pattern displayed by a line graph for specific data values.
+- **Bar Graph** [0.8] : Construct a bar graph with separated vertical or horizontal bars to display counts or proportions for categories.
+- **Bar Graph** [0.8] : Describe how bar height and orientation represent counts or proportions for categories in a bar graph.
+- **Bar Graph** [0.8] : Define a bar graph as a display of separated bars that may be rectangular or rectangular boxes (in three-dimensional plots) and oriented vertically or horizontally.
+
+---
+# Section: seg_21 Heading：2.2 histograms, frequency polygons, and time series graphs
+- **Histogram** [1.0] : Define a histogram as a graph of contiguous boxes with the horizontal axis labeled by what the data represent and the vertical axis labeled frequency or relative frequency, used to display large data sets and show shape, center, and spread.
+- **Histogram** [1.0] : Construct a histogram by choosing an appropriate number of classes, selecting a starting point with additional decimal precision, determining class width, setting boundaries, and plotting frequencies or relative frequencies with left-inclusive, right-exclusive class intervals.
+- **Frequency** [0.6] : Define frequency as the number of times an answer occurs.
+- **Frequency** [0.6] : Calculate frequency counts by tallying how many times each observed value occurs in the data.
+- **Relative Frequency** [0.7] : Define relative frequency as the ratio of a value’s frequency to the total number of data values (RF = f/n).
+- **Relative Frequency** [0.7] : Calculate relative frequency for each observed value by dividing its frequency by the total sample size and, if desired, express it as a percentage.
+- **Class Interval (Class)** [0.8] : Define a class interval (class) as one of the bars or grouped intervals that represent ranges of data values in a histogram.
+- **Class Interval (Class)** [0.8] : Calculate class intervals by applying the chosen starting point and class width across the data range to establish contiguous boundaries.
+- **Class Width** [0.8] : Define class width as the quantity (ending value − starting point) divided by the number of bars.
+- **Class Width** [0.8] : Calculate class width from the starting point, ending value, and chosen number of classes, rounding appropriately to avoid boundary issues.
+- **Starting Point (Histogram)** [0.7] : Define the starting point as a first class boundary chosen to be less than the smallest data value and carried to one more decimal place than the most precise data value.
+- **Starting Point (Histogram)** [0.7] : Calculate a convenient starting point by selecting a value less than the minimum and using one more decimal place than the most precise data value (e.g., subtract 0.05 when data have one decimal place).
+- **Starting Point (Histogram)** [0.7] : Explain how choosing a starting point with additional decimal precision less than the minimum helps prevent data values from falling on class boundaries.
+- **Class Boundaries Convention** [0.7] : Define the class boundaries convention as carrying boundaries to one additional decimal place and counting values on the left boundary but not on the right boundary.
+- **Class Boundaries Convention** [0.7] : Explain why extending boundaries to an extra decimal place and using left-inclusive, right-exclusive intervals prevents data values from landing on boundaries and ensures consistent binning.
+- **Class Boundaries Convention** [0.7] : Use the left-inclusive, right-exclusive boundary convention with extra decimal precision when assigning data to histogram classes.
+- **Number Of Classes** [0.6] : Calculate an appropriate number of classes using the square-root-of-n guideline with rounding and by ensuring the choice falls within a clear range such as five to 15 bars.
+- **Number Of Classes** [0.6] : State that many histograms use five to 15 classes and that a guideline for choosing the number of intervals is the square root of the number of data values, rounded.
+- **Continuous Data** [0.5] : Classify data as continuous when values are obtained by measurement.
+- **Continuous Data** [0.5] : Differentiate continuous data from discrete data by noting that continuous values come from measurement whereas discrete values come from counting.
+- **Continuous Data** [0.5] : Identify examples of continuous data such as measured heights or shoe sizes.
+- **Discrete Data** [0.5] : Define discrete data as data obtained by counting.
+- **Discrete Data** [0.5] : Classify data sets as discrete when they consist of counts, such as number of books purchased or number of sports played.
+- **Discrete Data Class Boundaries** [0.7] : Calculate class boundaries for integer data by subtracting 0.5 from the smallest value and adding 0.5 to the largest value, and choose a width that centers integers within intervals.
+- **Frequency Polygon** [0.6] : Construct a frequency polygon by choosing class intervals, plotting the data points, and connecting them with line segments, adding end intervals as needed to touch the x-axis.
+- **Frequency Polygon** [0.6] : Compare distributions by overlaying multiple frequency polygons on the same axes to assess differences in shape and center.
+- **Time Series Graph** [0.7] : Construct a time series graph by plotting time on the horizontal axis, the measured values on the vertical axis, and connecting points in chronological order.
+- **Time Series Graph** [0.7] : Define a time series graph as a display that recognizes chronological ordering by plotting time on the x-axis and measured values on the y-axis, with points connected in order.
+- **Time Series Graph** [0.7] : Describe how a time series graph displays changes over time by pairing each time point with its measured value and connecting successive points.
+- **Uses Of A Time Series Graph** [0.5] : Describe the use of time series graphs for making trends in data recorded over time easy to spot.
+- **Uses Of A Time Series Graph** [0.5] : Identify situations where time series graphs are appropriate, such as tracking monthly or daily measurements over an extended period.
+
+---
+# Section: seg_23 Heading：2.3 measures of the location of the data
+- **Measures Of Location** [0.7] : define measures of location as quartiles and percentiles that describe the position of data in an ordered set
+- **Measures Of Location** [0.7] : calculate quartiles and percentiles for ordered data sets to summarize data position
+- **Measures Of Location** [0.7] : interpret measures of location to describe relative standing within a data set and compare values across contexts
+- **Percentiles** [0.9] : define percentiles as values that divide ordered data into hundredths, with the pth percentile having at most p percent of observations at or below it
+- **Percentiles** [0.9] : calculate specified percentiles from ordered or tabulated data using appropriate indexing procedures
+- **Percentiles** [0.9] : interpret a given percentile as indicating the percentage of observations at or below a value and the percentage above it in context
+- **Quartiles** [0.9] : define quartiles as special percentiles that divide ordered data into four equal parts (Q1, median, Q3)
+- **Quartiles** [0.9] : calculate Q1, the median, and Q3 from an ordered data set by locating the medians of the lower and upper halves
+- **Quartiles** [0.9] : interpret quartiles as markers of the proportions of data at or below and above these values in an ordered set
+- **First Quartile (Q1)** [0.8] : define the first quartile (Q1) as the 25th percentile and the median of the lower half of ordered data
+- **First Quartile (Q1)** [0.8] : calculate Q1 for an ordered data set by identifying the median of the lower half
+- **First Quartile (Q1)** [0.8] : interpret Q1 in context as a value with about 25 percent of observations at or below it and 75 percent at or above it
+- **Median (Second Quartile, 50th Percentile)** [0.8] : define the median as the 50th percentile that splits ordered data into two halves and may not be an observed value
+- **Median (Second Quartile, 50th Percentile)** [0.8] : calculate the median for data sets of even or odd size by ordering values and locating the middle position
+- **Median (Second Quartile, 50th Percentile)** [0.8] : interpret the median as the central value with half of observations at or below and half at or above
+- **Third Quartile (Q3)** [0.8] : define the third quartile (Q3) as the 75th percentile and the median of the upper half of ordered data
+- **Third Quartile (Q3)** [0.8] : calculate Q3 for an ordered data set by identifying the median of the upper half
+- **Third Quartile (Q3)** [0.8] : interpret Q3 in context as a value with about 75 percent of observations at or below it and 25 percent above it
+- **Interquartile Range (IQR)** [0.8] : calculate the interquartile range as IQR = Q3 − Q1 to measure the spread of the middle 50 percent of data
+- **Interquartile Range (IQR)** [0.8] : compare IQRs across groups to judge which data set shows greater variability in the middle half of the distribution
+- **Interquartile Range (IQR)** [0.8] : detect potential outliers using the rule based on Q1 − 1.5(IQR) and Q3 + 1.5(IQR)
+- **Potential Outlier** [0.6] : define a potential outlier as a data point notably different from the rest that warrants further investigation
+- **Potential Outlier** [0.6] : calculate lower and upper fences using Q1 − 1.5(IQR) and Q3 + 1.5(IQR) to flag suspected outliers
+- **Five-Number Summary** [0.5] : define the five-number summary as the minimum, Q1, median, Q3, and maximum of a data set
+- **Five-Number Summary** [0.5] : calculate the five-number summary for an ordered data set
+- **Five-Number Summary** [0.5] : interpret the five-number summary to describe a distribution’s center and spread
+- **Kth Percentile Index Formula** [0.7] : calculate a kth percentile by computing i = (k/100)(n + 1) and, if needed, averaging the surrounding ordered values
+- **Kth Percentile Index Formula** [0.7] : explain how the index i = (k/100)(n + 1) locates a percentile’s position and when averaging of adjacent data values is required
+- **Kth Percentile Index Formula** [0.7] : state the kth percentile index formula i = (k/100)(n + 1) and its integer versus non-integer cases
+- **Percentile Rank Formula** [0.6] : calculate the percentile rank of a value using ((x + 0.5y)/n) × 100 and round to the nearest integer
+- **Percentile Rank Formula** [0.6] : interpret a computed percentile rank as the proportion of observations at or below a given value within the data set
+- **Interpreting Percentiles** [0.7] : interpret percentiles as indicators of relative standing, recognizing that whether a percentile is good or bad depends on context
+- **Interpreting Percentiles** [0.7] : define the meaning of a percentile as the percentage of data at or below a value rather than an absolute performance measure
+- **Percentile Interpretation Elements** [0.5] : list the essential elements of a percentile interpretation: context, the data value, percent below, and percent above
+- **Percentile Interpretation Elements** [0.5] : interpret a percentile by explicitly stating the context, the value, and the percentages below and above it
+- **Percentile Interpretation Elements** [0.5] : compose a complete context-specific sentence that correctly communicates a percentile with the required elements
+
+---
+# Section: seg_25 Heading：2.4 box plots
+- **Box Plot (Box-And-Whisker Plot)** [1.0] : construct a box plot on a scaled number line from the minimum, first quartile, median, third quartile, and maximum
+- **Box Plot (Box-And-Whisker Plot)** [1.0] : interpret a box plot to describe data concentration, quartile spreads, and the distance of extreme values from most of the data
+- **Five Values For Box Plots** [0.9] : list the five values used to construct a box plot: minimum, first quartile, median, third quartile, and maximum
+- **Five Values For Box Plots** [0.9] : calculate the minimum, first quartile, median, third quartile, and maximum for a given dataset, for example using a graphing calculator
+- **Five Values For Box Plots** [0.9] : describe how the five values determine the edges of the box, the whiskers, and the median line in a box plot
+- **Minimum Value** [0.5] : identify the minimum value in a dataset and locate it on a box plot
+- **Minimum Value** [0.5] : use the minimum value to set the lower axis endpoint and the lower whisker limit when constructing a box plot
+- **Minimum Value** [0.5] : describe the role of the minimum value in positioning the lower whisker and scaling the axis
+- **Maximum Value** [0.5] : define the maximum value as the largest data value used as an axis endpoint and upper whisker limit in a box plot
+- **Maximum Value** [0.5] : use the maximum value to set the upper axis endpoint and the upper whisker limit when constructing a box plot
+- **First Quartile (Q1)** [0.8] : define the first quartile (Q1) as the value marking one end of the box, with approximately 25% of the data between the minimum and Q1
+- **First Quartile (Q1)** [0.8] : use the first quartile to locate the left edge of the box and to help determine the interquartile range
+- **Median (Q2)** [0.7] : define the median (Q2) as the second quartile shown inside the box that may coincide with the first or third quartile
+- **Median (Q2)** [0.7] : compute the median for a given dataset
+- **Third Quartile (Q3)** [0.8] : calculate the third quartile (Q3) for a given dataset
+- **Third Quartile (Q3)** [0.8] : identify the third quartile on a box plot as the right edge of the box
+- **Third Quartile (Q3)** [0.8] : interpret the third quartile as a value above which approximately 25% of the data lie
+- **Whiskers** [0.6] : define whiskers as line segments extending from the ends of the box to the smallest and largest data values, unless outliers are marked with dots
+- **Whiskers** [0.6] : describe how whiskers indicate the distance to the extreme values and how they change when outliers are plotted
+- **Interquartile Range (IQR)** [0.8] : define the interquartile range (IQR) as Q3 − Q1, representing the spread of the middle 50% of the data
+- **Interquartile Range (IQR)** [0.8] : calculate the interquartile range from given Q1 and Q3 values
+- **Interquartile Range (IQR)** [0.8] : compare interquartile ranges across box plots to determine which dataset has greater variability in the middle 50%
+- **Middle 50%** [0.8] : identify the middle 50% of the data as the portion between the first and third quartiles inside the box
+- **Middle 50%** [0.8] : calculate the spread of the middle 50% using Q3 − Q1
+- **Middle 50%** [0.8] : compare the widths of the boxes in two box plots to determine which has a larger spread for the middle 50%
+- **Tied Values In Box Plots** [0.5] : identify when the minimum, quartiles, median, or maximum are equal in a dataset or box plot
+- **Tied Values In Box Plots** [0.5] : describe how tied values, such as the median equaling the third quartile, affect the appearance of the box plot
+- **Quartile Proportions** [0.6] : state that each quartile contains approximately 25% of the data
+- **Quartile Proportions** [0.6] : describe how data are partitioned into four quarters between the minimum, first quartile, median, third quartile, and maximum
+
+---
+# Section: seg_27 Heading：2.5 measures of the center of the data
+- **Arithmetic Mean (Average)** [0.9] : Calculate the arithmetic mean of a data set by summing all values and dividing by the number of values.
+- **Arithmetic Mean (Average)** [0.9] : Define the arithmetic mean (average) as the sum of all data values divided by the number of values.
+- **Arithmetic Mean (Average)** [0.9] : Compare the mean and the median as measures of center, including their behavior in the presence of outliers.
+- **Sample Mean (X̄)** [0.7] : Calculate the sample mean x̄ from given sample data.
+- **Sample Mean (X̄)** [0.7] : Define the sample mean x̄ as the arithmetic mean of a sample and a statistic used to estimate the population mean μ when the sample is truly random.
+- **Population Mean (Μ)** [0.5] : Identify μ as the symbol denoting the population mean.
+- **Population Mean (Μ)** [0.5] : Calculate the population mean when all population data values are provided by summing the values and dividing by the population size.
+- **Population Mean (Μ)** [0.5] : Differentiate between the sample mean x̄ and the population mean μ in notation and the scope of data they summarize.
+- **Mean Calculation Using Frequencies** [0.6] : Calculate a mean using frequencies by multiplying each distinct value by its frequency, summing the products, and dividing by the total number of data values.
+- **Mean Calculation Using Frequencies** [0.6] : Define mean calculation using frequencies as computing the mean from distinct values and their frequencies.
+- **Mean Calculation Using Frequencies** [0.6] : Describe when and how to compute a mean from repeated values using their frequencies.
+- **Median** [0.9] : Define the median as the value that splits ordered data into two equal parts, using the middle value for odd n and the average of the two middle values for even n.
+- **Median** [0.9] : Calculate the median of an ordered data set for both odd and even sample sizes.
+- **Median** [0.9] : Compare the median and the mean regarding robustness to outliers and suitability as measures of center.
+- **Median Location Formula** [0.7] : Calculate the location of the median in ordered data using (n + 1) / 2.
+- **Median Location Formula** [0.7] : State that the median’s location in ordered data is (n + 1) / 2 and is not the same as the median’s value.
+- **Median Location Formula** [0.7] : Differentiate between the location of the median and the value of the median.
+- **Mode** [0.6] : Define the mode as the most frequent value in a data set, noting that multiple modes can occur and that it applies to qualitative and quantitative data.
+- **Mode** [0.6] : Calculate the mode or modes of a data set, including identifying bimodal cases.
+- **Mode** [0.6] : Classify a data set as unimodal or bimodal based on the frequencies of its values.
+- **Frequency Table** [0.6] : Define a frequency table as a grouped data representation listing intervals and their corresponding frequencies.
+- **Frequency Table** [0.6] : Calculate the total number of data values represented in a frequency table by summing the interval frequencies.
+- **Midpoint Of An Interval** [0.6] : Define the midpoint of an interval as the average of its lower and upper boundaries.
+- **Midpoint Of An Interval** [0.6] : Calculate the midpoint of a class interval from its lower and upper boundaries.
+- **Mean Of A Grouped Frequency Table** [0.8] : Calculate the estimated mean of grouped data as Σ(fm) / Σf using interval midpoints and frequencies.
+- **Mean Of A Grouped Frequency Table** [0.8] : Describe why the mean computed from a grouped frequency table is an estimate and how midpoints approximate unknown individual values.
+
+---
+# Section: seg_29 Heading：2.6 skewness and the mean, median, and mode
+- **Symmetrical Distribution** [0.7] : Define a symmetrical distribution as one in which a vertical line can be drawn so the left and right shapes are mirror images of each other.
+- **Symmetrical Distribution** [0.7] : Describe a symmetrical distribution by noting that its histogram has mirror-image shapes on either side of a vertical line.
+- **Skewed To The Left** [0.8] : Define a left-skewed distribution as one that is pulled out to the left.
+- **Skewed To The Left** [0.8] : Describe a left-skewed distribution as having a tail pulled to the left.
+- **Skewed To The Right** [0.8] : Define a right-skewed distribution as one that is pulled out to the right.
+- **Skewed To The Right** [0.8] : Describe a right-skewed distribution as having a tail pulled to the right.
+- **Mean And Median In Perfectly Symmetrical Distribution** [0.6] : State that in a perfectly symmetrical distribution, the mean and the median are the same.
+- **Mean And Median In Perfectly Symmetrical Distribution** [0.6] : Describe how, in a perfectly symmetrical distribution, the mean and the median are equal.
+- **Mean Versus Median Sensitivity To Skewness** [0.9] : Describe that both the mean and the median reflect skewness, with the mean reflecting it more.
+- **Relative Order In Left-Skewed Distribution** [0.9] : State that, generally, in a left-skewed distribution, the mean is less than the median, which is often less than the mode.
+- **Relative Order In Left-Skewed Distribution** [0.9] : Describe the typical ordering in a left-skewed distribution as mean < median, with the mode often greater than both.
+- **Relative Order In Right-Skewed Distribution** [0.9] : State that, generally, in a right-skewed distribution, the mode is often less than the median, which is less than the mean.
+- **Relative Order In Right-Skewed Distribution** [0.9] : Describe the typical ordering in a right-skewed distribution as mode < median < mean.
+- **Median And Mean Positions Relative To Mode In Skewed Distributions** [0.6] : Describe that in skewed distributions, the median is closest to the high point (the mode), while the mean lies farther out on the tail.
+- **Median And Mean Positions Relative To Mode In Skewed Distributions** [0.6] : State that the median is closest to the high point (the mode) and the mean is farther out on the tail in skewed distributions.
+- **Mean And Median Location In Symmetrical Distribution** [0.5] : State that in a symmetrical distribution, the mean and the median are centrally located close to the high point of the distribution.
+- **Mean And Median Location In Symmetrical Distribution** [0.5] : Describe how, in a symmetrical distribution, the mean and median are centrally located near the distribution’s high point.
+
+---
+# Section: seg_31 Heading：2.7 measures of the spread of the data
+- **Standard Deviation** [1.0] : define the standard deviation as a nonnegative measure of overall variation indicating how far data values are from the mean
+- **Standard Deviation** [1.0] : calculate the standard deviation for a data set using the appropriate sample or population formula or technology
+- **Standard Deviation** [1.0] : interpret the size of the standard deviation to judge whether data values are concentrated near or spread out from the mean
+- **Deviation** [0.7] : define a deviation as the difference between a value and the mean (x − x̄ for a sample, x − μ for a population)
+- **Deviation** [0.7] : calculate deviations for all observations in a data set
+- **Deviation** [0.7] : interpret the sign and magnitude of a deviation to indicate whether a value is above or below the mean and how far
+- **Variance** [0.8] : define variance as the average of the squared deviations (s² for a sample, σ² for a population), with standard deviation as its square root
+- **Variance** [0.8] : calculate sample or population variance from data, using frequencies when provided and dividing by n − 1 or N as appropriate
+- **Variance** [0.8] : differentiate sample variance from population variance in notation and in the divisor used (n − 1 versus N)
+- **Sample Standard Deviation** [0.8] : define the sample standard deviation s as the square root of the sample variance computed with denominator n − 1
+- **Sample Standard Deviation** [0.8] : calculate the sample standard deviation s from raw or frequency data using formulas or a calculator
+- **Sample Standard Deviation** [0.8] : differentiate when to use s versus σ and how their computations differ
+- **Population Standard Deviation** [0.6] : define the population standard deviation σ as the square root of the population variance computed with denominator N
+- **Population Standard Deviation** [0.6] : calculate the population standard deviation σ for a census of all values using formulas or technology
+- **Population Standard Deviation** [0.6] : differentiate the population standard deviation from the sample standard deviation in notation and computation
+- **Number Of Standard Deviations (#ofSTDEVs)** [0.7] : calculate the number of standard deviations a value is from the mean using (#ofSTDEVs) = (value − mean)/(standard deviation) or by rearranging value = mean + (#ofSTDEVs)(standard deviation)
+- **Number Of Standard Deviations (#ofSTDEVs)** [0.7] : interpret a #ofSTDEVs value to describe how far and in which direction a data point lies from the mean, noting the rule of thumb that values beyond two standard deviations may be far
+- **Z-Score** [0.6] : calculate a z-score for a sample or a population using z = (x − x̄)/s or z = (x − μ)/σ
+- **Z-Score** [0.6] : compare z-scores across different data sets to determine which value is relatively higher or lower with respect to its distribution
+- **Grouped Data Standard Deviation** [0.5] : calculate an estimated standard deviation from a grouped frequency table by using interval midpoints and appropriate technology
+- **Grouped Data Standard Deviation** [0.5] : explain why the grouped-data standard deviation is an estimate based on midpoints because individual data values are unknown
+- **Variability** [0.5] : describe the variability of a data set using the standard deviation and appropriate graphs, noting when the standard deviation is more or less informative
+- **Variability** [0.5] : calculate the standard deviation to quantify the variability in a data set
+- **Chebyshev's Rule** [0.5] : state Chebyshev's Rule that at least 75% of data lie within two standard deviations, at least 89% within three, and at least 95% within 4.5 of the mean for any distribution
+- **Chebyshev's Rule** [0.5] : compare Chebyshev's minimum bounds to the Empirical Rule percentages and distributional assumptions
+- **Empirical Rule** [0.6] : state the Empirical Rule that approximately 68%, 95%, and more than 99% of data lie within one, two, and three standard deviations of the mean for bell-shaped, symmetric distributions
+- **Empirical Rule** [0.6] : compare the Empirical Rule to Chebyshev's Rule in terms of percentages and its requirement of a bell-shaped, symmetric distribution
+
+---
+# Section: seg_33 Heading：2.8 descriptive statistics
+- **Box Plot** [0.9] : construct a box plot from the minimum, first quartile (Q1), median, third quartile (Q3), and maximum to display the middle 50% of the data
+- **Box Plot** [0.9] : interpret a box plot to describe concentration, spread, and potential outliers in a data set
+- **First Quartile** [0.8] : define the first quartile as the median of the lower half of an ordered data set
+- **First Quartile** [0.8] : calculate the first quartile (Q1) from ordered data or a frequency distribution
+- **First Quartile** [0.8] : interpret the first quartile as the 25th percentile in context
+- **Frequency** [0.6] : define frequency as the number of times a data value occurs
+- **Frequency** [0.6] : explain how frequency differs from relative frequency and cumulative relative frequency
+- **Frequency** [0.6] : use frequency counts to build histograms, frequency polygons, or frequency tables
+- **Frequency Table** [0.6] : define a frequency table as grouped data displayed with corresponding frequencies
+- **Frequency Table** [0.6] : construct a frequency table with appropriate class intervals and frequencies for a data set
+- **Histogram** [0.9] : construct a histogram with appropriate class intervals, scaled axes, and labeled units
+- **Histogram** [0.9] : describe the shape, center, spread, and possible outliers shown in a histogram
+- **Interquartile Range (IQR)** [0.9] : define the interquartile range as Q3 minus Q1, representing the spread of the middle 50%
+- **Interquartile Range (IQR)** [0.9] : calculate the IQR from given quartiles and use it to summarize spread
+- **Interval (Class Interval)** [0.6] : define a class interval as a range used to group large data sets
+- **Interval (Class Interval)** [0.6] : construct suitable class intervals and midpoints based on the data range and desired bin width
+- **Mean** [0.9] : define the mean as the arithmetic average for a sample (x̄) or population (μ)
+- **Mean** [0.9] : calculate the sample mean from raw data and approximate the mean from grouped data using midpoints
+- **Mean** [0.9] : compare the mean to the median and mode to judge the effect of skewness and outliers
+- **Median** [0.8] : define the median as the value that splits ordered data into two equal halves
+- **Median** [0.8] : calculate the median from an ordered data set or grouped data when appropriate
+- **Median** [0.8] : compare the median to the mean and mode to decide on an appropriate measure of center
+- **Outlier** [0.8] : define an outlier as an observation that does not fit the rest of the data
+- **Outlier** [0.8] : calculate potential outliers using a numerical rule such as the 1.5×IQR criterion
+- **Percentile** [0.6] : define a percentile as a value that divides ordered data into hundredths
+- **Percentile** [0.6] : calculate a specified percentile or percentile rank using the provided formulas
+- **Percentile** [0.6] : interpret a given percentile in the context of the situation
+- **Quartiles** [0.8] : define quartiles as values that divide data into four equal parts, with Q2 being the median
+- **Quartiles** [0.8] : calculate Q1, Q2, and Q3 for an ordered data set
+- **Relative Frequency** [0.6] : define relative frequency as the ratio of a value’s frequency to the total number of outcomes
+- **Relative Frequency** [0.6] : calculate relative and cumulative relative frequencies for a data set
+- **Relative Frequency** [0.6] : explain when and why to use relative frequency instead of frequency
+- **Skewed** [0.6] : define left-skewed and right-skewed distributions based on the spread of lower versus greater values
+- **Skewed** [0.6] : classify a distribution as symmetric, left-skewed, or right-skewed using a graph or data
+- **Standard Deviation** [0.9] : calculate a standard deviation from data using the appropriate sample or population formula
+- **Standard Deviation** [0.9] : interpret standard deviation to discuss concentration around the mean and unusual values
+- **IQR Outlier Rule** [0.8] : calculate the lower and upper fences using Q1 − 1.5(IQR) and Q3 + 1.5(IQR)
+- **IQR Outlier Rule** [0.8] : identify potential outliers as data values lying outside the IQR fences
+- **Sample Standard Deviation** [0.8] : calculate the sample standard deviation s using s = sqrt[∑(x − x̄)²/(n − 1)] or its frequency form
+- **Sample Standard Deviation** [0.8] : interpret the magnitude of s in terms of variability in the sample
+- **Population Standard Deviation** [0.5] : calculate the population standard deviation σ using σ = sqrt[∑(x − μ)²/N] or its frequency form
+- **Population Standard Deviation** [0.5] : define the population standard deviation as the square root of the population variance
+- **Population Standard Deviation** [0.5] : explain when to use σ versus s and what σ conveys about population spread
+
+---
+# Chapter: seg_35 Heading：chapter 3: probability topics
+
+---
+# Section: seg_37 Heading：3.1 terminology
+- **Probability** [1.0] : Define probability as a measure of certainty for outcomes of a chance experiment.
+- **Probability** [1.0] : Calculate probabilities for simple events in equally likely sample spaces such as coins and dice.
+- **Probability** [1.0] : Interpret a probability value as the long-term relative frequency of an outcome over many repetitions.
+- **Experiment** [0.7] : Define an experiment as a planned operation carried out under controlled conditions.
+- **Experiment** [0.7] : Exemplify experiments using contexts like flipping coins or rolling dice.
+- **Chance Experiment** [0.5] : Define a chance experiment as one whose result is not predetermined.
+- **Chance Experiment** [0.5] : Exemplify chance experiments such as repeated coin flips or single die rolls.
+- **Outcome** [0.7] : Define an outcome as a single result of an experiment.
+- **Sample Space** [0.9] : Define the sample space S as the set of all possible outcomes of an experiment.
+- **Sample Space** [0.9] : Describe sample spaces by listing outcomes, drawing a tree diagram, or using a Venn diagram.
+- **Event** [0.9] : Define an event as any combination of outcomes, denoted by uppercase letters like A or B.
+- **Event** [0.9] : Compute event probabilities from a known sample space in equally likely situations.
+- **Probability Range** [0.6] : Define the probability range as 0 to 1 inclusive, with 0 impossible and 1 certain.
+- **Equally Likely Outcomes** [0.8] : Define equally likely outcomes as outcomes that occur with equal probability.
+- **Equally Likely Outcomes** [0.8] : Calculate probabilities in experiments with equally likely outcomes by counting favorable and total outcomes.
+- **Probability For Equally Likely Outcomes** [0.9] : Compute P(A) as the number of outcomes in A divided by the total number of outcomes in S when outcomes are equally likely.
+- **Probability For Equally Likely Outcomes** [0.9] : Identify the favorable outcomes and the total number of outcomes needed to apply P(A) = count(A)/count(S) in equally likely cases.
+- **Long-Term Relative Frequency** [0.8] : Define long-term relative frequency as the proportion of times an outcome occurs over many repetitions.
+- **Long-Term Relative Frequency** [0.8] : Describe how observed relative frequency estimates a probability and stabilizes with many repetitions.
+- **Law Of Large Numbers** [0.7] : Define the law of large numbers as the principle that relative frequency approaches theoretical probability as repetitions increase.
+- **Law Of Large Numbers** [0.7] : Describe how increasing the number of trials makes empirical probabilities approach theoretical probabilities.
+- **Biased (Unfair) Outcomes** [0.5] : Define biased outcomes as cases where outcomes are not equally likely due to unfair devices or processes.
+- **Biased (Unfair) Outcomes** [0.5] : Contrast biased devices with fair ones, noting how unequal outcome probabilities differ from equally likely outcomes.
+- **Biased (Unfair) Outcomes** [0.5] : Explain how factors like coin or die construction can introduce bias and affect probabilities.
+- **Or Event** [0.8] : Define the event A OR B as containing outcomes in A, in B, or in both.
+- **Or Event** [0.8] : Compute A OR B and its probability by combining outcomes from A and B without double-counting their overlap.
+- **And Event** [0.8] : Define the event A AND B as containing outcomes common to both A and B.
+- **And Event** [0.8] : Compute A AND B and its probability by identifying outcomes in both A and B.
+- **Complement Of An Event** [0.7] : Define the complement A′ as all outcomes not in event A.
+- **Complement Of An Event** [0.7] : Calculate P(A′) as the proportion of outcomes not in A in a given sample space.
+- **Complement Rule** [0.7] : State the complement rule P(A) + P(A′) = 1.
+- **Complement Rule** [0.7] : Compute P(A) or P(A′) using the relationship P(A) + P(A′) = 1.
+- **Conditional Probability** [0.9] : Define conditional probability P(A|B) as the probability of A given B, with the sample space reduced to B.
+- **Conditional Probability** [0.9] : Calculate conditional probabilities using P(A|B) = P(A AND B) / P(B) when P(B) > 0.
+
+---
+# Section: seg_39 Heading：3.2 independent and mutually exclusive events
+- **Independent Events** [1.0] : Define independent events using the criteria P(A|B) = P(A), P(B|A) = P(B), or P(A AND B) = P(A)P(B).
+- **Independent Events** [1.0] : Compute probabilities for independent events, such as P(A AND B) = P(A)P(B) or P(A|B) = P(A).
+- **Independent Events** [1.0] : Justify that two events are independent by verifying one of the equalities P(A|B) = P(A), P(B|A) = P(B), or P(A AND B) = P(A)P(B).
+- **Dependent Events** [0.6] : Define dependent events as events where the occurrence of one changes the probability of the other.
+- **Dependent Events** [0.6] : Classify situations as dependent when earlier outcomes affect later probabilities, such as sampling without replacement.
+- **Dependent Events** [0.6] : Justify that events are dependent by showing that P(A|B) ≠ P(A), P(B|A) ≠ P(B), or P(A AND B) ≠ P(A)P(B).
+- **Sampling With Replacement** [0.8] : Define sampling with replacement as selecting and returning each item so it can be chosen again, making selections independent.
+- **Sampling With Replacement** [0.8] : Classify a sampling process as with replacement when repeated selections of the same item are possible and draws are independent.
+- **Sampling With Replacement** [0.8] : Calculate probabilities for successive draws with replacement by treating draws as independent and multiplying probabilities.
+- **Sampling Without Replacement** [0.7] : Define sampling without replacement as selecting items without returning them, so each can be chosen only once and draws are dependent.
+- **Sampling Without Replacement** [0.7] : Explain how not replacing selections changes the sample space and affects subsequent probabilities, creating dependence.
+- **Mutually Exclusive Events** [0.9] : Define mutually exclusive events as events that cannot occur together and satisfy P(A AND B) = 0.
+- **Mutually Exclusive Events** [0.9] : Justify whether two events are mutually exclusive by showing that they share no outcomes or that P(A AND B) = 0.
+- **Showing Independence** [0.8] : Demonstrate independence by calculating and verifying one condition: P(A|B) = P(A), P(B|A) = P(B), or P(A AND B) = P(A)P(B).
+- **Showing Independence** [0.8] : Justify a conclusion of independence or dependence by comparing computed probabilities to the required independence condition based on available information.
+
+---
+# Section: seg_41 Heading：3.3 two basic rules of probability
+- **Multiplication Rule** [1.0] : state the multiplication rule P(A AND B) = P(B)P(A|B) and its independent-events form P(A AND B) = P(A)P(B).
+- **Multiplication Rule** [1.0] : calculate a joint probability using P(A AND B) = P(B)P(A|B), applying P(A AND B) = P(A)P(B) when events are independent.
+- **Multiplication Rule** [1.0] : compare the conditional form P(B)P(A|B) with the independent form P(A)P(B) to determine which applies in a situation.
+- **Conditional Probability** [0.9] : define conditional probability as P(A|B) = P(A AND B) / P(B).
+- **Conditional Probability** [0.9] : calculate conditional probabilities from joint and marginal probabilities using P(A|B) = P(A AND B) / P(B).
+- **Conditional Probability** [0.9] : interpret conditional probabilities in context to describe how knowing one event affects the likelihood of another.
+- **Addition Rule** [0.9] : state the addition rule P(A OR B) = P(A) + P(B) - P(A AND B) and its simplification P(A OR B) = P(A) + P(B) for mutually exclusive events.
+- **Addition Rule** [0.9] : calculate probabilities of unions using the addition rule, including the mutually exclusive case.
+- **Independent Events** [0.7] : state that events A and B are independent if P(A|B) = P(A), which implies P(A AND B) = P(A)P(B).
+- **Independent Events** [0.7] : calculate P(A AND B) for independent events using P(A)P(B).
+- **Mutually Exclusive Events** [0.6] : define mutually exclusive events as those for which P(A AND B) = 0.
+- **Mutually Exclusive Events** [0.6] : calculate P(A OR B) for mutually exclusive events using P(A) + P(B).
+
+---
+# Section: seg_43 Heading：3.4 contingency tables
+- **Contingency Table** [1.0] : define a contingency table and its purpose in organizing two-variable data to facilitate probability and conditional probability calculations.
+- **Contingency Table** [1.0] : calculate marginal, joint, and conditional probabilities using data organized in a contingency table.
+- **Conditional Probability** [0.9] : calculate conditional probabilities by reducing the sample space to outcomes satisfying the given condition in a contingency table.
+- **Conditional Probability** [0.9] : identify the conditioning event and the corresponding reduced sample space in a conditional probability statement.
+- **Conditional Probability** [0.9] : interpret conditional probability notation and results in context, such as P(A|B) using contingency table data.
+- **Intersection (And) Of Events** [0.8] : calculate P(A AND B) from joint frequencies or probabilities in a contingency table.
+- **Intersection (And) Of Events** [0.8] : identify the table cell that represents the intersection of two events A and B.
+- **Intersection (And) Of Events** [0.8] : compare the joint probability P(A AND B) to the product P(A)P(B) to analyze relationships between events.
+- **Union (Or) Of Events** [0.7] : calculate P(A OR B) using the addition rule P(A) + P(B) − P(A AND B) with contingency table values.
+- **Independence Of Events** [0.7] : calculate P(A)P(B) and P(A AND B) from a contingency table to support a test of independence.
+- **Independence Of Events** [0.7] : compare P(A AND B) with P(A)P(B) to decide whether two events are independent.
+- **Multiplication Rule For Joint Probability** [0.6] : calculate a joint probability using the multiplication rule P(A AND B) = P(B|A)P(A) or P(A|B)P(B).
+- **Probability Contingency Table** [0.5] : calculate missing probability entries and row/column totals in a probability contingency table and verify that the grand total equals 1.
+
+---
+# Section: seg_45 Heading：3.5 tree and venn diagrams
+- **Tree Diagram** [0.9] : Define a tree diagram as a branching graph that enumerates experiment outcomes with branches labeled by frequencies or probabilities.
+- **Tree Diagram** [0.9] : Calculate probabilities of events by using a tree diagram to enumerate paths and sum appropriate path values.
+- **With Replacement** [0.7] : Define with replacement as returning a selection to the pool before the next draw so branch probabilities remain the same across draws.
+- **With Replacement** [0.7] : Calculate probabilities for repeated draws with replacement using constant branch probabilities on each level of the tree.
+- **Without Replacement** [0.7] : Define without replacement as not returning the first selection, so the number of available items decreases on subsequent draws.
+- **Without Replacement** [0.7] : Calculate probabilities for repeated draws without replacement by updating branch probabilities to reflect the reduced sample space.
+- **Without Replacement** [0.7] : Differentiate between with- and without-replacement scenarios by examining how second-draw branch probabilities and sample space sizes change.
+- **Branch Multiplication In Tree Diagrams** [0.8] : Calculate the value at an outcome node by multiplying the values along the corresponding branches in a tree diagram.
+- **Branch Multiplication In Tree Diagrams** [0.8] : Describe how multiplying branch probabilities yields the probability shown at a terminal node of a tree diagram.
+- **Conditional Probability** [0.8] : Calculate conditional probabilities by restricting to the reduced sample space where the given event occurs.
+- **Conditional Probability Notation** [0.6] : Interpret P(A|B) as the probability of event A given that event B has occurred.
+- **Conditional Probability Notation** [0.6] : Calculate P(A|B) from tree or Venn diagram information using counts or probabilities within the subset where B holds.
+- **Venn Diagram** [0.9] : Construct a Venn diagram that represents a sample space and specified events, including overlaps and neither regions.
+- **Venn Diagram** [0.9] : Describe the components of a Venn diagram, with the rectangle as the sample space and circles or ovals as events.
+- **Event Intersection (AND)** [0.8] : Describe the intersection of two events as the set of outcomes common to both, represented by the overlapping region in a Venn diagram.
+- **Event Intersection (AND)** [0.8] : Calculate the probability or count of an intersection A AND B using given data or a Venn diagram.
+- **Event Intersection (AND)** [0.8] : Identify the outcomes that lie in A AND B for a given finite sample space.
+- **Event Union (OR)** [0.8] : Calculate the probability or count of a union A OR B using a Venn diagram or the addition rule.
+- **Event Union (OR)** [0.8] : List the outcomes contained in A OR B for a specified experiment.
+- **Addition Rule For Two Events** [0.7] : Calculate P(A OR B) by applying the addition rule P(A OR B) = P(A) + P(B) − P(A AND B).
+- **Addition Rule For Two Events** [0.7] : State the addition rule for two events as P(A OR B) = P(A) + P(B) − P(A AND B).
+- **Neither Event Region** [0.5] : Identify the region inside the sample space but outside all event regions as representing outcomes in neither event.
+- **Neither Event Region** [0.5] : Describe the meaning of the neither region in a Venn diagram as outcomes that are in neither of the specified events.
+
+---
+# Section: seg_47 Heading：3.6 probability topics
+- **Conditional Probability** [0.9] : define conditional probability P(A|B) as the probability that event A occurs given that event B has already occurred.
+- **Conditional Probability** [0.9] : calculate conditional probabilities from experiment data, tree diagrams, or contingency tables.
+- **Conditional Probability** [0.9] : interpret conditional probability values in context to describe how knowledge of one event changes the likelihood of another.
+- **Dependent Events** [0.8] : define dependent events as events that are not independent.
+- **Dependent Events** [0.8] : differentiate dependent from independent events using criteria such as P(A|B) ≠ P(A) or P(A AND B) ≠ P(A)P(B).
+- **Dependent Events** [0.8] : justify whether two events are dependent using given probabilities or empirical results.
+- **Independent Events** [0.8] : define independent events using equivalent conditions P(A|B) = P(A), P(B|A) = P(B), or P(A AND B) = P(A)P(B).
+- **Independent Events** [0.8] : calculate joint probabilities for independent events using P(A AND B) = P(A)P(B).
+- **Mutually Exclusive Events** [0.5] : define mutually exclusive events as events that cannot occur together and satisfy P(A AND B) = 0.
+- **Mutually Exclusive Events** [0.5] : classify pairs of events as mutually exclusive or not by examining shared outcomes or using Venn diagrams.
+- **Mutually Exclusive Events** [0.5] : calculate P(A OR B) for mutually exclusive events using P(A) + P(B).
+- **Probability** [0.6] : calculate probabilities consistent with the axioms 0 ≤ P(A) ≤ 1 and P(S) = 1, applying addition or multiplication rules when appropriate.
+- **Probability** [0.6] : explain probability as a number between zero and one that represents long-term relative frequency.
+- **Probability** [0.6] : appraise differences between theoretical and empirical probabilities and argue how increasing trials affects their agreement.
+- **Sample Space** [0.5] : define a sample space as the set of all possible outcomes of an experiment.
+- **Sample Space** [0.5] : construct the sample space for multi-step experiments such as two draws with or without replacement.
+- **Sampling With Replacement** [0.9] : define sampling with replacement as replacing each selected member so it can be chosen again.
+- **Sampling With Replacement** [0.9] : calculate probabilities in with-replacement scenarios using independence across draws.
+- **Sampling With Replacement** [0.9] : compare probabilities from with-replacement sampling to those from without-replacement sampling.
+- **Sampling Without Replacement** [0.9] : define sampling without replacement as selecting each member at most once.
+- **Sampling Without Replacement** [0.9] : contrast without-replacement and with-replacement sampling in terms of dependence and changing denominators.
+- **Sampling Without Replacement** [0.9] : calculate probabilities in without-replacement scenarios by updating counts after each draw.
+- **And Event** [0.8] : define the AND event as outcomes in both A and B at the same time.
+- **And Event** [0.8] : calculate P(A AND B) using the multiplication rule or independence when appropriate.
+- **And Event** [0.8] : explain the AND event using tree or Venn diagrams to show overlap.
+- **Complement Event** [0.6] : define the complement of event A as all outcomes not in A.
+- **Complement Event** [0.6] : describe the relationship between an event and its complement, including P(A′) = 1 − P(A).
+- **Complement Event** [0.6] : calculate probabilities using the complement rule to find P(A′) or P(A).
+- **Or Event** [0.8] : define the OR event as outcomes in A, in B, or in both.
+- **Or Event** [0.8] : calculate P(A OR B) using the addition rule with adjustment for overlap when events are not mutually exclusive.
+- **Or Event** [0.8] : interpret the OR event in context and visualize it with Venn diagrams.
+- **Multiplication Rule** [0.8] : state the multiplication rule P(A AND B) = P(A|B)P(B).
+- **Multiplication Rule** [0.8] : compute joint probabilities by applying the multiplication rule to conditional or independent cases.
+- **Addition Rule** [0.7] : state the addition rule P(A OR B) = P(A) + P(B) − P(A AND B).
+- **Addition Rule** [0.7] : calculate probabilities of unions using the addition rule for both mutually exclusive and non–mutually exclusive events.
+
+---
+# Chapter: seg_49 Heading：chapter 4: discrete random variables
+
+---
+# Section: seg_51 Heading：4.1 probability distribution function (pdf) for a discrete random variable
+- **Discrete Probability Distribution Function (PDF)** [1.0] : Define a discrete probability distribution function as a model for a discrete random variable whose probabilities are each between zero and one, inclusive, and sum to one.
+- **Discrete Probability Distribution Function (PDF)** [1.0] : Construct a discrete probability distribution for a given discrete random variable by assigning probabilities between zero and one that sum to one.
+- **Discrete Probability Distribution Function (PDF)** [1.0] : Explain the two defining characteristics of a discrete probability distribution function: each probability is between zero and one, inclusive, and the sum of the probabilities is one.
+- **P(x) Notation** [0.7] : Define P(x) as the probability that the random variable X takes the value x.
+- **P(x) Notation** [0.7] : Interpret P(x) as the chance that X equals x in a described context.
+- **Probability Distribution Table (PDF Table)** [0.8] : Construct a two-column table labeled x and P(x) that lists the values of X and their corresponding probabilities, ensuring the probabilities sum to one.
+- **Probability Distribution Table (PDF Table)** [0.8] : List the possible values of a discrete random variable X and their corresponding P(x) in a PDF table.
+
+---
+# Section: seg_53 Heading：4.2 mean or expected value and standard deviation
+- **Expected Value (Mean)** [1.0] : define the expected value (μ) as the long-term average of a random variable obtained by summing x·P(x) across all possible values
+- **Expected Value (Mean)** [1.0] : calculate the expected value by multiplying each outcome x by its probability P(x) and adding the products
+- **Expected Value (Mean)** [1.0] : interpret the expected value as the long-term average outcome expected over many repeated trials in the given context
+- **Expected Value Table** [0.7] : construct an expected value table with columns for x, P(x), and x·P(x) to organize and compute μ
+- **Standard Deviation Of A Probability Distribution** [0.9] : define the standard deviation (σ) of a probability distribution as the square root of the sum of (x – μ)²·P(x) over all values to measure spread
+- **Standard Deviation Of A Probability Distribution** [0.9] : calculate the standard deviation by first finding μ, then summing (x – μ)²·P(x) across values and taking the square root
+
+---
+# Section: seg_55 Heading：4.3 binomial distribution
+- **Binomial Experiment** [0.9] : define a binomial experiment by its fixed number of trials n, two outcomes with probabilities p and q where p + q = 1, and independent, identical trials
+- **Binomial Experiment** [0.9] : classify scenarios as binomial or not by checking fixed n, two outcomes, constant p and q with p + q = 1, and independence of trials
+- **Binomial Experiment** [0.9] : calculate the probability of observing a specified number of successes in n independent trials with success probability p
+- **Probability Of Success (p) And Failure (q)** [0.8] : define p as the probability of success on one trial and q as the probability of failure with p + q = 1
+- **Probability Of Success (p) And Failure (q)** [0.8] : calculate q from a given p (or p from q) using p + q = 1
+- **Binomial Random Variable (X)** [0.8] : define X as the number of successes in the n independent trials of a binomial experiment
+- **Binomial Random Variable (X)** [0.8] : calculate probabilities for specific outcomes of X given n and p
+- **Binomial Distribution Mean** [0.7] : state the mean of a binomial distribution as μ = n p
+- **Binomial Distribution Mean** [0.7] : calculate the mean μ of a binomial distribution given n and p
+- **Binomial Distribution Mean** [0.7] : interpret μ = n p as the expected number of successes in n trials
+- **Binomial Distribution Variance** [0.5] : define the variance of a binomial distribution as σ² = n p q
+- **Binomial Distribution Variance** [0.5] : calculate the variance σ² given n, p, and q
+- **Binomial Distribution Standard Deviation** [0.6] : calculate the standard deviation σ using σ = sqrt(n p q)
+- **Binomial Distribution Standard Deviation** [0.6] : state the formula for the standard deviation of a binomial distribution as σ = sqrt(n p q)
+- **Binomial Distribution Notation** [0.7] : state the notation X ~ B(n, p) for a binomial random variable with number of trials n and success probability p
+- **Binomial Distribution Notation** [0.7] : translate a verbal binomial scenario into X ~ B(n, p) by identifying n and p
+- **Binompdf** [0.6] : use binompdf(n, p, x) on a calculator to compute P(X = x) for a binomial distribution
+- **Binomcdf** [0.7] : use binomcdf(n, p, x) on a calculator to compute P(X ≤ x) for a binomial distribution
+
+---
+# Section: seg_57 Heading：4.4 geometric distribution
+- **Geometric Experiment** [0.9] : define a geometric experiment by its three characteristics: repeated independent Bernoulli trials until the first success, an unbounded number of possible trials, and constant probabilities p and q with p + q = 1
+- **Geometric Experiment** [0.9] : calculate the probability that the first success occurs on a specified trial using the constant success probability p and failure probability q
+- **Probability Of Success (p) And Failure (q)** [0.7] : define p as the probability of success on each trial and q as the probability of failure with q = 1 − p
+- **Probability Of Success (p) And Failure (q)** [0.7] : calculate q from a given p (and p from a given q) and use these values consistently across trials in geometric settings
+- **Geometric Random Variable (X)** [0.9] : define X as the number of independent trials until the first success, taking values 1, 2, 3, …
+- **Geometric Random Variable (X)** [0.9] : calculate probabilities such as P(X = k) or cumulative probabilities for X given the success probability p
+- **Geometric Distribution Notation** [0.6] : define the notation X ~ G(p) to denote a geometric distribution with parameter p
+- **Geometric Distribution Notation** [0.6] : interpret X ~ G(p) as meaning X counts trials until the first success with success probability p on each trial
+- **Mean Of Geometric Distribution** [0.8] : calculate the mean μ of a geometric distribution using μ = 1/p
+- **Mean Of Geometric Distribution** [0.8] : state the formula for the mean of a geometric distribution as μ = 1/p
+- **Mean Of Geometric Distribution** [0.8] : interpret μ = 1/p as the expected number of trials required to obtain the first success
+- **Variance Of Geometric Distribution** [0.5] : state the formula for the variance of a geometric distribution as σ² = (1/p)(1/p − 1)
+- **Variance Of Geometric Distribution** [0.5] : calculate the variance σ² of a geometric distribution from a given p using σ² = (1/p)(1/p − 1)
+- **Standard Deviation Of Geometric Distribution** [0.6] : state the formula for the standard deviation of a geometric distribution as σ = √[(1/p)(1/p − 1)]
+- **Standard Deviation Of Geometric Distribution** [0.6] : calculate the standard deviation σ of a geometric distribution from a given p using σ = √[(1/p)(1/p − 1)]
+
+---
+# Section: seg_59 Heading：4.5 hypergeometric distribution
+- **Hypergeometric Experiment** [0.9] : List the defining characteristics of a hypergeometric experiment, including two groups, a designated first group of interest, sampling without replacement, dependent selections, and not being Bernoulli trials.
+- **Hypergeometric Experiment** [0.9] : Classify sampling scenarios as hypergeometric or not based on whether they involve two groups, a first group of interest, sampling without replacement, and dependent selections.
+- **Hypergeometric Probability Distribution** [0.8] : Classify a scenario’s outcome distribution as hypergeometric when sampling without replacement from two groups with a designated group of interest.
+- **Hypergeometric Probability Distribution** [0.8] : Identify the appropriate values of r, b, n, and x for modeling a described scenario with a hypergeometric distribution.
+- **Hypergeometric Probability Distribution** [0.8] : Calculate hypergeometric probabilities such as P(X = x) or P(X <= k) for given parameters using available technology.
+- **Group Of Interest (First Group)** [0.8] : Define the group of interest as the group referenced in the probability question within a hypergeometric setting.
+- **Random Variable X** [0.7] : Define X as the number of items drawn from the group of interest in the sample.
+- **Hypergeometric Notation** [0.6] : Define the notation X ~ H(r, b, n) as indicating that X has a hypergeometric distribution with first group size r, second group size b, and sample size n.
+- **Hypergeometric Notation** [0.6] : Interpret X ~ H(r, b, n) in a scenario by mapping the scenario’s quantities to r, b, and n.
+- **Parameters (r, b, n)** [0.8] : Define r, b, and n as the sizes of the first group, second group, and chosen sample, respectively.
+- **Mean Of Hypergeometric Distribution** [0.5] : State the mean of a hypergeometric distribution as mu = n r / (r + b).
+- **Mean Of Hypergeometric Distribution** [0.5] : Calculate the expected value for a hypergeometric distribution using mu = n r / (r + b) in applied examples.
+
+---
+# Section: seg_61 Heading：4.6 poisson distribution
+- **Poisson Distribution** [1.0] : calculate the probability of a specified number of events in a fixed interval using the Poisson model with an appropriate mean rate
+- **Poisson Distribution** [1.0] : state the conditions under which a process is modeled by a Poisson distribution
+- **Interval Of Interest** [0.8] : identify the interval of interest in scenarios that count events over time or space
+- **Interval Of Interest** [0.8] : calculate the Poisson mean for the specified interval of interest by scaling a given average rate
+- **Random Variable For Poisson** [0.7] : define the Poisson random variable X as the number of occurrences in the interval of interest with values 0, 1, 2, …
+- **Poisson Notation And Parameter** [0.9] : state the notation X ~ P(μ) and that μ (or λ) is the mean number of occurrences for the interval of interest
+- **Poisson Notation And Parameter** [0.9] : calculate the Poisson mean μ for a given scenario and express the model as X ~ P(μ)
+- **Poisson Approximation To The Binomial** [0.8] : identify when a binomial setting can be approximated by a Poisson model based on large n and small p
+- **Poisson Approximation To The Binomial** [0.8] : calculate an approximate binomial probability using a Poisson distribution with mean μ = np
+- **Poisson Approximation To The Binomial** [0.8] : compare probabilities from the binomial distribution and the Poisson approximation to judge their closeness when n is large and p is small
+
+---
+# Section: seg_63 Heading：4.7 discrete distribution (playing card experiment)
+- **Discrete Distribution** [0.7] : Calculate probabilities for the number of diamonds using an appropriate discrete distribution for the card experiment.
+- **Discrete Distribution** [0.7] : Compare the empirical relative frequencies with the discrete distribution’s theoretical probabilities to judge model fit.
+- **Theoretical Distribution** [0.9] : Calculate P(x) values for specified counts of diamonds from the theoretical distribution.
+- **Theoretical Distribution** [0.9] : Compare the theoretical distribution with empirical and simulation distributions in shape, center, and spread.
+- **Empirical Data** [0.8] : Calculate relative frequencies for each x from the class card-draw data.
+- **Empirical Data** [0.8] : Compare the empirical histogram and relative frequencies to the theoretical and simulation results.
+- **Simulation Distribution** [0.6] : Compare the simulation distribution to the theoretical distribution and to the empirical data.
+- **Long-Term Probabilities** [0.5] : Compare short-run relative frequencies to long-term probabilities as the number of trials increases.
+- **Theoretical Probability** [0.8] : Calculate theoretical probabilities for events in the card experiment, such as drawing a diamond or obtaining a given count of diamonds.
+- **Theoretical Probability** [0.8] : State the theoretical probability of drawing a diamond from a standard deck.
+- **Random Variable X** [0.7] : Calculate probabilities for events involving X, including P(X = 3), P(1 < X < 4), and P(X ≥ 8).
+- **Random Variable X** [0.7] : Compare observed values of X across datasets to the expectations from its theoretical distribution.
+- **Distribution Notation X ~ B( , )** [0.8] : Identify the appropriate n and p that complete the notation X ~ B(n, p) for this experiment.
+- **Theoretical PDF Chart** [0.7] : Construct the theoretical PDF chart listing each x and its corresponding P(x) for X.
+- **Probability Notation P(x)** [0.6] : Calculate probabilities using P(X = x), P(1 < X < 4), and P(X ≥ 8) notation.
+- **Relative Frequency** [0.8] : Calculate relative frequency for each possible x from the empirical class data.
+- **Relative Frequency** [0.8] : Compare relative frequencies to the theoretical probabilities for corresponding x values.
+- **Histogram** [0.5] : Construct histograms for the empirical data and for the theoretical distribution.
+- **Histogram** [0.5] : Compare the shapes and spreads of the empirical and theoretical histograms, noting similarities and differences.
+- **Mean (x̄)** [0.6] : Calculate the sample mean x̄ of the number of diamonds from the empirical data.
+- **Mean (x̄)** [0.6] : Compare x̄ to the theoretical mean μ and the simulation mean.
+- **Standard Deviation (s)** [0.6] : Calculate the sample standard deviation s of the number of diamonds from the empirical data.
+- **Standard Deviation (s)** [0.6] : Compare s to the theoretical standard deviation σ and the simulation standard deviation.
+- **Theoretical Mean (μ)** [0.6] : Calculate the theoretical mean μ for X using the distribution’s parameters.
+- **Theoretical Mean (μ)** [0.6] : Compare μ to the empirical mean x̄ and the simulation mean.
+- **Theoretical Standard Deviation (σ)** [0.6] : Calculate the theoretical standard deviation σ for X using the distribution’s parameters.
+- **Theoretical Standard Deviation (σ)** [0.6] : Compare σ to the empirical standard deviation s and the simulation standard deviation.
+- **Comparison Of Distributions** [0.9] : Compare key similarities and differences among the theoretical, empirical, and simulation distributions to evaluate fit.
+
+---
+# Section: seg_65 Heading：4.8 discrete distribution (lucky dice experiment)
+- **Bernoulli Trials** [0.8] : define Bernoulli trials as an experiment with two possible outcomes (success and failure) and constant probabilities p and q for each trial.
+- **Bernoulli Trials** [0.8] : describe the characteristics that make a sequence of trials Bernoulli (two outcomes, constant p and q).
+- **Binomial Experiment** [0.9] : define a binomial experiment as n fixed, independent Bernoulli trials with success probability p (and failure q).
+- **Binomial Experiment** [0.9] : classify the Lucky Dice matching experiment as binomial by specifying n and p for X, the number of matches.
+- **Binomial Experiment** [0.9] : calculate binomial probabilities, the mean μ = np, and the standard deviation σ = sqrt(npq) for a given n and p.
+- **Binomial Probability Distribution** [1.0] : define the binomial probability distribution for X ~ B(n, p) as the distribution of the number of successes in n Bernoulli trials.
+- **Binomial Probability Distribution** [1.0] : classify a random variable as binomial by verifying Bernoulli conditions and a fixed number of trials.
+- **Binomial Probability Distribution** [1.0] : calculate P(X = x) = (n choose x) p^x q^(n − x) for scenarios such as the Lucky Dice game.
+- **Probability Distribution Function (PDF)** [0.7] : construct a PDF table for X (matches) and Y (profit) that lists outcomes and associated probabilities summing to 1.
+- **Probability Distribution Function (PDF)** [0.7] : identify whether a given table or formula qualifies as a discrete PDF based on probability bounds and total probability 1.
+- **Random Variable (RV)** [0.6] : define a random variable as a variable whose value is determined by the outcome of a random experiment.
+- **Random Variable (RV)** [0.6] : describe the distinction between a random variable (e.g., X or Y) and its observed values (x or y) in the Lucky Dice context.
+- **Expected Value** [0.9] : calculate expected values μx and μy from a PDF using μ = Σ xP(x) or, for binomial X, μ = np.
+- **Expected Value** [0.9] : explain expected value as the long-term average outcome (matches or profit) over many repetitions of the game.
+- **Expected Value** [0.9] : define expected value of a discrete random variable as μ = Σ xP(x).
+- **Standard Deviation Of A Probability Distribution** [0.6] : define the standard deviation of a probability distribution as a measure of how far outcomes typically vary from the mean.
+- **Standard Deviation Of A Probability Distribution** [0.6] : calculate the standard deviation using σ = sqrt(Σ (x − μ)^2 P(x)) or, for binomial X, σ = sqrt(npq).
+- **Standard Deviation Of A Probability Distribution** [0.6] : compare empirical and theoretical standard deviations for the Lucky Dice outcomes to evaluate variability and fit.
+- **Law Of Large Numbers** [0.6] : compare theoretical probabilities with observed relative frequencies from repeated trials to illustrate the law of large numbers.
+
+---
+# Chapter: seg_67 Heading：chapter 5: continuous random variables
+
+---
+# Section: seg_69 Heading：5.1 continuous probability functions
+- **Continuous Probability Density Function (PDF)** [1.0] : define a continuous probability density function as a function f(x) whose total area equals 1 and whose interval areas equal probabilities
+- **Continuous Probability Density Function (PDF)** [1.0] : calculate probabilities over intervals by computing the area under f(x), such as using base × height for a constant f(x) on a finite interval
+- **Continuous Probability Density Function (PDF)** [1.0] : describe how the area under f(x) between two x-values represents P(a < X < b) and why the total area equals 1
+- **Zero Probability At A Point** [0.8] : state that for a continuous distribution P(X = x) = 0
+- **Zero Probability At A Point** [0.8] : explain that a single point has zero width, so the area (and probability) at X = x is 0
+- **Zero Probability At A Point** [0.8] : calculate P(X = c) as 0 in continuous examples by recognizing the base of the rectangle is zero
+- **Cumulative Distribution Function (CDF)** [0.7] : define the cumulative distribution function as P(X ≤ x) (equivalently P(X < x) for continuous variables) giving area to the left under the density
+- **Cumulative Distribution Function (CDF)** [0.7] : describe how the CDF provides the area to the left and that P(X ≤ x) equals P(X < x) for continuous distributions
+- **Cumulative Distribution Function (CDF)** [0.7] : calculate P(X ≤ x) or P(X < x) by finding the area to the left under f(x)
+- **Right-Tail Probability (Complement Rule)** [0.5] : state that for continuous distributions P(X > x) = 1 − P(X < x)
+- **Right-Tail Probability (Complement Rule)** [0.5] : calculate right-tail probabilities using the complement rule P(X > x) = 1 − P(X < x)
+
+---
+# Section: seg_71 Heading：5.2 the uniform distribution
+- **Uniform Distribution** [0.9] : calculate probabilities for outcomes within a specified interval under a uniform distribution using the constant density 1/(b − a) and the base × height area.
+- **Uniform Distribution** [0.9] : state that a uniform distribution assigns equal likelihood to all values in a specified interval [a, b], inclusive.
+- **Uniform Distribution** [0.9] : describe the characteristics of a uniform distribution, including constant density over [a, b] and equal likelihood of all values in the interval.
+- **Uniform Distribution Notation** [0.7] : identify the notation X ~ U(a, b) for a uniform distribution and that a and b are the lowest and highest possible values of x.
+- **Uniform Distribution Notation** [0.7] : describe what the notation X ~ U(a, b) conveys, including that the variable is uniformly distributed on the interval [a, b].
+- **Probability Density Function (Uniform)** [0.8] : define the uniform probability density function as f(x) = 1/(b − a) for a ≤ x ≤ b.
+- **Probability Density Function (Uniform)** [0.8] : calculate the constant density height 1/(b − a) for a given interval [a, b] to use in probability computations.
+- **Mean Of A Uniform Distribution** [0.6] : calculate the mean of a uniform distribution using μ = (a + b)/2.
+- **Mean Of A Uniform Distribution** [0.6] : state the formula for the mean of a uniform distribution: μ = (a + b)/2.
+- **Mean Of A Uniform Distribution** [0.6] : interpret the mean of a uniform distribution as the midpoint of [a, b] and as the long-run average value in context.
+- **Standard Deviation Of A Uniform Distribution** [0.6] : calculate the standard deviation of a uniform distribution using σ = (b − a)/√12.
+- **Standard Deviation Of A Uniform Distribution** [0.6] : state the formula for the standard deviation of a uniform distribution: σ = (b − a)/√12.
+- **Interval Endpoints Inclusivity** [0.5] : identify whether interval endpoints are included or excluded in a uniform distribution problem and adjust the stated interval accordingly.
+- **Interval Endpoints Inclusivity** [0.5] : interpret how inclusive or exclusive endpoints define the support [a, b] used in computing probabilities.
+- **Probability Over An Interval (Uniform)** [0.9] : calculate P(c < X < d) for a uniform distribution as (d − c)/(b − a) when a ≤ c < d ≤ b.
+- **Percentile In A Uniform Distribution** [0.8] : calculate the pth percentile k by solving (k − a)/(b − a) = p, yielding k = a + p(b − a).
+- **Percentile In A Uniform Distribution** [0.8] : interpret a percentile as the value below which a specified proportion p of outcomes fall in a uniform distribution.
+- **Percentile In A Uniform Distribution** [0.8] : define the percentile k in a uniform distribution as the value satisfying P(X < k) = p on [a, b].
+- **Conditional Probability In A Uniform Distribution** [0.7] : calculate conditional probabilities by restricting the support to the conditioning interval to form a new uniform density or by using P(A|B) = P(A AND B)/P(B).
+- **Conditional Probability In A Uniform Distribution** [0.7] : describe how conditioning on a sub-interval (e.g., X > c) changes the sample space and yields a new uniform distribution on that interval.
+
+---
+# Section: seg_73 Heading：5.3 the exponential distribution
+- **Exponential Distribution** [1.0] : calculate probabilities such as P(X < x), P(X > x), and P(a < X < b) for waiting-time scenarios modeled by an exponential distribution.
+- **Exponential Distribution** [1.0] : state that the exponential distribution models time until an event or the time between events in contexts like service durations and device lifetimes.
+- **Decay Parameter (m)** [0.9] : define the decay parameter m of an exponential distribution as m = 1/μ.
+- **Decay Parameter (m)** [0.9] : calculate the decay parameter m from a given mean μ and calculate μ from a given m.
+- **Distribution Notation** [0.6] : state the distribution notation X ~ Exp(m) to indicate an exponential distribution with decay parameter m.
+- **Probability Density Function (Exponential)** [0.8] : state the probability density function f(x) = m e^(−m x) for x ≥ 0.
+- **Probability Density Function (Exponential)** [0.8] : compute the value of the exponential pdf f(x) for a given x and m.
+- **Cumulative Distribution Function (Exponential)** [0.9] : state the cumulative distribution function P(X < x) = 1 − e^(−m x).
+- **Cumulative Distribution Function (Exponential)** [0.9] : calculate cumulative and interval probabilities using the CDF, including P(X < x) and P(a < X < b) = F(b) − F(a).
+- **Survival Function (Exponential)** [0.8] : state the survival function P(X > x) = e^(−m x).
+- **Survival Function (Exponential)** [0.8] : calculate right-tail probabilities P(X > x) using the survival function.
+- **Mean And Standard Deviation (Exponential)** [0.7] : state that the mean equals the standard deviation for an exponential distribution and that μ = 1/m and σ = μ.
+- **Mean And Standard Deviation (Exponential)** [0.7] : compute μ, σ, or m given any one of these quantities for an exponential distribution.
+- **Percentile Formula (Exponential)** [0.7] : use k = ln(1 − A)/(-m) to find percentiles such as the median or the 80th percentile.
+- **Memoryless Property (Exponential)** [0.9] : state the memoryless property P(X > r + t | X > r) = P(X > t) for r, t ≥ 0.
+- **Memoryless Property (Exponential)** [0.9] : use the memoryless property to compute conditional waiting-time probabilities without regard to elapsed time.
+- **Relationship To Poisson Distribution** [0.8] : describe how exponential interarrival times with mean μ lead to Poisson event counts per unit time with mean λ = 1/μ, and conversely.
+- **Relationship To Poisson Distribution** [0.8] : compute Poisson probabilities for event counts given an exponential mean μ (via λ = 1/μ) or convert between λ and μ.
+- **Relationship To Poisson Distribution** [0.8] : infer from Poisson event-count information that interarrival times are exponentially distributed and determine the corresponding parameter.
+
+---
+# Section: seg_75 Heading：5.4 continuous distribution
+- **Probability Density Function (PDF)** [0.8] : state the defining properties of a probability density function, including nonnegativity, total area equal to one, and that P(a < X < b) equals the area under f(x) between a and b
+- **Probability Density Function (PDF)** [0.8] : calculate probabilities such as P(a < X < b) by finding the area under a given pdf between the bounds
+- **Probability Density Function (PDF)** [0.8] : interpret the area under a pdf between two points as the probability that the variable falls in that interval
+- **Cumulative Distribution Function (CDF)** [0.7] : define the cumulative distribution function F(x) as P(X ≤ x) for a random variable
+- **Cumulative Distribution Function (CDF)** [0.7] : calculate cumulative and interval probabilities using a given cdf, for example P(c < X < d) = F(d) − F(c)
+- **Uniform Distribution** [0.9] : calculate probabilities, percentiles, the mean, and the standard deviation for X ~ U(a, b) using f(x) = 1/(b − a) and F(x) = (x − a)/(b − a)
+- **Uniform Distribution** [0.9] : compare empirical summaries and graphical shapes from random numbers on [0,1] to the theoretical values and shape expected from U(0,1)
+- **Exponential Distribution** [0.6] : define the exponential distribution X ~ Exp(m) with pdf f(x) = m e^(−mx), cdf P(X ≤ x) = 1 − e^(−mx) for x ≥ 0, mean and standard deviation 1/m, and the memoryless property
+- **Exponential Distribution** [0.6] : calculate probabilities, percentiles, the mean, and the standard deviation for an exponential model given m or μ
+- **Decay Parameter** [0.5] : define the decay parameter m as the rate in the exponential pdf f(x) = m e^(−mx) and as the reciprocal of the mean m = 1/μ
+- **Decay Parameter** [0.5] : calculate the decay parameter from a given mean (m = 1/μ) and use it to compute probabilities such as P(X > x) = e^(−mx)
+- **Decay Parameter** [0.5] : describe how changes in m alter the exponential distribution’s shape, with larger m producing faster decay of tail probabilities and a smaller mean
+- **Conditional Probability** [0.6] : define conditional probability as the probability of an event occurring given that another event has already occurred
+- **Conditional Probability** [0.6] : calculate conditional probabilities in uniform and exponential settings, including using ratios of interval lengths and the memoryless property P(X > x + k|X > x) = P(X > k)
+
+---
+# Chapter: seg_77 Heading：chapter 6: the normal distribution
+
+---
+# Section: seg_79 Heading：6.1 the standard normal distribution
+- **Standard Normal Distribution** [0.8] : define the standard normal distribution as Z ~ N(0, 1), a normal distribution of z-scores with mean 0 and standard deviation 1
+- **Standard Normal Distribution** [0.8] : calculate the raw score x associated with a given z on the standard normal scale using x = μ + zσ
+- **Standard Normal Distribution** [0.8] : interpret positions on the standard normal distribution by recognizing that positive z-scores are to the right of the mean 0, negative z-scores to the left, and z = 0 at the mean
+- **Z-Score** [1.0] : calculate a z-score using z = (x − μ)/σ for a normally distributed variable
+- **Z-Score** [1.0] : interpret the sign and magnitude of a z-score as the number of standard deviations a value is above or below the mean
+- **Normal Distribution Notation** [0.5] : define the notation X ~ N(μ, σ) as indicating a normal random variable with mean μ and standard deviation σ
+- **Normal Distribution Notation** [0.5] : interpret X ~ N(μ, σ) by identifying the distribution, its mean, and its standard deviation
+- **Standardization (Z-Transformation)** [0.9] : calculate standardized values with z = (x − μ)/σ and invert the transformation with x = μ + zσ
+- **Standardization (Z-Transformation)** [0.9] : interpret standardization as converting X ~ N(μ, σ) to the standard normal distribution Z ~ N(0, 1) to enable comparison across scales
+- **Empirical Rule (68-95-99.7 Rule)** [0.7] : state that in a normal distribution about 68%, 95%, and 99.7% of values lie within ±1σ, ±2σ, and ±3σ of the mean, respectively
+- **Empirical Rule (68-95-99.7 Rule)** [0.7] : calculate approximate intervals μ ± σ, μ ± 2σ, and μ ± 3σ (with corresponding z-scores ±1, ±2, ±3) for a given normal distribution
+- **Comparing Values Using Z-Scores** [0.6] : calculate and compare z-scores from different normal distributions to place values on a common standardized scale
+- **Comparing Values Using Z-Scores** [0.6] : interpret equal or similar z-scores from different normal distributions as indicating the same relative position with respect to their means and standard deviations
+
+---
+# Section: seg_81 Heading：6.2 using the normal distribution
+- **Area To The Left** [0.8] : define P(X < x) as the area to the left of the vertical line at x for a normal variable.
+- **Area To The Left** [0.8] : calculate P(X < x) for a specified x and normal distribution using technology or tables.
+- **Area To The Left** [0.8] : interpret a shaded left-tail region on a normal curve as the probability P(X < x).
+- **Area To The Right** [0.7] : calculate P(X > x) as 1 − P(X < x) or by using appropriate bounds with normalcdf.
+- **Area To The Right** [0.7] : state that P(X > x) equals the area to the right of x and equals 1 − P(X < x).
+- **Area To The Right** [0.7] : translate a right-tail probability into its equivalent left-tail form (and vice versa) using P(X > x) = 1 − P(X < x).
+- **Inequality Equivalence In Continuous Distributions** [0.6] : state that for continuous distributions P(X < x) = P(X ≤ x) and P(X > x) = P(X ≥ x).
+- **Inequality Equivalence In Continuous Distributions** [0.6] : calculate probabilities for a normal distribution treating strict and non-strict inequalities as equivalent.
+- **Normal Distribution Notation** [0.7] : interpret X ~ N(μ, σ) as X being normally distributed with mean μ and standard deviation σ.
+- **Normal Distribution Notation** [0.7] : identify the mean μ and standard deviation σ from the notation X ~ N(μ, σ).
+- **Normalcdf Function** [0.9] : use normalcdf(lower, upper, mean, standard deviation) to compute normal probabilities for intervals and tails.
+- **Normalcdf Function** [0.9] : describe the syntax and parameters of normalcdf, including using ±1E99 as bounds for extreme tails.
+- **Invnorm Function** [0.8] : use invNorm(area to the left, mean, standard deviation) to find the value k corresponding to a given percentile.
+- **Invnorm Function** [0.8] : interpret the output of invNorm as the critical value k with the specified area to its left.
+- **Percentile** [0.8] : calculate a stated percentile for a normal distribution using invNorm with the given mean and standard deviation.
+- **Percentile** [0.8] : interpret a percentile as the value at or below which the stated percentage of observations fall.
+- **Percentile** [0.8] : define a percentile as the value k such that a stated percentage of observations are at or below k and the remainder at or above.
+- **Quartiles** [0.6] : define Q1 as the 25th percentile and Q3 as the 75th percentile of a distribution.
+- **Quartiles** [0.6] : calculate Q1 and Q3 for a normal distribution using invNorm with areas 0.25 and 0.75.
+- **Quartiles** [0.6] : interpret quartiles in context as cutpoints with 25% of observations at or below Q1 and 75% at or below Q3.
+- **Interquartile Range (IQR)** [0.5] : define the interquartile range (IQR) as Q3 − Q1.
+- **Interquartile Range (IQR)** [0.5] : calculate the IQR from computed values of Q1 and Q3 for a normal distribution.
+
+---
+# Section: seg_83 Heading：6.3 normal distribution (lap times)
+- **Stratified Sampling** [0.5] : Use a stratified sampling method by lap (races 1 to 20) with a random number generator to select six lap times from each stratum.
+- **Histogram** [0.8] : Construct a histogram of the sampled lap times using five to six intervals with scaled axes.
+- **Histogram** [0.8] : Describe the general shape of the histogram and the smooth curve through the bar tops in one to two sentences.
+- **Sample Mean (X̄)** [0.9] : Calculate the sample mean x̄ of the selected lap times to two decimal places.
+- **Sample Standard Deviation (S)** [0.9] : Calculate the sample standard deviation s of the selected lap times to two decimal places.
+- **Interquartile Range (IQR)** [0.7] : Calculate the interquartile range IQR = Q3 – Q1 from the sampled lap times and report its endpoints.
+- **Interquartile Range (IQR)** [0.7] : State the IQR as going from Q1 to Q3 for the sampled lap times.
+- **Interquartile Range (IQR)** [0.7] : Compare the empirical IQR from the data to the IQR from the theoretical normal approximation.
+- **Distribution Notation (X ~ Distribution(Parameters))** [0.6] : State the approximate theoretical distribution using notation X ~ Normal(x̄, s) based on the sample.
+- **Distribution Notation (X ~ Distribution(Parameters))** [0.6] : Use distribution notation X ~ Normal(x̄, s) when reporting model-based percentiles and probabilities for lap times.
+- **Theoretical Distribution** [1.0] : Use the theoretical normal distribution to compute percentiles (15th, 85th), the median, and probabilities such as P(X > 130) for lap times.
+- **Theoretical Distribution** [1.0] : Explain the meaning of a percentile (such as the 85th) in the context of lap times under the theoretical distribution.
+- **Normal Approximation** [0.8] : Use a normal approximation based on the sample mean and standard deviation to model the lap time distribution.
+- **Normal Approximation** [0.8] : Compare results from the normal approximation to empirical results for lap times.
+- **Empirical Probability** [0.6] : Calculate the empirical probability that a randomly chosen lap time exceeds a specified value (e.g., 130 seconds) and round to four decimal places.
+- **Empirical Probability** [0.6] : Compare the empirical probability from the sample to the corresponding probability from the theoretical normal model.
+
+---
+# Section: seg_85 Heading：6.4 normal distribution (pinkie length)
+- **Normal Distribution** [1.0] : Define the normal distribution as a continuous model with parameters μ and σ and notation X ~ N(μ, σ).
+- **Normal Distribution** [1.0] : Calculate probabilities or percentiles for X ~ N(μ, σ) using the given mean and standard deviation.
+- **Normal Distribution** [1.0] : Interpret μ and σ as the center and spread of a bell-shaped curve and interpret areas under the curve as probabilities.
+- **Standard Normal Distribution** [0.8] : Define the standard normal distribution as Z ~ N(0, 1).
+- **Standard Normal Distribution** [0.8] : Calculate areas and percentiles on the standard normal curve using z-values.
+- **Standard Normal Distribution** [0.8] : Interpret locations on the standard normal scale in terms of standard deviations from the mean.
+- **Z-Score** [0.9] : Calculate a z-score using z = (x − μ) / σ for a normally distributed variable.
+- **Z-Score** [0.9] : Interpret a z-score as how many standard deviations a value is above or below the mean.
+- **Z-Score** [0.9] : Define a z-score as the linear transformation that standardizes X ~ N(μ, σ) to Z ~ N(0, 1).
+- **Interquartile Range (IQR)** [0.6] : Define the interquartile range (IQR) as Q3 − Q1.
+- **Interquartile Range (IQR)** [0.6] : Calculate the IQR from ordered data or from a normal model using Q1 and Q3.
+- **Empirical Rule (68-95-99.7)** [0.5] : State that approximately 68%, 95%, and 99.7% of values lie within 1σ, 2σ, and 3σ of μ in a normal distribution.
+- **Empirical Rule (68-95-99.7)** [0.5] : Calculate approximate proportions or x-ranges using the 68–95–99.7 rule for a normal distribution.
+- **Kth Percentile In A Normal Distribution** [0.7] : Calculate a kth percentile using k = μ + zσ or with invNorm given the area to the left.
+- **Kth Percentile In A Normal Distribution** [0.7] : Explain the meaning of a percentile (e.g., 85th) as the value below which that percent of observations fall.
+- **Normalcdf Function** [0.6] : Use normalcdf(lower, upper, mean, standard deviation) to compute normal probabilities such as P(a < X < b).
+- **Normalcdf Function** [0.6] : Define normalcdf as the calculator function that returns the probability for a normal variable between specified bounds given μ and σ.
+- **InvNorm Function** [0.6] : Use invNorm(area to the left, mean, standard deviation) to find normal percentiles and cutoffs.
+- **InvNorm Function** [0.6] : State that invNorm requires the area to the left, mean, and standard deviation and returns the value k such that P(X < k) equals the specified area.
+
+---
+# Chapter: seg_87 Heading：chapter 7: the central limit theorem
+
+---
+# Section: seg_89 Heading：7.1 the central limit theorem for sample means (averages)
+- **Central Limit Theorem For Sample Means** [1.0] : Calculate approximate probabilities for sample means using the normal model with mean μ and standard error σ/√n as n increases.
+- **Central Limit Theorem For Sample Means** [1.0] : Interpret the central limit theorem as stating that, as n increases, the distribution of X̄ approaches normal with mean μ and variance σ²/n.
+- **Sampling Distribution Of The Mean** [0.8] : Define the sampling distribution of the mean as the distribution of X̄ formed from all samples of size n.
+- **Sampling Distribution Of The Mean** [0.8] : Calculate the mean μ and standard error σ/√n of the sampling distribution given μ, σ, and n.
+- **Sampling Distribution Of The Mean** [0.8] : Interpret the sampling distribution as approximately normal for large n, centered at μ with spread σ/√n.
+- **Mean Of The Sampling Distribution** [0.7] : State that the expected value of X̄ equals the population mean μ.
+- **Mean Of The Sampling Distribution** [0.7] : Calculate the expected value of X̄ from a given population mean μ.
+- **Mean Of The Sampling Distribution** [0.7] : Describe how the sample mean targets the population mean so that μ is the average of both X and X̄.
+- **Variance Of The Sampling Distribution** [0.6] : State that the variance of X̄ equals the population variance divided by the sample size n.
+- **Variance Of The Sampling Distribution** [0.6] : Calculate Var(X̄) as σ²/n for a given population variance σ² and sample size n.
+- **Standard Error Of The Mean** [0.9] : Define the standard error of the mean as the standard deviation of X̄, σ/√n.
+- **Standard Error Of The Mean** [0.9] : Calculate the standard error of the mean as σ/√n from a given σ and n.
+- **Standard Error Of The Mean** [0.9] : Describe the standard error as the typical distance between the sample mean and the population mean across repeated samples of size n.
+- **Z-Score For Sample Means** [0.6] : Define the z-score for a sample mean as z = (x̄ − μ)/(σ/√n).
+- **Z-Score For Sample Means** [0.6] : Calculate the z-score for a sample mean using z = (x̄ − μ)/(σ/√n).
+- **Z-Score For Sample Means** [0.6] : Differentiate between the z-score for a sample mean, which uses σ/√n, and the z-score for an individual observation, which uses σ.
+- **Sample Size Interpretation (n)** [0.5] : Define n as the number of values averaged in each sample.
+- **Sample Size Interpretation (n)** [0.5] : Differentiate between n (the number of values in each sample) and the number of times the experiment is performed.
+- **Sample Size Interpretation (n)** [0.5] : Use n correctly when computing the standard error σ/√n and when entering parameters for calculator functions involving sample means.
+- **Normalcdf For Sample Mean Probabilities** [0.7] : Use normalcdf(lower, upper, mean, standard error of the mean) to find probabilities for sample means.
+- **Normalcdf For Sample Mean Probabilities** [0.7] : Identify the correct inputs for normalcdf with sample means: lower, upper, μ of the original distribution, and σ/√n.
+- **InvNorm For Sample Mean Percentiles** [0.5] : Use invNorm(area to the left, mean, standard error of the mean) to find percentiles of the sampling distribution of X̄.
+- **InvNorm For Sample Mean Percentiles** [0.5] : Interpret a percentile of the sampling distribution in context to explain what proportion of sample means fall below that value.
+
+---
+# Section: seg_91 Heading：7.2 the central limit theorem for sums
+- **Central Limit Theorem For Sums** [1.0] : calculate the mean nμX and standard deviation σX√n of the normal model for ΣX under the central limit theorem for sums.
+- **Central Limit Theorem For Sums** [1.0] : interpret the central limit theorem for sums as stating that, for large n, ΣX is approximately normal with mean nμX and standard deviation σX√n.
+- **Central Limit Theorem For Sums** [1.0] : identify when increasing sample size justifies modeling ΣX with a normal distribution.
+- **Random Variable ΣX** [0.7] : calculate the total Σx for n observed values.
+- **Random Variable ΣX** [0.7] : interpret ΣX as the sum of n values drawn from the original distribution, distinct from a single observation.
+- **Mean Of Sums** [0.8] : state that the mean of the sums distribution equals n times the original mean.
+- **Mean Of Sums** [0.8] : calculate the mean of the sums distribution as nμX for given μX and n.
+- **Standard Deviation Of Sums** [0.8] : define the standard deviation of the sums distribution as the original standard deviation multiplied by the square root of n.
+- **Standard Deviation Of Sums** [0.8] : calculate the standard deviation of the sums distribution as σX√n for given σX and n.
+- **Z-Score For Sums** [0.6] : calculate the z-score for an observed sum using z = (Σx − nμX)/(σX√n).
+- **Normalcdf For Sums** [0.7] : use normalcdf(lower, upper, n×mean, √n×standard deviation) to find probabilities for sums.
+- **InvNorm For Sums** [0.6] : use invNorm(area to the left, n×mean, √n×standard deviation) to find percentiles for sums.
+- **InvNorm For Sums** [0.6] : interpret an invNorm output as the kth percentile of the distribution of ΣX in context.
+
+---
+# Section: seg_93 Heading：7.3 using the central limit theorem
+- **Central Limit Theorem For Sample Means** [0.9] : use the central limit theorem for sample means to compute probabilities and percentiles for a sample mean given the population mean, population standard deviation, and sample size
+- **Central Limit Theorem For Sample Means** [0.9] : interpret probabilities and percentiles for a sample mean in context by describing the proportion of sample means below or above a specified value
+- **Central Limit Theorem For Sums** [0.8] : identify the parameters of the normal approximation for totals as mean n×mu and standard deviation sqrt(n)×sigma for large samples
+- **Central Limit Theorem For Sums** [0.8] : calculate probabilities and percentiles for totals using the normal approximation provided by the central limit theorem for sums
+- **Central Limit Theorem For Sums** [0.8] : interpret probabilities and percentiles for totals by explaining what proportion of sample sums fall at or below a specified cutoff
+- **Appropriate Use Of The CLT** [1.0] : identify whether a question requires the central limit theorem for means or sums, or the exact distribution for an individual value
+- **Appropriate Use Of The CLT** [1.0] : differentiate between problems about individual values and those about sample means or sums, selecting the appropriate distribution in each case
+- **Appropriate Use Of The CLT** [1.0] : explain why probabilities for individual values and for sample means differ due to using different distributions and standard errors
+- **Law Of Large Numbers** [0.5] : define the law of large numbers as the tendency of the sample mean to approach the population mean as sample size increases
+- **Law Of Large Numbers** [0.5] : explain how the central limit theorem illustrates the law of large numbers through increasingly normal sample means and decreasing standard error as n grows
+- **Standard Error Of The Mean** [0.8] : calculate the standard error of the mean as sigma divided by the square root of n for a given population standard deviation and sample size
+- **Standard Error Of The Mean** [0.8] : explain how increasing the sample size reduces the standard error and decreases the variability of sample means
+- **Normal Approximation To The Binomial** [0.6] : use the normal approximation to the binomial to find probabilities when np and nq are sufficiently large, with mean np and standard deviation sqrt(npq)
+- **Normal Approximation To The Binomial** [0.6] : compare exact binomial probabilities with normal-approximation results and comment on their agreement
+- **Continuity Correction Factor** [0.5] : define the continuity correction factor as adjusting a discrete x by plus or minus 0.5 when using a continuous normal approximation to the binomial
+- **Continuity Correction Factor** [0.5] : use the continuity correction factor to translate binomial statements into normal bounds, such as X >= k becoming Y >= k - 0.5
+
+---
+# Section: seg_95 Heading：7.4 central limit theorem (pocket change)
+- **Central Limit Theorem** [1.0] : Construct comparisons of the distributions of averages for different n to illustrate how the distribution changes with sample size.
+- **Central Limit Theorem** [1.0] : Explain how increasing n affects the shape and variability of the distribution of averages in the pocket-change activity.
+- **Sample Size (n)** [0.9] : Define n as the number of individuals included per sample when recording raw values or averages.
+- **Sample Size (n)** [0.9] : Explain how changing n (1, 2, 5) alters what is recorded and the resulting histograms.
+- **Average (x̄)** [0.8] : Calculate x̄ for each sampling scenario (n = 1, 2, 5) from the recorded pocket-change data.
+- **Statistic S (s)** [0.5] : Calculate s for each sampling scenario (n = 1, 2, 5) to quantify variability in the recorded values or averages.
+- **Histogram** [0.7] : Construct a histogram with five to six intervals and appropriately scaled axes for the collected data or averages.
+- **Histogram** [0.7] : Describe the general shape of the distribution shown by the histogram in one to two sentences.
+- **Smooth Curve Through Histogram** [0.5] : Construct a smooth curve through the tops of the histogram bars to represent the distribution’s shape.
+- **Smooth Curve Through Histogram** [0.5] : Describe what the smooth curve indicates about the distribution’s shape for each sample size.
+- **Approximate Distribution Notation (X ~ …)** [0.6] : State the approximate distribution of the raw data using X ~ … notation.
+- **Approximate Distribution Notation (X ~ …)** [0.6] : Use X ~ … notation to communicate the approximate distribution of the raw data.
+- **Approximate Distribution Of Averages Notation (X̄ ~ …)** [0.7] : State the approximate distribution of the averages using X̄ ~ … notation.
+- **Approximate Distribution Of Averages Notation (X̄ ~ …)** [0.7] : Use X̄ ~ … notation to report the approximate distribution of the averages for different n.
+- **Random Survey** [0.5] : Execute a random survey of individuals, pairs, and groups of five to collect pocket-change data for analysis.
+
+---
+# Section: seg_97 Heading：7.5 central limit theorem (cookie recipes)
+- **Central Limit Theorem** [1.0] : calculate parameters and probabilities for X̄ and ΣX using X̄ ~ N(mu, sigma/sqrt(n)) and ΣX ~ N(n·mu, sqrt(n)·sigma) when n is sufficiently large.
+- **Central Limit Theorem** [1.0] : state the conditions and results of the central limit theorem for sample means and sums, including their approximate normal forms, means, and standard deviations.
+- **Central Limit Theorem** [1.0] : explain why the sampling distributions of means and sums become approximately normal as n increases and how their centers and spreads relate to mu and sigma.
+- **Central Limit Theorem For Sample Means (Averages)** [0.9] : state that for large n, X̄ is approximately N(mu, sigma/sqrt(n)) with mean equal to the population mean.
+- **Central Limit Theorem For Sample Means (Averages)** [0.9] : calculate the standard error sigma/sqrt(n), z-scores, percentiles, and probabilities for sample means.
+- **Central Limit Theorem For Sample Means (Averages)** [0.9] : compare the histogram of the population to histograms of sample means (for n = 5 versus n = 10) to assess changes in shape and variability predicted by the CLT.
+- **Central Limit Theorem For Sums** [0.8] : calculate the mean n·mu, standard deviation sqrt(n)·sigma, z-scores, and probabilities for sample sums using the CLT.
+- **Central Limit Theorem For Sums** [0.8] : state that for large n, ΣX is approximately N(n·mu, sqrt(n)·sigma) regardless of the population’s shape.
+- **Sampling Distribution** [0.7] : define a sampling distribution as the probability distribution of a statistic computed from all simple random samples of size n from a population.
+- **Sampling Distribution** [0.7] : construct an empirical sampling distribution by aggregating sample means from repeated random samples and sketching a histogram.
+- **Standard Error Of The Mean** [0.8] : define the standard error of the mean as the standard deviation of the sampling distribution of X̄, equal to sigma/sqrt(n).
+- **Standard Error Of The Mean** [0.8] : calculate the standard error sigma/sqrt(n) for a given population standard deviation and sample size.
+- **Normal Distribution** [0.6] : define the normal distribution with parameters mu and sigma and notation X ~ N(mu, sigma), including the standard normal case mu = 0 and sigma = 1.
+- **Normal Distribution** [0.6] : calculate normal probabilities and percentiles by standardizing with a z-score when mu and sigma are known.
+- **Mean** [0.5] : define the population mean mu and sample mean x̄ as the sum of values divided by the number of values.
+- **Mean** [0.5] : calculate x̄ and mu from raw data such as the cookie recipe durations.
+- **Z-Score For Sample Means** [0.7] : calculate the z-score for a sample mean using z = (x̄ − mu)/(sigma/sqrt(n)).
+- **Z-Score For Sample Means** [0.7] : state the z-score formula for sample means: z = (x̄ − mu)/(sigma/sqrt(n)).
+- **Z-Score For Sums** [0.6] : calculate the z-score for a sample sum using z = (Σx − n·mu)/(sqrt(n)·sigma).
+
+---
+# Chapter: seg_99 Heading：chapter 8: confidence intervals
+
+---
+# Section: seg_101 Heading：8.1 a single population mean using the normal distribution
+- **Confidence Interval For A Population Mean** [1.0] : Calculate a z-interval for a population mean when σ is known using x̄ ± EBM.
+- **Confidence Interval For A Population Mean** [1.0] : Interpret a confidence interval for μ by relating the confidence level to repeated sampling and stating bounds in context.
+- **Point Estimate Of The Population Mean** [0.6] : Define the point estimate of μ as the sample mean x̄.
+- **Point Estimate Of The Population Mean** [0.6] : Calculate the sample mean x̄ from sample data to serve as the point estimate of μ.
+- **Error Bound For A Population Mean (EBM)** [0.9] : Define the error bound for a mean as EBM = z_{α/2} · (σ/√n).
+- **Error Bound For A Population Mean (EBM)** [0.9] : Calculate EBM given σ, n, and a stated confidence level via z_{α/2}.
+- **Error Bound For A Population Mean (EBM)** [0.9] : Explain how EBM depends on the confidence level and sample size when σ is known.
+- **Confidence Level (CL)** [0.8] : Define the confidence level as CL = 1 − α and as the percent of intervals that capture the true parameter under repeated sampling.
+- **Confidence Level (CL)** [0.8] : Calculate CL or α using CL = 1 − α.
+- **Confidence Level (CL)** [0.8] : Interpret a stated confidence level in the context of repeated sampling for the parameter μ.
+- **Alpha (α)** [0.5] : Define alpha as the probability that the interval does not contain the true parameter, with α + CL = 1.
+- **Alpha (α)** [0.5] : Calculate α/2 for a two-sided interval given α.
+- **Alpha (α)** [0.5] : Describe how α is split equally into α/2 in each tail of the standard normal distribution for a two-sided confidence interval.
+- **Z-Score For Confidence Level (z_{α/2})** [0.8] : Define z_{α/2} as the standard normal critical value with right-tail area α/2 (left-tail area 1 − α/2).
+- **Z-Score For Confidence Level (z_{α/2})** [0.8] : Calculate z_{α/2} for a given confidence level using a Z table or invNorm with left-tail area 1 − α/2.
+- **Standard Error Of The Mean** [0.7] : Define the standard error of the mean as σ/√n when σ is known.
+- **Standard Error Of The Mean** [0.7] : Calculate the standard error σ/√n from given σ and n.
+- **Sampling Distribution Of The Sample Mean** [0.7] : State that x̄ is approximately normal with mean μ and standard deviation σ/√n when σ is known.
+- **Sampling Distribution Of The Sample Mean** [0.7] : Use the normal distribution of x̄ with known σ to justify constructing a z-interval for μ.
+- **Conditions For Using A Z-Interval For A Mean** [0.5] : Identify when a z-interval for a mean is appropriate: data from a random sample and known population σ.
+- **Confidence Interval Construction Steps** [0.8] : Calculate a confidence interval for μ by computing x̄, finding z for the stated CL, computing EBM, and forming x̄ ± EBM.
+- **Confidence Interval Construction Steps** [0.8] : Interpret the constructed interval with a clear, context-specific confidence statement.
+- **Interpretation Of A Confidence Interval** [0.6] : Interpret a confidence interval using the template 'We estimate with ___% confidence that the true mean (context) is between ___ and ___.'
+- **Interpretation Of A Confidence Interval** [0.6] : State the parameter, confidence level, and interval endpoints explicitly when reporting a confidence interval.
+- **Effect Of Changing The Confidence Level** [0.6] : Describe how increasing CL increases EBM and widens the interval, while decreasing CL narrows it.
+- **Effect Of Changing The Confidence Level** [0.6] : Calculate and compare EBM or interval widths for different confidence levels while holding σ, n, and x̄ fixed.
+- **Effect Of Changing The Sample Size** [0.6] : Describe how increasing n decreases EBM and narrows the interval, while decreasing n increases EBM and widens the interval.
+- **Effect Of Changing The Sample Size** [0.6] : Calculate and compare EBM for different sample sizes with σ and CL fixed.
+- **Working Backwards From A Confidence Interval** [0.5] : Calculate the error bound and sample mean from interval endpoints using EBM = (upper − lower)/2 and x̄ = (upper + lower)/2.
+- **Sample Size For A Desired Margin Of Error** [0.6] : Calculate the required sample size n = (z^2 σ^2)/(EBM^2) for a desired margin of error at a given confidence level, rounding up.
+- **Sample Size For A Desired Margin Of Error** [0.6] : State the rule to round the computed sample size up to the next whole number.
+
+---
+# Section: seg_103 Heading：8.2 a single population mean using the student t distribution
+- **Student's T-Distribution** [1.0] : Describe the shape and key properties of the Student's t-distribution, including symmetry about zero, heavier tails than the standard normal, and dependence on degrees of freedom.
+- **Student's T-Distribution** [1.0] : Calculate t critical values or tail probabilities for specified degrees of freedom using a calculator function (tcdf/invT) or a t-table.
+- **When To Use Student's T-Distribution** [0.9] : Identify scenarios where the population standard deviation is unknown and s estimates σ, indicating the Student's t-distribution should be used regardless of sample size.
+- **When To Use Student's T-Distribution** [0.9] : Explain why the Student's t-distribution is used instead of the normal distribution when σ is unknown, including issues with small samples and dependence on sample size.
+- **T-Score** [0.7] : Define the t-score as t = (x̄ − μ) / (s / √n) for samples from an approximately normal population with unknown σ.
+- **T-Score** [0.7] : Calculate a t-score from sample data given x̄, μ, s, and n.
+- **T-Score** [0.7] : Interpret a t-score as how many s/√n units the sample mean lies from the population mean.
+- **Degrees Of Freedom** [0.7] : Define degrees of freedom as df = n − 1 arising from the calculation of the sample standard deviation.
+- **Degrees Of Freedom** [0.7] : Calculate the degrees of freedom for a given sample size n as n − 1.
+- **Properties Of The Student's T-Distribution** [0.6] : Describe how the t-distribution has mean 0, is symmetric, has heavier tails than the standard normal, and approaches the normal as degrees of freedom increase.
+- **Properties Of The Student's T-Distribution** [0.6] : State that the Student's t-distribution is centered at zero, symmetric, and more spread out than the standard normal.
+- **Assumptions For Using Student's T-Distribution** [0.6] : Identify the assumptions needed for using the Student's t-distribution: a simple random sample from an approximately normal population with unknown μ and σ.
+- **Error Bound For The Mean (EBM)** [0.9] : Define the error bound for the mean when σ is unknown as EBM = t_(α/2) × s / √n with df = n − 1.
+- **Error Bound For The Mean (EBM)** [0.9] : Calculate the error bound for the mean given a confidence level, sample standard deviation, sample size, and degrees of freedom.
+- **Confidence Interval For A Population Mean (σ Unknown)** [0.9] : Calculate a confidence interval for a population mean using x̄ ± EBM when σ is unknown.
+- **Student's T Table** [0.5] : Use a Student's t table to find t critical values for specified degrees of freedom and confidence levels or tail areas.
+- **Student's T Table** [0.5] : Interpret the headings and entries of a t table, including how columns represent confidence levels or tail areas and rows represent degrees of freedom.
+
+---
+# Section: seg_105 Heading：8.3 a population proportion
+- **Population Proportion** [0.8] : Calculate a confidence interval estimate for the population proportion p from sample data using p′ ± EBP.
+- **Population Proportion** [0.8] : Interpret a confidence interval for the population proportion p in the context of a real-world problem.
+- **Population Proportion** [0.8] : Identify p as the true proportion of successes that is the parameter of interest in a binomial setting.
+- **Binomial Distribution For Counts** [0.7] : Define the binomial random variable X ~ B(n, p) as the count of successes in n trials with success probability p.
+- **Binomial Distribution For Counts** [0.7] : Describe the binomial model for counts of successes and its notation X ~ B(n, p).
+- **Sample Proportion (p′ Or p̂)** [0.9] : Define the sample proportion p′ (p-hat) as X/n, a point estimate of p.
+- **Sample Proportion (p′ Or p̂)** [0.9] : Calculate the sample proportion p′ from the number of successes x and sample size n.
+- **Complement Proportions (q And q′)** [0.6] : Define the complement proportions q = 1 − p and q′ = 1 − p′.
+- **Complement Proportions (q And q′)** [0.6] : Compute q or q′ as 1 minus the corresponding proportion p or p′.
+- **Normal Approximation For Sample Proportion** [0.8] : Identify when the sampling distribution of P′ is approximately normal (large n with p not near 0 or 1).
+- **Normal Approximation For Sample Proportion** [0.8] : Calculate the mean (p) and standard deviation sqrt(pq/n) of the approximate normal distribution of P′ when appropriate.
+- **Z-Score For Sample Proportion** [0.7] : State the z-score formula for a sample proportion as z = (p′ − p) / sqrt(pq/n).
+- **Z-Score For Sample Proportion** [0.7] : Calculate the z-score for a sample proportion given p′, p, and n.
+- **Confidence Interval For A Population Proportion** [1.0] : Compute a confidence interval for p using p′ ± z_{alpha/2} sqrt(p′ q′ / n).
+- **Confidence Interval For A Population Proportion** [1.0] : Interpret a confidence interval for p, including what the stated confidence level implies about repeated intervals.
+- **Confidence Interval For A Population Proportion** [1.0] : Define a confidence interval for a population proportion as the estimate p′ plus or minus the error bound EBP.
+- **Error Bound For A Proportion (EBP)** [0.9] : Define the error bound for a proportion as EBP = z_{alpha/2} sqrt(p′ q′ / n), using p′ and q′ because p and q are unknown.
+- **Error Bound For A Proportion (EBP)** [0.9] : Calculate the error bound EBP for a given confidence level using sample data p′, q′, and n.
+- **Conditions For Proportion Confidence Interval** [0.7] : State that the normal-based confidence interval for a proportion is valid only if np′ > 5 and nq′ > 5.
+- **Identifying A Proportion Problem** [0.5] : Identify problems that involve a population proportion as those focusing on counts of successes with no mention of a mean or average.
+- **Identifying A Proportion Problem** [0.5] : Classify a scenario as a binomial proportion problem when it concerns the number of successes out of n trials.
+- **Identifying A Proportion Problem** [0.5] : Differentiate proportion problems from mean problems by determining whether the parameter is a success probability p or a population mean.
+- **“Plus-Four” Confidence Interval For p** [0.8] : Calculate a plus-four confidence interval by using x + 2 successes and n + 4 trials when confidence level is at least 90% and sample size is at least 10.
+- **“Plus-Four” Confidence Interval For p** [0.8] : Identify when to apply the plus-four adjustment to improve the accuracy of a proportion confidence interval.
+- **Sample Size For Estimating A Proportion** [0.7] : Calculate the required sample size n = (z_{alpha/2}^2 p′ q′) / EBP^2 for a desired margin of error at a specified confidence level.
+- **Sample Size For Estimating A Proportion** [0.7] : Explain how rearranging the error bound formula yields the sample size equation for estimating a population proportion.
+- **Conservative Choice Of p′ For Sample Size** [0.6] : Explain why setting p′ = q′ = 0.5 maximizes p′q′ = 0.25 and produces the most conservative (largest) required sample size when p′ is unknown.
+- **Conservative Choice Of p′ For Sample Size** [0.6] : Use p′ = q′ = 0.5 to compute a conservative required sample size when there is no prior estimate of p.
+- **Confidence Level And α** [0.7] : Calculate alpha from a given confidence level and determine the corresponding z_{alpha/2} critical value.
+- **Confidence Level And α** [0.7] : State the relationship alpha = 1 − CL used in constructing confidence intervals for proportions.
+- **Confidence Level And α** [0.7] : Explain the long-run interpretation of a confidence level as the proportion of such intervals that would contain the true p in repeated sampling.
+
+---
+# Section: seg_107 Heading：8.4 confidence interval (home costs)
+- **Confidence Interval** [0.9] : calculate a confidence interval for the mean cost of a home using sample data and an appropriate distribution.
+- **Confidence Interval** [0.9] : interpret the confidence interval for the mean home cost in context.
+- **Confidence Level** [0.8] : calculate the confidence level from a given alpha or tail area.
+- **Confidence Level** [0.8] : explain what a stated confidence level means in terms of long-run capture of the population mean.
+- **Alpha (α)** [0.6] : calculate alpha as the combined tail area outside a specified confidence interval.
+- **Alpha (α)** [0.6] : state the value of alpha for a given confidence level.
+- **Tail Area (α/2)** [0.5] : calculate the area in each tail (alpha divided by two) for a given confidence level.
+- **Tail Area (α/2)** [0.5] : identify the tail regions corresponding to alpha over two on a confidence interval diagram.
+- **Tail Area (α/2)** [0.5] : interpret alpha over two as the probability of falling beyond each bound of the interval under the assumed model.
+- **Error Bound For The Mean (EBM)** [0.8] : calculate the error bound for the mean and use it to form the interval’s endpoints.
+- **Error Bound For The Mean (EBM)** [0.8] : explain how the error bound is determined and what it represents in constructing the interval.
+- **Sample Mean (X̄)** [0.6] : compute the sample mean of the recorded home sale prices.
+- **Sample Mean (X̄)** [0.6] : define the sample mean as the arithmetic average of the sampled home sale prices.
+- **Sample Standard Deviation (Sx)** [0.5] : compute the sample standard deviation of the recorded home sale prices.
+- **Sample Size (N)** [0.5] : compute the sample size by counting the number of recorded home sale prices.
+- **Random Variable X̄** [0.5] : define X̄ in words as the random variable representing the mean sale price from a random sample of homes.
+- **Estimated Distribution For X̄** [0.7] : state the estimated sampling distribution assumed for X̄ using words and symbols.
+- **Estimated Distribution For X̄** [0.7] : describe the assumed distribution for X̄ in words and symbols when constructing the confidence interval.
+- **Confidence Interval Limits** [0.5] : calculate the lower and upper limits of the confidence interval and mark them on a number line with the sample mean.
+- **Confidence Interval Limits** [0.5] : interpret the lower and upper limits as plausible bounds for the population mean home cost.
+- **Interval Width** [0.6] : calculate the width of a confidence interval as the difference between its upper and lower limits.
+- **Interval Width** [0.6] : compare interval widths across different confidence levels to determine how width changes as confidence increases.
+- **Interpretation Of A Confidence Interval** [0.8] : interpret a confidence interval in plain language for a general audience and for this home-price study.
+- **Effect Of Confidence Level On EBM And Width** [0.8] : explain how increasing the confidence level affects the error bound and the width of the interval, and why.
+
+---
+# Section: seg_109 Heading：8.5 confidence interval (place of birth)
+- **Confidence Interval** [1.0] : Calculate the 90% confidence interval for the proportion of students in this school who were born in this state from sample data.
+- **Confidence Interval** [1.0] : Interpret a calculated confidence interval for the proportion of students born in this state in the context of the class survey.
+- **Error Bound For A Proportion (EBP)** [0.8] : Calculate the error bound for the sample proportion associated with a specified confidence level.
+- **Error Bound For A Proportion (EBP)** [0.8] : Explain what the error bound represents in relation to the confidence interval for the sample proportion.
+- **Confidence Level** [0.7] : Calculate the confidence level when given the combined tail area α for a proportion confidence interval.
+- **Confidence Level** [0.7] : Explain what a confidence level means and how it relates to the proportion confidence interval and its error bound.
+- **Combined Tail Area (Alpha)** [0.6] : Calculate the combined tail area α corresponding to a stated confidence level.
+- **Combined Tail Area (Alpha)** [0.6] : Identify the combined tail area α as the total area in both tails of the sampling distribution used for the interval.
+- **Tail Area (Alpha/2)** [0.5] : Calculate the tail area α/2 from a given confidence level or α.
+- **Tail Area (Alpha/2)** [0.5] : Identify α/2 as the area in each tail of the sampling distribution for the interval.
+- **Sample Proportion (P′)** [0.9] : Define the random variable P′ as the sample proportion of surveyed students who were born in this state.
+- **Sample Proportion (P′)** [0.9] : Calculate P′ using x and n from the class survey.
+- **Sample Size (n)** [0.6] : State the sample size n for the class survey.
+- **Sample Size (n)** [0.6] : Use the sample size n when computing the sample proportion and the confidence interval.
+- **Number Born In This State (x)** [0.5] : Define x as the number of surveyed students who were born in this state.
+- **Number Born In This State (x)** [0.5] : Calculate x by counting the number of surveyed students born in this state.
+- **Estimated Distribution** [0.6] : State the estimated distribution to use for constructing the confidence interval for the sample proportion in this survey.
+- **Upper And Lower Limits** [0.7] : Calculate the upper and lower limits of the confidence interval for the proportion.
+- **Upper And Lower Limits** [0.7] : Identify the upper limit, lower limit, and the sample proportion on a number line or diagram.
+- **Interpretation Of Confidence Interval** [0.9] : Interpret what a confidence interval means in general, using clear, nontechnical language.
+- **Effect Of Confidence Level On Error Bound And Interval Width** [0.8] : Compare the error bounds and confidence interval widths obtained at 50%, 80%, 95%, and 99% confidence levels for the same sample.
+
+---
+# Section: seg_111 Heading：8.6 confidence interval (women's heights)
+- **Confidence Interval (CI)** [0.9] : Calculate a confidence interval for an unknown population parameter using the appropriate point estimate and error bound for a stated confidence level.
+- **Confidence Interval (CI)** [0.9] : Interpret a confidence interval in context, including what the stated confidence implies about long-run capture of the true parameter.
+- **Confidence Level (CL)** [0.9] : Define confidence level as the percent of all possible samples for which the constructed interval contains the true population parameter.
+- **Confidence Level (CL)** [0.9] : Explain how the confidence level relates to α and the proportion of intervals that fail to contain the parameter.
+- **Confidence Interval General Form** [0.6] : State the general form of a confidence interval as (point estimate − error bound, point estimate + error bound).
+- **Confidence Interval General Form** [0.6] : Construct a confidence interval by combining a point estimate with its error bound to produce lower and upper bounds.
+- **Error Bound For A Population Mean (EBM)** [0.8] : Calculate the error bound for a population mean using z(α/2)·σ/√n when σ is known or t(α/2, df)·s/√n when σ is unknown.
+- **Error Bound For A Population Mean (EBM)** [0.8] : Explain how confidence level, sample size, and σ or s determine the size of the error bound.
+- **Point Estimate** [0.6] : Define a point estimate as a single sample-based value (such as x̄ or p′) used to approximate a population parameter.
+- **Point Estimate** [0.6] : Calculate point estimates such as the sample mean x̄ or sample proportion p′ from given data.
+- **Standard Deviation** [0.6] : Define standard deviation as the square root of the variance measuring typical distance from the mean, denoted s for a sample and σ for a population.
+- **Standard Deviation** [0.6] : Calculate or use s or σ as needed when computing error bounds and confidence intervals.
+- **Normal Distribution** [0.6] : Define the normal distribution with parameters μ and σ and notation X ~ N(μ, σ).
+- **Normal Distribution** [0.6] : Calculate z-based error bounds or interval endpoints for a mean under normality when σ is known.
+- **Standard Normal Distribution** [0.5] : Define the standard normal distribution as N(0, 1) and the associated z-scores.
+- **Standard Normal Distribution** [0.5] : Use the standard normal distribution to obtain critical z-values and compute EBM when σ is known.
+- **Critical Z-Value** [0.8] : Define the critical z-value z(α/2) as the z-score with area α/2 to the right under the standard normal curve.
+- **Critical Z-Value** [0.8] : Calculate z(α/2) for a stated confidence level and apply it in the EBM formula.
+- **Alpha (α)** [0.5] : Define α as 1 − CL, representing the proportion of confidence intervals that will not contain the population parameter.
+- **Alpha (α)** [0.5] : Calculate α and α/2 from a given confidence level to support selection of critical values.
+- **Sampling Distribution Of The Sample Mean** [0.6] : Define the sampling distribution of x̄ as (approximately) normal with mean μ and standard deviation σ/√n.
+- **Sampling Distribution Of The Sample Mean** [0.6] : Describe how the central limit theorem justifies using the normal model for x̄ and how σ/√n determines its spread.
+- **Confidence Interval For A Single Population Mean (σ Known)** [1.0] : Calculate a confidence interval for a single population mean when σ is known using EBM = z(α/2)·σ/√n and (x̄ − EBM, x̄ + EBM).
+- **Confidence Interval For A Single Population Mean (σ Known)** [1.0] : Explain when the z-based interval for a mean is appropriate and how to recover EBM or x̄ from a given interval.
+- **Effect Of Confidence Level And Sample Size On Margin Of Error** [0.7] : Explain that increasing the confidence level increases EBM and increasing the sample size decreases EBM.
+- **Effect Of Confidence Level And Sample Size On Margin Of Error** [0.7] : Calculate how changes in CL or n affect EBM, including solving for n from a desired margin of error using n = (z·σ/EBM)^2.
+
+---
+# Chapter: seg_113 Heading：chapter 9: hypothesis testing with one sample
+
+---
+# Section: seg_115 Heading：9.1 null and alternative hypotheses
+- **Null Hypothesis (H0)** [1.0] : Define the null hypothesis (H0) as a statement of no difference between sample and population means or proportions (difference equals 0) that uses a symbol with equality.
+- **Null Hypothesis (H0)** [1.0] : Differentiate H0 from Ha by noting that H0 asserts no difference and includes an equality symbol, whereas Ha contradicts H0 and excludes equality.
+- **Alternative Hypothesis (Ha)** [0.9] : Define the alternative hypothesis (Ha) as a claim about the population that contradicts H0 and never includes an equality symbol, using ≠, >, or < as appropriate.
+- **Decision Options In Hypothesis Testing** [0.7] : State the two possible decisions in hypothesis testing: reject H0 if the sample information favors Ha, or do not reject H0 if the evidence is insufficient to reject H0.
+- **Decision Options In Hypothesis Testing** [0.7] : Explain when to reject H0 versus when to not reject H0 based on whether the sample evidence favors Ha or is insufficient.
+- **Symbol Conventions For Hypotheses** [0.8] : Translate verbal test statements into symbolic hypotheses by placing equality only in H0 and using ≠, >, or < in Ha according to the test wording.
+- **Symbol Conventions For Hypotheses** [0.8] : State that H0 uses symbols with equality (=, ≤, ≥) while Ha uses ≠, <, or >, depending on the test wording.
+- **Acceptable Equality Notation In H0** [0.5] : Explain why using '=' in H0 is acceptable even when Ha uses '>' or '<' because the decision is only to reject or not reject H0.
+- **Acceptable Equality Notation In H0** [0.5] : State that including '=' in H0 is acceptable even when Ha is one-sided ('>' or '<').
+
+---
+# Section: seg_117 Heading：9.2 outcomes and the type i and type ii errors
+- **Type I Error** [0.9] : Define Type I error as rejecting the null hypothesis when the null hypothesis is true, with probability α.
+- **Type I Error** [0.9] : Describe real-world contexts and consequences of committing a Type I error in hypothesis testing.
+- **Type II Error** [0.9] : Define Type II error as not rejecting the null hypothesis when the null hypothesis is false, with probability β.
+- **Type II Error** [0.9] : Describe real-world contexts and consequences of committing a Type II error in hypothesis testing.
+- **Alpha (α)** [0.8] : Define alpha (α) as the probability of a Type I error—the probability of rejecting a true null hypothesis.
+- **Alpha (α)** [0.8] : Describe how α measures the chance of a Type I error and why it is chosen to be small.
+- **Beta (β)** [0.8] : Define beta (β) as the probability of a Type II error—the probability of not rejecting a false null hypothesis.
+- **Beta (β)** [0.8] : Describe how β measures the chance of a Type II error and its relationship to test power (1 − β).
+- **Power Of The Test** [0.6] : Define the power of a test as the probability of rejecting the null hypothesis when it is false, equal to 1 − β.
+- **Power Of The Test** [0.6] : Describe why high power is desirable and how increasing sample size can increase power.
+
+---
+# Section: seg_119 Heading：9.3 distribution needed for hypothesis testing
+- **Student's T-Distribution** [0.9] : identify when a Student's t-distribution is appropriate for testing a single population mean, including an unknown population standard deviation, a simple random sample, and approximate normality or sufficiently large sample size
+- **Student's T-Distribution** [0.9] : use a Student's t-distribution and the sample standard deviation to perform a hypothesis test for a single population mean under the required assumptions
+- **Z-Test For A Single Population Mean** [0.8] : identify scenarios where a z-test for a single population mean is appropriate, given a known population standard deviation, a simple random sample, and either a normal population or a sufficiently large sample
+- **Z-Test For A Single Population Mean** [0.8] : describe the requirements for using the normal distribution to test a single population mean, including a simple random sample, a known population standard deviation, and normality or large-sample conditions
+- **Z-Test For A Single Population Mean** [0.8] : differentiate between conditions that call for a z-test and those that call for a t-test when testing a single population mean
+- **Normal Distribution For A Single Population Proportion** [0.8] : describe how the normal distribution is used to test a single population proportion when binomial conditions hold and np > 5 and nq > 5
+- **Normal Distribution For A Single Population Proportion** [0.8] : state the normal-approximation criteria np > 5 and nq > 5 for testing a single population proportion
+- **Normal Distribution For A Single Population Proportion** [0.8] : calculate np and nq for a given sample to check whether the normal approximation is appropriate for a single-proportion test
+- **Binomial Conditions** [0.7] : define the binomial conditions as a fixed number of independent trials with success or failure outcomes and the same probability of success p
+- **Population Mean (μ)** [0.6] : define the population mean μ as the parameter of interest in hypothesis tests of a single mean
+- **Population Mean (μ)** [0.6] : describe how the population mean μ is estimated by the sample mean x̄ when testing a single population mean
+- **Sample Mean (x̄) As Point Estimate** [0.5] : define the sample mean x̄ as the point estimate of the population mean μ used in tests of a single mean
+- **Population Proportion (p)** [0.6] : define the population proportion p as the parameter of interest in tests of a single proportion
+- **Population Proportion (p)** [0.6] : describe how p relates to q = 1 − p and serves as the mean of the sampling distribution of p′ under the normal approximation
+- **Sample Proportion (p′)** [0.5] : define the sample proportion p′ as x/n, where x is the number of successes and n is the sample size
+- **Sample Proportion (p′)** [0.5] : calculate the sample proportion p′ from observed successes x and sample size n
+- **Simple Random Sample** [0.7] : identify the need for a simple random sample when conducting hypothesis tests for a single mean or a single proportion
+
+---
+# Section: seg_121 Heading：9.4 rare events, the sample, decision and conclusion
+- **Rare Event** [0.7] : define a rare event in hypothesis testing as a sample outcome that would be very unlikely if the null hypothesis were true.
+- **Rare Event** [0.7] : explain why observing a rare event leads you to doubt the null hypothesis.
+- **Null Hypothesis (H0)** [0.7] : define the null hypothesis as an assumption about a population property to be tested.
+- **Null Hypothesis (H0)** [0.7] : interpret the role of the null hypothesis in framing the test and the meaning of the p-value.
+- **Alternative Hypothesis (Ha)** [0.6] : translate verbal claims (for example, 'is more than') into a symbolic alternative hypothesis that contradicts H0.
+- **Alternative Hypothesis (Ha)** [0.6] : state an appropriate alternative hypothesis that directly contradicts the stated null hypothesis.
+- **p-Value** [0.9] : calculate a p-value from sample results as the probability, under H0, of obtaining results as extreme or more extreme than those observed.
+- **p-Value** [0.9] : compare a computed p-value with α to assess the strength of evidence against H0.
+- **Significance Level (Alpha, α)** [0.8] : define the significance level α as the preset probability of a Type I error used as a decision threshold.
+- **Significance Level (Alpha, α)** [0.8] : compare α and the p-value to decide whether results are statistically significant.
+- **Type I Error** [0.5] : define a Type I error as rejecting the null hypothesis when the null hypothesis is true.
+- **Type I Error** [0.5] : describe how the chosen α quantifies the chance of making a Type I error.
+- **p-Value Decision Rule** [0.8] : state the decision rule: if α > p-value, reject H0; if α ≤ p-value, do not reject H0.
+- **p-Value Decision Rule** [0.8] : compare cases where α is greater than, less than, or equal to the p-value to determine the correct decision about H0.
+- **p-Value Decision Rule** [0.8] : use the p-value decision rule to make and report a reject or do-not-reject decision for H0.
+- **Statistical Significance** [0.6] : define statistical significance as occurring when p-value < α and nonsignificance when p-value ≥ α.
+- **Statistical Significance** [0.6] : compare significant versus not significant outcomes based on the relationship between p-value and α.
+- **Interpretation Of Non-Rejection** [0.6] : interpret a do-not-reject decision as insufficient evidence to cast serious doubt on H0 rather than proof that H0 is true.
+- **Interpretation Of Non-Rejection** [0.6] : state that non-rejection of H0 indicates inadequate evidence for Ha in the context of the problem.
+- **Conclusion Statement** [0.5] : interpret statistical results by writing a conclusion about the hypotheses in simple, non-technical terms for the given context.
+- **Conclusion Statement** [0.5] : state a clear, context-specific conclusion that aligns with the p-value–α comparison and the hypotheses.
+
+---
+# Section: seg_123 Heading：9.5 additional information and full hypothesis test examples
+- **Level Of Significance (Alpha)** [0.9] : define the level of significance (α) as the preset probability threshold chosen before data collection, commonly 0.05 when unspecified.
+- **Level Of Significance (Alpha)** [0.9] : compare preset α levels (e.g., 0.01 versus 0.05) in terms of how stringent they are for rejecting H0.
+- **P-Value** [1.0] : calculate the p-value as the appropriate left-tail, right-tail, or two-tailed area under the test distribution for a given sample result.
+- **P-Value** [1.0] : interpret the p-value as the probability, assuming H0 is true, of observing a result as extreme or more than the sample.
+- **Left-, Right-, And Two-Tailed Tests** [0.8] : classify a hypothesis test as left-tailed, right-tailed, or two-tailed based on the form of Ha.
+- **Left-, Right-, And Two-Tailed Tests** [0.8] : identify the tail or tails associated with the p-value from a stated alternative hypothesis or p-value sketch.
+- **Alternative Hypothesis** [0.8] : classify the test direction from the alternative hypothesis and recognize that it contains no equal sign.
+- **Alternative Hypothesis** [0.8] : formulate an alternative hypothesis using <, >, or ≠ to reflect the research claim without including an equal sign.
+- **Decision Rule Using P-Values** [0.9] : compare the p-value to α to decide whether to reject or not reject H0.
+- **Decision Rule Using P-Values** [0.9] : state the decision rule that H0 is rejected when p-value < α and not rejected when p-value > α.
+- **Decision Rule Using P-Values** [0.9] : use the comparison of p-value and α to reach a conclusion in a hypothesis test.
+- **Evidence Strength From P-Value** [0.6] : explain how smaller p-values increase confidence in rejecting H0 and larger p-values increase confidence in not rejecting H0.
+- **Null Hypothesis Parameter Value** [0.6] : identify the parameter value used in test calculations (such as μ or p) as coming from H0 and not from the sample.
+- **Null Hypothesis Parameter Value** [0.6] : use the null hypothesis parameter value when computing the test statistic or p-value.
+- **Type I Error** [0.6] : define a Type I error as rejecting the null hypothesis when the null hypothesis is true.
+- **Type I Error** [0.6] : explain the consequences of a Type I error and why a small α may be chosen to limit it in high-stakes contexts.
+- **Type II Error** [0.5] : define a Type II error as not rejecting the null hypothesis when the null hypothesis is false.
+- **Z-Test For A Single Mean** [0.7] : identify when a z-test for a single mean is appropriate (population standard deviation known and normal model applies).
+- **Z-Test For A Single Mean** [0.7] : calculate the test statistic and p-value for a single-mean z-test using μ0, σ, x̄, and n.
+- **Z-Test For A Single Mean** [0.7] : interpret the z-test p-value to make a conclusion at a stated level of significance.
+- **Sampling Distribution Of The Sample Mean (Known σ)** [0.6] : identify that the sampling distribution of X̄ is normal with mean μ and standard deviation σ/√n when σ is known.
+- **Sampling Distribution Of The Sample Mean (Known σ)** [0.6] : calculate probabilities for X̄ using N(μ, σ/√n) to obtain a p-value for a mean test.
+- **T-Test For A Single Mean** [0.7] : identify when a t-test for a single mean is appropriate (population standard deviation unknown and data from a normal distribution).
+- **T-Test For A Single Mean** [0.7] : calculate the t test statistic, degrees of freedom, and p-value for a single-mean t-test from sample data.
+- **T-Test For A Single Mean** [0.7] : interpret the t-test p-value to make a conclusion at a stated level of significance.
+- **Degrees Of Freedom (t-Test)** [0.5] : calculate the degrees of freedom for a single-mean t-test as n − 1.
+- **Degrees Of Freedom (t-Test)** [0.5] : state the degrees of freedom for a single-mean t-test given the sample size.
+- **One-Proportion Z-Test** [0.8] : calculate the p-value for a one-proportion z-test from p0, n, and x (or p′).
+- **One-Proportion Z-Test** [0.8] : state appropriate null and alternative hypotheses for a single population proportion test using p.
+- **One-Proportion Z-Test** [0.8] : interpret the one-proportion z-test p-value to make a conclusion at a stated level of significance.
+- **Sampling Distribution Of The Sample Proportion** [0.6] : state that P′ ~ N(p, pq/n) with q = 1 − p under the normal approximation.
+- **Sampling Distribution Of The Sample Proportion** [0.6] : calculate tail probabilities for P′ using mean p and standard deviation √(pq/n) to compute a p-value.
+- **Sample Proportion (P′)** [0.6] : define the sample proportion as p′ = x/n.
+- **Sample Proportion (P′)** [0.6] : calculate p′ from given counts of successes and the sample size.
+- **Conditions For One-Proportion Z-Test** [0.5] : identify the conditions for using the one-proportion z-test: sufficiently large np and nq, two independent outcomes, and a fixed probability of success.
+- **Conditions For One-Proportion Z-Test** [0.5] : calculate np and nq to check that the normal approximation conditions are met.
+
+---
+# Section: seg_125 Heading：9.6 hypothesis testing of a single mean and single proportion
+- **Hypothesis** [0.7] : define a hypothesis as a statement about a population parameter with a null and an alternative
+- **Hypothesis** [0.7] : formulate null and alternative hypotheses for a claim about a single mean or a single proportion
+- **Null Hypothesis** [0.9] : define the null hypothesis as the statement assumed true that includes equality (=, ≤, or ≥)
+- **Alternative Hypothesis** [0.8] : state the alternative hypothesis using <, >, or ≠ to contradict the null
+- **Alternative Hypothesis** [0.8] : classify a hypothesis test as left-tailed, right-tailed, or two-tailed based on the alternative hypothesis
+- **Hypothesis Testing** [1.0] : state the steps of a hypothesis test for a single mean or a single proportion
+- **Hypothesis Testing** [1.0] : calculate a test statistic and corresponding p-value from sample data for a one-sample test
+- **Hypothesis Testing** [1.0] : interpret the test outcome by comparing the p-value to α and writing a contextual conclusion
+- **Level Of Significance** [0.8] : define the level of significance α as the preset probability of a Type I error
+- **Level Of Significance** [0.8] : compare α to a p-value to decide whether to reject or not reject H0
+- **p-Value** [0.9] : define the p-value as the probability of observing the sample result or more extreme assuming H0 is true
+- **p-Value** [0.9] : calculate a p-value from a z-score or t-score in a one-sample test
+- **p-Value** [0.9] : interpret smaller p-values as stronger evidence against the null hypothesis in context
+- **Type I Error** [0.8] : define a Type I error as rejecting a true null hypothesis
+- **Type I Error** [0.8] : differentiate between Type I and Type II errors in a given testing scenario
+- **Type II Error** [0.7] : define a Type II error as not rejecting a false null hypothesis
+- **Type II Error** [0.7] : calculate β or 1 − β when given the other value or sufficient information
+- **Power Of The Test** [0.6] : define the power of a test as 1 − β
+- **Power Of The Test** [0.6] : calculate the power of a test given β or related information
+- **Power Of The Test** [0.6] : interpret power as the likelihood of correctly supporting a true alternative hypothesis and explain why higher power is desirable
+- **Binomial Distribution** [0.5] : define the binomial distribution as the number of successes in n independent Bernoulli trials with success probability p
+- **Binomial Distribution** [0.5] : describe the conditions for a binomial model and its parameters and probability formula
+- **Normal Distribution** [0.8] : define the normal distribution N(μ, σ) and the standard normal N(0, 1)
+- **Normal Distribution** [0.8] : use the normal distribution to model a single mean with known σ and to compute z-based p-values
+- **Student's t-Distribution** [0.8] : define the Student's t-distribution and its characteristics, including symmetry, heavier tails, and dependence on degrees of freedom
+- **Student's t-Distribution** [0.8] : use the t-distribution to conduct a one-sample t-test when the population standard deviation is unknown
+- **Central Limit Theorem** [0.6] : define the Central Limit Theorem for sample means and sample sums
+- **Central Limit Theorem** [0.6] : describe how for sufficiently large n, the distributions of X̄ and ΣX approximate normal with specified means and standard errors
+- **Standard Error Of The Mean** [0.6] : define the standard error of the mean as σ divided by the square root of n
+- **Standard Error Of The Mean** [0.6] : calculate the standard error of the mean for given σ and sample size n
+- **Decision Rule Using p-Value** [0.9] : compare the p-value to α to determine whether to reject H0 or not reject H0
+- **Decision Rule Using p-Value** [0.9] : use the rule α > p-value to reject H0 and α ≤ p-value to not reject H0 in making a decision
+- **Decision Rule Using p-Value** [0.9] : state the decision rule that relates α and the p-value
+- **Student's t-Test For A Single Mean** [0.9] : identify when a one-sample t-test is appropriate based on sampling conditions and unknown σ
+- **Student's t-Test For A Single Mean** [0.9] : use a one-sample t-test to compute a test statistic, find a p-value, and make a decision
+- **Student's t-Test For A Single Mean** [0.9] : interpret the results of a one-sample t-test in the context of the claim
+- **Normal Test For A Single Mean** [0.8] : identify when a z-test for a single mean is appropriate given a simple random sample and known σ or large n
+- **Normal Test For A Single Mean** [0.8] : use a z-test for a single mean to compute a z-score, determine a p-value, and decide on H0
+- **Normal Test For A Single Proportion** [0.9] : identify when a normal test for a single proportion is appropriate using binomial conditions with np and nq greater than five
+- **Normal Test For A Single Proportion** [0.9] : use a normal test for a single proportion to compute a test statistic, find a p-value, and make a decision
+- **Rare Event** [0.5] : define a rare event as a low-probability outcome whose occurrence is important in hypothesis testing
+- **Rare Event** [0.5] : explain how the occurrence of a rare event can influence the decision to reject or not reject a null hypothesis
+- **Degrees Of Freedom** [0.5] : define degrees of freedom for the t-distribution as one less than the number of data items
+- **Degrees Of Freedom** [0.5] : calculate degrees of freedom as n minus 1 for a one-sample t-test
+
+---
+# Chapter: seg_127 Heading：chapter 10: hypothesis testing with two samples
+
+---
+# Section: seg_129 Heading：10.1 two population means with unknown standard deviations
+- **Aspin-Welch T-Test** [0.9] : calculate the Welch two-sample t-test statistic, approximate degrees of freedom, and p-value for two independent samples with unknown and possibly unequal population standard deviations.
+- **Aspin-Welch T-Test** [0.9] : interpret the Welch two-sample t-test results (t, df, p-value) to decide whether the population means differ and state a context-specific conclusion.
+- **Assumptions For Independent Two-Sample Test** [0.8] : list the assumptions: two independent simple random samples from distinct populations; normal population distributions for small samples; large samples need not be normal.
+- **Assumptions For Independent Two-Sample Test** [0.8] : describe when population normality is required (small samples) versus less critical (large samples) and the need for independent simple random samples from distinct populations.
+- **Standard Error Of The Difference In Means** [0.7] : define the standard error of X̄1 − X̄2 as the estimated standard deviation of the difference between sample means.
+- **Standard Error Of The Difference In Means** [0.7] : calculate the standard error of X̄1 − X̄2 as sqrt(s1^2/n1 + s2^2/n2).
+- **Standard Error Of The Difference In Means** [0.7] : explain how the standard error quantifies variability in the difference of sample means and why it is used to standardize that difference.
+- **Two-Sample t Test Statistic** [0.8] : calculate the two-sample t statistic as [(x̄1 − x̄2) − (μ1 − μ2)] / sqrt(s1^2/n1 + s2^2/n2).
+- **Two-Sample t Test Statistic** [0.8] : explain that the two-sample t statistic standardizes the difference of sample means using the estimated standard error under the null hypothesis.
+- **Two-Sample t Test Statistic** [0.8] : state the formula for the two-sample t statistic used in Welch’s test.
+- **Degrees Of Freedom For Welch’s Test** [0.7] : calculate the approximate degrees of freedom for Welch’s test using the Welch–Aspin formula from s1, s2, n1, and n2.
+- **Degrees Of Freedom For Welch’s Test** [0.7] : describe that Welch’s degrees of freedom are approximate, may be non-integer, and are typically computed by software.
+- **Non-Pooled Variances** [0.7] : identify that sample variances must not be pooled when comparing two means with unknown and possibly unequal population standard deviations.
+- **Non-Pooled Variances** [0.7] : calculate the Welch two-sample standard error and degrees of freedom without pooling variances.
+- **Distributional Approximation Conditions** [0.5] : state that the t approximation is very good when both n1 and n2 are at least five and that when n1 + n2 > 30 the normal distribution can approximate the t.
+- **Random Variable For Two-Sample Comparison** [0.6] : define the random variable as X̄1 − X̄2, the difference between the sample means of the two groups.
+- **Cohen’s d** [0.7] : calculate Cohen’s d as (x̄1 − x̄2) / s_pooled.
+- **Cohen’s d** [0.7] : classify a computed Cohen’s d as small, medium, or large using the 0.2, 0.5, and 0.8 benchmarks.
+- **Cohen’s Standard Effect Sizes** [0.6] : interpret the magnitude of a Cohen’s d by relating it to the small, medium, and large effect size standards.
+- **Cohen’s Standard Effect Sizes** [0.6] : state Cohen’s standard thresholds for effect size: 0.2 (small), 0.5 (medium), 0.8 (large).
+- **Pooled Standard Deviation (For Cohen’s d)** [0.6] : define the pooled standard deviation for Cohen’s d as the square root of the weighted average of sample variances from both groups.
+- **Pooled Standard Deviation (For Cohen’s d)** [0.6] : calculate the pooled standard deviation from s1, s2, n1, and n2 for use in Cohen’s d.
+
+---
+# Section: seg_131 Heading：10.2 two population means with known standard deviations
+- **Independent Means With Known Population Standard Deviations** [0.8] : calculate the two-sample z test statistic and p-value for comparing two population means with known standard deviations using sample summaries and a stated significance level
+- **Independent Means With Known Population Standard Deviations** [0.8] : formulate a two-sample hypothesis test for μ1 − μ2 with known population standard deviations, including appropriate H0 and Ha based on problem wording
+- **Independent Means With Known Population Standard Deviations** [0.8] : interpret the outcome of a two-sample z test for μ1 − μ2 by relating the p-value to α and stating the contextual conclusion
+- **Random Variable X̄1 − X̄2** [0.6] : define X̄1 − X̄2 as the difference between the sample means from two independent groups
+- **Random Variable X̄1 − X̄2** [0.6] : calculate x̄1 − x̄2 from given sample means to quantify the observed difference
+- **Sampling Distribution Of X̄1 − X̄2** [0.9] : define the sampling distribution of X̄1 − X̄2 as normal with mean μ1 − μ2 and parameter (σ1)²/n1 + (σ2)²/n2
+- **Sampling Distribution Of X̄1 − X̄2** [0.9] : calculate the parameter (σ1)²/n1 + (σ2)²/n2 of the sampling distribution of X̄1 − X̄2 when σ1, σ2, n1, and n2 are known
+- **Standard Deviation Of X̄1 − X̄2** [0.8] : define the standard deviation of X̄1 − X̄2 as (σ1)²/n1 + (σ2)²/n2 when both population standard deviations are known
+- **Standard Deviation Of X̄1 − X̄2** [0.8] : calculate (σ1)²/n1 + (σ2)²/n2 for given σ1, σ2, n1, and n2
+- **Z-Test Statistic For Two Population Means (Known σ1, σ2)** [0.9] : define the two-sample z test statistic as z = [(x̄1 − x̄2) − (μ1 − μ2)] ÷ [(σ1)²/n1 + (σ2)²/n2]
+- **Z-Test Statistic For Two Population Means (Known σ1, σ2)** [0.9] : calculate the z test statistic for comparing two means using x̄1, x̄2, the hypothesized μ1 − μ2, σ1, σ2, n1, and n2
+- **Hypotheses For Comparing Two Means** [0.8] : state H0: μ1 ≤ μ2 and Ha: μ1 > μ2 for a right-tailed comparison when the claim is that group 1 is greater
+- **Hypotheses For Comparing Two Means** [0.8] : translate comparative phrases such as “is more effective” or “older than” into Ha: μ1 > μ2 with H0: μ1 ≤ μ2
+- **Right-Tailed Test Determination** [0.6] : translate a stated “greater than” research claim into selecting a right-tailed test for μ1 − μ2
+- **Right-Tailed Test Determination** [0.6] : identify when a right-tailed test is appropriate based on an alternative hypothesis using “>”
+- **p-Value Decision Rule** [0.7] : compare α with the p-value and conclude not to reject H0 when α < p-value
+- **p-Value Decision Rule** [0.7] : use the p-value decision rule at a stated α to decide whether to reject H0 for μ1 − μ2
+- **p-Value Decision Rule** [0.7] : state the decision rule: do not reject H0 when α < p-value
+- **Assumptions For Validity** [0.7] : identify the assumptions required for validity: two independent groups and both populations are normal
+
+---
+# Section: seg_133 Heading：10.3 comparing two independent population proportions
+- **Conditions For Comparing Two Independent Population Proportions** [0.8] : list the required conditions for comparing two independent population proportions: independent simple random samples, at least five successes and five failures in each sample, and populations at least ten to twenty times the sample sizes
+- **Conditions For Comparing Two Independent Population Proportions** [0.8] : describe how these conditions support valid two-proportion inference and help prevent oversampling and incorrect results
+- **Hypothesis Test For Two Independent Population Proportions** [1.0] : state the purpose and setup of a hypothesis test for two independent population proportions, including the typical null hypothesis H0: pA = pB
+- **Hypothesis Test For Two Independent Population Proportions** [1.0] : calculate the p-value for a two-proportion hypothesis test from sample counts using the pooled standard error and normal model
+- **Hypothesis Test For Two Independent Population Proportions** [1.0] : compare the observed difference in sample proportions to what is expected under the null hypothesis to assess whether a population difference is plausible
+- **Null Hypothesis For Two Proportions** [0.8] : define the null hypothesis for two proportions as equality of population proportions, H0: pA = pB (equivalently pA − pB = 0)
+- **Random Variable For Two-Proportion Test** [0.6] : define the random variable as the difference in sample proportions, P′A − P′B
+- **Random Variable For Two-Proportion Test** [0.6] : calculate the observed value of the random variable P′A − P′B from sample data
+- **Pooled Proportion** [0.9] : define the pooled proportion used under the null hypothesis as pc = (xA + xB) / (nA + nB)
+- **Pooled Proportion** [0.9] : calculate the pooled proportion pc from given sample successes and sizes
+- **Sampling Distribution Of Difference In Sample Proportions** [0.7] : describe the sampling distribution of P′A − P′B as approximately normal with mean 0 and variance pc(1 − pc)(1/nA + 1/nB) under the null hypothesis
+- **Sampling Distribution Of Difference In Sample Proportions** [0.7] : calculate the standard error sqrt[pc(1 − pc)(1/nA + 1/nB)] for the difference in sample proportions
+- **Two-Proportion Z-Test Statistic** [0.9] : calculate the two-proportion z test statistic using z = [(p′A − p′B) − (pA − pB)] / sqrt[pc(1 − pc)(1/nA + 1/nB)]
+- **Two-Proportion Z-Test Statistic** [0.9] : state the formula for the two-proportion z test statistic
+- **Tail Selection For Two-Proportion Tests** [0.7] : identify whether a test is two-tailed, left-tailed, or right-tailed from phrases such as is a difference, less than, or more popular
+- **Tail Selection For Two-Proportion Tests** [0.7] : classify a research question into the correct tail direction by matching the alternative hypothesis to <, >, or ≠
+- **Decision Rule Using P-Value And Alpha** [0.8] : compare the p-value to the significance level α to decide whether to reject or not reject the null hypothesis
+- **Decision Rule Using P-Value And Alpha** [0.8] : use the p-value and α to make and report a reject or do not reject decision for H0 in context
+- **Decision Rule Using P-Value And Alpha** [0.8] : state the decision rule: reject H0 if the p-value is less than or equal to α; otherwise do not reject H0
+- **Sample Proportion** [0.6] : calculate a sample proportion p′ = x / n for each group
+- **Sample Proportion** [0.6] : compare two sample proportions to obtain the observed difference used in the two-proportion test
+
+---
+# Section: seg_135 Heading：10.4 matched or paired samples
+- **Matched Or Paired Samples** [0.9] : describe a matched or paired-samples design in which two measurements are taken on the same pair and the analysis is based on their differences
+- **Matched Or Paired Samples** [0.9] : calculate paired differences from matched measurements to prepare data for analysis
+- **Differences As Data** [0.9] : calculate the set of paired differences that constitute the sample used in the hypothesis test
+- **Differences As Data** [0.9] : state that the paired differences, not the original measurements, are the data analyzed in the test
+- **Population Mean Of Differences (μd)** [0.8] : define μd as the population mean of the paired differences
+- **Population Mean Of Differences (μd)** [0.8] : interpret μd in context as the average change between paired measurements and the meaning of its sign
+- **Paired t-Test For Mean Difference** [0.8] : calculate the p-value for a paired t-test of μd using the t distribution with n − 1 degrees of freedom
+- **Paired t-Test For Mean Difference** [0.8] : state appropriate null and alternative hypotheses for μd for one-sided or two-sided questions
+- **Paired t-Test For Mean Difference** [0.8] : interpret the p-value and decision rule to conclude whether to reject or not reject H0 at a stated significance level
+- **Test Statistic For Paired t-Test** [0.6] : state the formula t = (x̄d − μd) / (sd/√n) for the paired t-test statistic
+- **Test Statistic For Paired t-Test** [0.6] : calculate the t-score given x̄d, sd, n, and a hypothesized μd
+- **Assumptions For Paired Samples Test** [0.7] : list the assumptions for a paired-samples t-test, including simple random sampling, small sample sizes, and normality of differences or sufficiently large n for approximate normality
+- **Random Variable X̄d** [0.5] : define X̄d as the sample mean of the paired differences used in the t test
+- **Random Variable X̄d** [0.5] : calculate X̄d from a set of paired differences
+- **Degrees Of Freedom For Paired t-Test** [0.5] : define the degrees of freedom for a paired t test as n − 1, where n is the number of paired differences
+- **Degrees Of Freedom For Paired t-Test** [0.5] : calculate the degrees of freedom for a paired t test given n
+
+---
+# Section: seg_137 Heading：10.5 hypothesis testing for two means and two proportions
+- **Two Population Means With Unknown Standard Deviations** [0.9] : identify when to use a two-sample t-test for independent means with unknown population standard deviations and the associated Student’s t-distribution without pooling variances
+- **Two Population Means With Unknown Standard Deviations** [0.9] : calculate the t-test statistic, appropriate degrees of freedom, standard error, and p-value for comparing two population means with unknown standard deviations using sample data
+- **Two Population Means With Unknown Standard Deviations** [0.9] : interpret the decision and conclusion from a two-sample t-test with unknown standard deviations in the context of the problem
+- **Two Population Means With Known Standard Deviations** [0.8] : identify situations requiring a two-sample z-test for independent means with known population standard deviations and the normal distribution
+- **Two Population Means With Known Standard Deviations** [0.8] : calculate the z-test statistic, standard error, and p-value for comparing two population means when population standard deviations are known or approximated by sample standard deviations
+- **Two Population Means With Known Standard Deviations** [0.8] : interpret the outcomes of a two-sample z-test for means, stating the decision and a clear conclusion about the difference in population means
+- **Comparing Two Independent Population Proportions** [0.9] : identify when to compare two independent population proportions and that the sampling distribution of p-hat differences is approximately normal
+- **Comparing Two Independent Population Proportions** [0.9] : calculate the pooled proportion, standard error, z-test statistic, and p-value for a two-proportion hypothesis test
+- **Comparing Two Independent Population Proportions** [0.9] : interpret the results of a two-proportion z-test in context, including the direction and meaning of any significant difference
+- **Matched Or Paired Samples** [0.8] : classify a study as matched or paired samples versus independent samples based on whether two measurements are taken on the same objects
+- **Matched Or Paired Samples** [0.8] : calculate the paired differences, mean difference, t-test statistic with n − 1 degrees of freedom, and p-value for a matched-pairs t-test assuming normal differences when the number of pairs is small
+- **Degrees Of Freedom (Df)** [0.6] : define degrees of freedom as the number of values in a sample that are free to vary
+- **Degrees Of Freedom (Df)** [0.6] : calculate the degrees of freedom for a paired t-test as n − 1 and for a two-sample t-test with unknown, unequal variances using the provided formula
+- **Pooled Proportion** [0.7] : define the pooled proportion as the estimated common population proportion used when testing two proportions
+- **Pooled Proportion** [0.7] : calculate the pooled proportion from sample successes and sizes using pc = (x1 + x2) / (n1 + n2)
+- **Standard Deviation** [0.6] : define standard deviation as the square root of the variance that measures how far data values are from their mean, denoted s for a sample and σ for a population
+- **Standard Deviation** [0.6] : use standard deviation values to compute the standard error for the difference of two means in hypothesis tests
+- **Variable (Random Variable)** [0.7] : define a random variable as a characteristic of interest whose possible values may be numeric or categorical and are known only after the experiment
+- **Variable (Random Variable)** [0.7] : describe the random variables used in this section, such as X-bar1 − X-bar2, p-hatA − p-hatB, and d, including their notation and what they represent in context
+
+---
+# Chapter: seg_139 Heading：chapter 11: the chi-square distribution
+
+---
+# Section: seg_141 Heading：11.1 facts about the chi-square distribution
+- **Chi-Square Distribution Notation** [0.8] : state the notation for the chi-square distribution as X ~ χ2 with df degrees of freedom and that the random variable symbol may be any uppercase letter.
+- **Degrees Of Freedom** [0.9] : define degrees of freedom (df) for the chi-square distribution as the parameter that depends on how chi-square is used, with df = n − 1 for practice.
+- **Degrees Of Freedom** [0.9] : describe how degrees of freedom depend on the chi-square application and that the three major uses calculate df differently, with df = n − 1 for practice.
+- **Chi-Square Mean** [0.5] : define the population mean of a chi-square distribution as equal to its degrees of freedom (μ = df).
+- **Chi-Square Mean** [0.5] : calculate the population mean of a chi-square distribution from a given degrees of freedom using μ = df.
+- **Sum Of Squared Standard Normals** [0.9] : define a chi-square random variable with k degrees of freedom as the sum of k independent, squared standard normal variables.
+- **Distribution Shape** [0.7] : describe the chi-square distribution as nonsymmetrical and skewed to the right.
+- **Distribution Shape** [0.7] : recognize that the chi-square curve is nonsymmetrical and skewed to the right.
+- **Family Of Chi-Square Curves** [0.5] : define the family of chi-square distributions as having a different curve for each value of degrees of freedom.
+- **Nonnegativity Of Test Statistic** [0.6] : state that the chi-square test statistic is always greater than or equal to zero.
+
+---
+# Section: seg_143 Heading：11.2 goodness-of-fit test
+- **Goodness-Of-Fit Test** [0.9] : calculate the chi-square goodness-of-fit test statistic from observed and expected frequencies to assess fit to a specified distribution.
+- **Goodness-Of-Fit Test** [0.9] : state the null and alternative hypotheses for a goodness-of-fit test in words or symbols.
+- **Goodness-Of-Fit Test** [0.9] : interpret the outcome of a goodness-of-fit test in context using the p-value and a chosen significance level.
+- **Chi-Square Test Statistic** [0.9] : define the chi-square test statistic as the sum across categories of (O − E)² divided by E.
+- **Chi-Square Test Statistic** [0.9] : calculate the chi-square test statistic from a table of observed and expected counts.
+- **Chi-Square Test Statistic** [0.9] : describe how larger differences between observed and expected counts increase the chi-square statistic and move results into the right tail.
+- **Observed Values (O)** [0.7] : define observed values as the recorded sample frequencies for each category.
+- **Observed Values (O)** [0.7] : use observed values with expected counts to compute (O − E)²/E for each category.
+- **Expected Values (E)** [0.8] : define expected values as the category frequencies predicted under the null hypothesis.
+- **Expected Values (E)** [0.8] : calculate expected frequencies from a specified distribution and sample size for each category.
+- **Degrees Of Freedom** [0.7] : calculate the degrees of freedom for a goodness-of-fit test as k − 1, where k is the number of categories.
+- **Degrees Of Freedom** [0.7] : state the degrees of freedom for a given number of categories as k − 1.
+- **Right-Tailed Test** [0.6] : state that the chi-square goodness-of-fit test is almost always right-tailed.
+- **Right-Tailed Test** [0.6] : explain why the test is right-tailed by linking large sums of (O − E)²/E to the right tail of the chi-square distribution.
+- **Right-Tailed Test** [0.6] : calculate the right-tail probability P(χ² > test statistic) for the appropriate degrees of freedom.
+- **Expected Count Requirement** [0.8] : state the requirement that each expected cell frequency should be at least five to validly use the chi-square goodness-of-fit test.
+- **Expected Count Requirement** [0.8] : construct combined categories to ensure each expected frequency is at least five before performing the test.
+- **Hypotheses For Goodness-Of-Fit** [0.7] : state H0 that the data fit the specified distribution and Ha that they do not.
+- **Test Distribution** [0.7] : state that the test statistic follows a chi-square distribution with degrees of freedom equal to k − 1.
+- **Test Distribution** [0.7] : calculate the degrees of freedom to determine the appropriate chi-square distribution for a given table of categories.
+- **P-Value For Goodness-Of-Fit** [0.6] : define the p-value as the right-tail probability P(χ² > calculated statistic) under the chi-square distribution with the appropriate degrees of freedom.
+- **P-Value For Goodness-Of-Fit** [0.6] : calculate the p-value for a goodness-of-fit test using technology or chi-square cumulative distribution functions.
+- **P-Value For Goodness-Of-Fit** [0.6] : interpret the p-value to decide whether to reject or not reject H0 at a stated significance level in context.
+
+---
+# Section: seg_145 Heading：11.3 test of independence
+- **Test Of Independence** [1.0] : Calculate expected counts, the chi-square test statistic, degrees of freedom, and the p-value for a chi-square test of independence from a contingency table.
+- **Test Of Independence** [1.0] : State that a chi-square test of independence uses a contingency table to assess whether two categorical factors are independent.
+- **Test Of Independence** [1.0] : Interpret the test statistic and p-value to decide whether two factors are independent or dependent at a stated significance level.
+- **Contingency Table** [0.8] : Identify rows, columns, and cell entries in a contingency table as observed frequencies for two categorical factors.
+- **Contingency Table** [0.8] : Calculate row totals, column totals, and the overall sample size from a contingency table.
+- **Observed Frequency (O)** [0.6] : Define an observed frequency as the data count recorded in a specific cell of a contingency table.
+- **Observed Frequency (O)** [0.6] : Differentiate observed frequencies (O) from expected frequencies (E) used under the independence assumption.
+- **Expected Frequency (E)** [0.9] : Calculate an expected frequency for any cell using (row total × column total) ÷ total surveyed and check that it is at least five.
+- **Expected Frequency (E)** [0.9] : State that each expected cell count should be at least five to use the chi-square test of independence.
+- **Chi-Square Test Statistic** [0.8] : Define the chi-square test statistic for independence as the sum over all cells of (O − E)² ÷ E.
+- **Chi-Square Test Statistic** [0.8] : Calculate the chi-square test statistic by summing (O − E)² ÷ E across all i × j cells of the table.
+- **Chi-Square Test Statistic** [0.8] : Interpret larger chi-square values as indicating greater discrepancy between observed and expected counts and movement further into the right tail.
+- **Degrees Of Freedom For Independence Test** [0.7] : Calculate the degrees of freedom for a test of independence as (number of columns − 1) × (number of rows − 1).
+- **Degrees Of Freedom For Independence Test** [0.7] : State the formula for the degrees of freedom of a chi-square test of independence as (c − 1)(r − 1).
+- **Hypotheses For Independence Test** [0.7] : State the null hypothesis that the two factors are independent and the alternative hypothesis that they are not independent (dependent).
+- **Right-Tailed Test** [0.5] : State that the chi-square test of independence is always right-tailed.
+- **Right-Tailed Test** [0.5] : Explain that the test is right-tailed because larger differences between observed and expected counts produce larger chi-square statistics in the right tail of the distribution.
+- **Independence Of Events** [0.5] : Define independence of events A and B by stating P(A AND B) = P(A)P(B).
+- **Independence Of Events** [0.5] : Calculate an expected joint probability or count under independence using P(A AND B) = P(A)P(B) and sample totals.
+- **P-Value For Independence Test** [0.7] : Calculate the p-value for a test of independence as the right-tail probability P(χ² > observed χ²) with the appropriate degrees of freedom, using technology.
+- **P-Value For Independence Test** [0.7] : Interpret the p-value by comparing it to a significance level α to decide whether to reject or fail to reject the null hypothesis of independence.
+- **P-Value For Independence Test** [0.7] : State that the p-value for a chi-square test of independence is P(χ² > observed test statistic) under the chi-square distribution with the test’s degrees of freedom.
+
+---
+# Section: seg_147 Heading：11.4 test for homogeneity
+- **Test For Homogeneity** [1.0] : Calculate the chi-square test statistic for a test for homogeneity using the same procedure as the test for independence.
+- **Test For Homogeneity** [1.0] : State that the test for homogeneity is used to decide whether two populations have the same distribution.
+- **Test For Homogeneity** [1.0] : Compare the significance level α and the p-value to make a decision in a test for homogeneity.
+- **Null Hypothesis** [0.8] : State the null hypothesis that the distributions of the two populations are the same.
+- **Alternative Hypothesis** [0.7] : Define the alternative hypothesis as the distributions of the two populations are not the same.
+- **Test Statistic** [0.9] : Calculate the χ2 test statistic for a homogeneity test in the same way as for a test of independence.
+- **Test Statistic** [0.9] : State that a χ2 test statistic is used for the test for homogeneity.
+- **Degrees Of Freedom** [0.7] : State that the degrees of freedom for a homogeneity test equal the number of columns minus one.
+- **Degrees Of Freedom** [0.7] : Calculate the degrees of freedom for a given contingency table as the number of columns minus one.
+- **Expected Cell Frequency Condition** [0.8] : Define the expected cell frequency condition that each expected count must be at least five to use the test for homogeneity.
+- **Common Uses** [0.5] : State common uses of the test for homogeneity, such as comparing men vs. women, before vs. after, or east vs. west.
+- **Common Uses** [0.5] : Describe situations in which the test for homogeneity is used to compare two populations' distributions.
+- **Applicable Variable Type** [0.6] : Define the applicable variable type as a categorical variable with more than two possible response values.
+- **Interpretation Limitation** [0.6] : State that the test for homogeneity only determines whether distributions are the same or not and does not show how they differ.
+
+---
+# Section: seg_149 Heading：11.5 comparison of the chi-square tests
+- **Chi-Square Goodness-Of-Fit Test** [0.8] : Identify when the chi-square goodness-of-fit test is appropriate: a single qualitative variable from one population to assess fit to a known distribution with H0 that the population fits and Ha that it does not.
+- **Chi-Square Test Of Independence** [0.8] : Identify situations requiring a chi-square test of independence: two qualitative variables summarized in a contingency table to test H0 that the variables are independent versus Ha that they are dependent.
+- **Chi-Square Test Of Independence** [0.8] : Describe the purpose and setup of the chi-square test of independence, including two qualitative variables, use of a contingency table, and the null and alternative hypotheses.
+- **Chi-Square Test Of Homogeneity** [0.8] : Identify when the chi-square test of homogeneity is appropriate: the same qualitative question posed to two populations to assess whether they share the same distribution (H0) or have different distributions (Ha).
+- **Chi-Square Test Of Homogeneity** [0.8] : Differentiate the chi-square test of homogeneity from the goodness-of-fit and independence tests by the study designs they address (two populations with one question versus one population with one question versus two variables in a contingency table) and their hypotheses.
+
+---
+# Section: seg_151 Heading：11.6 test of a single variance
+- **Test Of A Single Variance** [1.0] : state the normality assumption underlying a test of a single population variance.
+- **Test Of A Single Variance** [1.0] : compute the p-value for a single-variance hypothesis test using the χ² distribution with df = n − 1.
+- **Test Of A Single Variance** [1.0] : compare right-, left-, and two-tailed versions of the single-variance test based on the direction of the claim.
+- **Null And Alternative Hypotheses For Single Variance Test** [0.9] : define the null and alternative hypotheses in terms of σ² (or σ) for a claim about variability.
+- **Null And Alternative Hypotheses For Single Variance Test** [0.9] : formulate H0 and Ha for single-variance tests from verbal claims such as less than, greater than, or equal to a stated standard deviation.
+- **Test Statistic For Single Variance** [0.8] : state that the test statistic is (n − 1)s²/σ² for testing a single variance.
+- **Test Statistic For Single Variance** [0.8] : calculate the chi-square test statistic (n − 1)s²/σ² from a given sample size, sample standard deviation, and hypothesized variance.
+- **Degrees Of Freedom** [0.7] : define the degrees of freedom for the chi-square test of a single variance as df = n − 1.
+- **Degrees Of Freedom** [0.7] : compute the degrees of freedom for a sample of size n using df = n − 1.
+- **Chi-Square Distribution For Single Variance Test** [0.9] : state that the test statistic follows a χ² distribution with df = n − 1 under the null hypothesis.
+- **Chi-Square Distribution For Single Variance Test** [0.9] : compute a left-, right-, or two-tailed χ² p-value using χ2cdf with appropriate bounds and degrees of freedom.
+- **Random Variable In Single Variance Test** [0.5] : define the random variable for the test as the sample standard deviation s.
+- **Tail Types For Single Variance Test** [0.6] : identify whether the test is right-tailed, left-tailed, or two-tailed from the wording of the claim.
+- **Sample Variance (s²)** [0.5] : define s² as the sample variance used in the chi-square test statistic.
+- **Sample Variance (s²)** [0.5] : differentiate between s² (sample variance) and σ² (population variance) in setting up hypotheses and the test statistic.
+- **Sample Variance (s²)** [0.5] : use the sample variance or standard deviation to compute the test statistic and p-value for a single-variance test.
+- **Population Variance (σ²)** [0.7] : state that hypotheses for the single-variance test are written in terms of the population variance σ² (or standard deviation σ).
+- **Population Variance (σ²)** [0.7] : calculate the hypothesized variance σ² by squaring a stated standard deviation when writing H0 and Ha.
+
+---
+# Section: seg_153 Heading：11.7 lab 1: chi-square goodness-of-fit
+- **Chi-Square Goodness-Of-Fit Test** [1.0] : calculate the chi-square goodness-of-fit test statistic using observed and expected frequencies for a uniform or exponential model
+- **Chi-Square Goodness-Of-Fit Test** [1.0] : state that the chi-square goodness-of-fit test evaluates whether observed counts match expected counts from a specified distribution
+- **Chi-Square Distribution** [0.9] : identify the chi-square distribution as the reference distribution for the goodness-of-fit test
+- **Chi-Square Distribution** [0.9] : explain why the chi-square distribution is appropriate for modeling the goodness-of-fit test statistic
+- **Chi-Square Distribution** [0.9] : use the chi-square distribution to obtain a p-value from a computed test statistic
+- **Null Hypothesis (H0)** [0.8] : state the null hypothesis that the data follow the specified uniform or exponential distribution
+- **Alternative Hypothesis (Ha)** [0.8] : state the alternative hypothesis that the data do not follow the specified distribution
+- **Observed Frequency** [0.8] : calculate the observed frequency in each category by tallying sample receipts in the defined intervals
+- **Expected Frequency** [0.9] : calculate the expected frequency for each category under the hypothesized uniform or exponential distribution
+- **Expected Frequency Requirement** [0.7] : calculate expected counts for all categories and determine whether each meets the minimum expected count of five
+- **Expected Frequency Requirement** [0.7] : recognize that each category must have an expected count of at least five and that categories may be combined to meet this condition
+- **Uniform Distribution** [0.7] : calculate the 20th, 40th, 60th, and 80th percentiles for X ~ U(lowest value, highest value) to define five equal-probability categories
+- **Uniform Distribution** [0.7] : state the uniform model to be tested as X ~ U(lowest value, highest value) based on the sample’s minimum and maximum
+- **Exponential Distribution** [0.7] : calculate the required percentile cut points and expected counts for X ~ Exp(1/x̄) using the sample mean
+- **Decay Parameter (Exponential)** [0.6] : calculate the exponential decay parameter as 1/x̄ from the sample data
+- **Cells (Categories)** [0.6] : construct category intervals using the specified percentiles for the hypothesized uniform or exponential distribution
+- **Cells (Categories)** [0.6] : categorize each observation into the appropriate cell to produce observed tallies
+- **Percentiles And Quartiles** [0.5] : calculate the specified quartiles and percentiles used to define category boundaries for the tests
+- **Percentiles And Quartiles** [0.5] : categorize data values into intervals according to the calculated percentiles and quartiles
+- **Test Statistic** [0.9] : calculate the chi-square test statistic from the observed and expected frequencies across categories
+- **P-Value** [0.8] : calculate the p-value corresponding to the chi-square test statistic using the chi-square distribution
+- **P-Value** [0.8] : interpret the p-value in context to decide whether the sample provides evidence against the specified distribution
+- **Decision And Conclusion** [0.7] : state the decision to reject or fail to reject the null hypothesis based on the p-value
+- **Decision And Conclusion** [0.7] : summarize the conclusion in a complete sentence about whether the receipts fit the uniform or exponential distribution
+- **Sample Mean (x̄)** [0.6] : calculate the sample mean of receipt amounts to parameterize the exponential model
+
+---
+# Section: seg_155 Heading：11.8 lab 2: chi-square test of independence
+- **Chi-Square Test Of Independence** [1.0] : State when to use the chi-square test of independence and its right-tailed nature and cell-count requirement.
+- **Chi-Square Test Of Independence** [1.0] : Calculate the chi-square test of independence results from a contingency table by comparing observed to expected frequencies to obtain the test statistic and p-value.
+- **Null Hypothesis (Independence Test)** [0.8] : State the null hypothesis that the two categorical factors are independent.
+- **Contingency Table** [0.9] : Define a contingency table as a display of sample values for two factors used to assess possible dependence and conditional probabilities.
+- **Contingency Table** [0.9] : Construct a contingency table from categorized sample data on two factors.
+- **Contingency Table** [0.9] : Interpret a contingency table to discuss potential dependence between two categorical factors.
+- **Degrees Of Freedom (Independence)** [0.7] : Define the degrees of freedom for a chi-square test of independence as (i − 1)(j − 1).
+- **Degrees Of Freedom (Independence)** [0.7] : Calculate the degrees of freedom for a chi-square test of independence from the numbers of rows and columns in a contingency table.
+- **Expected Cell Count** [0.9] : Calculate the expected cell count using E = (row total)(column total) / total surveyed.
+- **Expected Cell Count** [0.9] : State the formula for an expected cell count in a contingency table.
+- **Expected Cell Frequency Condition** [0.8] : Define the expected cell frequency condition as requiring each expected value to be at least five.
+- **Expected Cell Frequency Condition** [0.8] : Calculate expected cell frequencies and check that each is at least five before conducting the test.
+- **Chi-Square Test Statistic (Independence)** [0.9] : Calculate the chi-square test statistic for independence using Σ (O − E)² / E from observed and expected frequencies.
+- **Chi-Square Test Statistic (Independence)** [0.9] : Define the chi-square test statistic for independence as Σ (O − E)² / E.
+- **Right-Tailed Test (Independence)** [0.6] : Identify the chi-square test of independence as a right-tailed test.
+- **Right-Tailed Test (Independence)** [0.6] : Explain why the chi-square test of independence is right-tailed, noting that the nonnegative statistic grows with greater discrepancy between observed and expected counts.
+
+---
+# Chapter: seg_157 Heading：chapter 12: linear regression and correlation
+
+---
+# Section: seg_159 Heading：12.1 linear equations
+- **Linear Equation** [1.0] : identify whether a given equation is linear by checking if it can be written as y = a + bx
+- **Linear Equation** [1.0] : formulate a linear equation y = a + bx from a verbal description involving a fixed amount and a per-unit rate
+- **Linear Equation** [1.0] : interpret a linear equation by explaining how y depends on x in the relationship y = a + bx
+- **Independent Variable** [0.7] : define the independent variable x in y = a + bx as the value chosen to solve for y
+- **Independent Variable** [0.7] : describe the role of the independent variable x in determining the dependent variable y
+- **Dependent Variable** [0.7] : define the dependent variable y in y = a + bx as the output solved for after choosing x
+- **Dependent Variable** [0.7] : describe how the dependent variable y changes in response to chosen values of x
+- **Graph Of A Linear Equation** [0.6] : describe the graph of y = a + bx as a straight line and note that any non-vertical line can be represented by such an equation
+- **Graph Of A Linear Equation** [0.6] : construct the graph of a linear equation y = a + bx
+- **Slope** [0.9] : define the slope b in y = a + bx as the number that describes the line’s steepness
+- **Slope** [0.9] : interpret the slope b as the rate of change in a given context
+- **Y-Intercept** [0.9] : define the y-intercept a in y = a + bx as the y-coordinate of the point where the line crosses the y-axis
+- **Y-Intercept** [0.9] : interpret the y-intercept a as the initial or fixed amount when x = 0 in context
+- **Slope Sign Interpretation** [0.7] : identify from the sign of b whether the line rises (b > 0), is horizontal (b = 0), or falls (b < 0)
+- **Slope Sign Interpretation** [0.7] : interpret the sign of b to explain the direction the line slopes on its graph
+
+---
+# Section: seg_161 Heading：12.2 scatter plots
+- **Scatter Plot** [1.0] : construct a scatter plot from paired (x, y) data using appropriate technology settings (lists, stat plot, and ZoomStat).
+- **Scatter Plot** [1.0] : interpret a scatter plot to infer the apparent relationship between two variables, including direction, strength, and general form.
+- **Direction Of A Relationship** [0.8] : identify whether high values of one variable occur with high or low values of the other in a scatter plot.
+- **Direction Of A Relationship** [0.8] : describe what constitutes a clear direction in a scatter plot, such as high-high or low-low versus high-low pairings.
+- **Strength Of A Relationship** [0.7] : describe the strength of a relationship by how closely scatter plot points cluster around a line or other functional pattern, with closer alignment indicating stronger association.
+- **Horizontal Line Indicates No Relationship** [0.5] : recognize that a scatter plot with all points on a horizontal line indicates no relationship between the variables.
+- **Horizontal Line Indicates No Relationship** [0.5] : interpret a perfect-fit horizontal scatter pattern as showing no relationship despite all points lying on a line.
+- **Overall Pattern And Deviations** [0.6] : examine a scatter plot to note the overall pattern and any deviations from that pattern.
+- **Overall Pattern And Deviations** [0.6] : identify deviations from the overall pattern in a scatter plot.
+- **Linear Relationship** [0.8] : identify when a scatter plot suggests a linear pattern and whether the points are close to a straight line.
+- **Linear Relationship** [0.8] : describe the characteristics of a linear relationship in a scatter plot, noting that it is stronger when points lie close to a straight line (excluding horizontal lines).
+- **Condition For Using A Regression Line** [0.5] : state the condition for calculating a regression line: only when one variable helps to explain or predict the other, with x treated as independent and y as dependent for prediction.
+- **Condition For Using A Regression Line** [0.5] : explain why a regression line should be used only when an explanatory–predictive relationship exists between variables and how it supports predicting y from x.
+
+---
+# Section: seg_163 Heading：12.3 the regression equation
+- **Line Of Best Fit (Least-Squares Regression Line)** [0.9] : Calculate the least-squares regression line for paired data by determining a and b that minimize SSE.
+- **Line Of Best Fit (Least-Squares Regression Line)** [0.9] : Interpret the line of best fit as the linear model that minimizes SSE and provides predicted y-values from x when a linear pattern is reasonable.
+- **Regression Equation** [0.8] : Calculate the regression equation ŷ = a + bx using b = Σ(x − x̄)(y − ȳ)/Σ(x − x̄)² and a = ȳ − b x̄.
+- **Regression Equation** [0.8] : Interpret the regression equation by relating b to the average change in y per unit x and a to the y-value where the line crosses the y-axis.
+- **Predicted Value (Ŷ)** [0.6] : Define ŷ as the estimated value of y from the regression line for a given x, generally not equal to the observed y.
+- **Predicted Value (Ŷ)** [0.6] : Calculate ŷ for a specified x using the regression equation.
+- **Residual (Error)** [0.6] : Define the residual ε as y − ŷ, the vertical distance between an observed y and its predicted value.
+- **Residual (Error)** [0.6] : Calculate residuals for data points by computing y − ŷ and determine their signs.
+- **Residual (Error)** [0.6] : Interpret residuals as positive when the point is above the line and negative when below, with magnitude measuring vertical distance.
+- **Sum Of Squared Errors (SSE)** [0.6] : Define SSE as the sum of squared residuals, Σ ε².
+- **Sum Of Squared Errors (SSE)** [0.6] : Calculate SSE from a set of residuals by summing their squares.
+- **Sum Of Squared Errors (SSE)** [0.6] : Explain that the least-squares regression line is the one that makes SSE as small as possible.
+- **Least Squares Criterion** [0.8] : Define the least squares criterion as choosing a and b that minimize SSE among all possible lines.
+- **Least Squares Criterion** [0.8] : Explain how minimizing SSE identifies the best-fit line and why any other line yields a larger SSE.
+- **Least Squares Criterion** [0.8] : Calculate the best-fit line parameters a and b that satisfy the least squares criterion for given data.
+- **Slope (b)** [0.8] : Interpret b as the average change in y for a one-unit increase in x, in context.
+- **Slope (b)** [0.8] : Calculate b using Σ(x − x̄)(y − ȳ)/Σ(x − x̄)² or b = r(sy/sx).
+- **Slope (b)** [0.8] : Define the slope b of the regression line as the rate at which y changes per unit change in x.
+- **Y-Intercept (a)** [0.5] : Define the y-intercept a as the value where the regression line crosses the y-axis (predicted y when x = 0).
+- **Y-Intercept (a)** [0.5] : Calculate a using a = ȳ − b x̄.
+- **Linear Regression** [0.5] : Calculate a linear regression line for paired data using formulas or calculator output.
+- **Linear Regression** [0.5] : Interpret linear regression as fitting the least-squares best-fit line under the assumption that data are scattered about a straight line.
+- **Correlation Coefficient (r)** [0.6] : Define r as a measure between −1 and +1 of the strength and direction of the linear association between x and y, with sign matching the slope.
+- **Correlation Coefficient (r)** [0.6] : Interpret the magnitude and sign of r to assess the strength and direction of linear association, noting that correlation does not imply causation.
+- **Correlation Coefficient (r)** [0.6] : Calculate r from data using the correlation formula or calculator output.
+- **Coefficient Of Determination (r²)** [0.5] : Define r² as the square of r representing the proportion of variation in y explained by x using the regression line.
+- **Coefficient Of Determination (r²)** [0.5] : Calculate r² from r and express it as a percent when appropriate.
+- **Coefficient Of Determination (r²)** [0.5] : Interpret r² and 1 − r² as the explained and unexplained percentages of variation in y in context.
+- **Best-Fit Line Passes Through (X̄, Ȳ)** [0.5] : State that the least-squares regression line always passes through (x̄, ȳ).
+- **Independent And Dependent Variables** [0.6] : Define x as the independent (explanatory) variable and y as the dependent (predicted) variable.
+- **Independent And Dependent Variables** [0.6] : Explain how x is used to predict y in a regression setting.
+- **Prediction Within Sample Domain** [0.6] : Use the regression line to predict y for x-values within the observed domain of the sample data.
+- **Prediction Within Sample Domain** [0.6] : Identify predictions that extrapolate beyond the observed x-domain as potentially inappropriate.
+- **Prediction Within Sample Domain** [0.6] : Explain why predictions for x-values outside the sample domain may not be appropriate.
+
+---
+# Section: seg_165 Heading：12.4 testing the significance of the correlation coefficient
+- **Correlation Coefficient (r)** [0.8] : define the correlation coefficient r as the sample statistic that measures the strength and direction of the linear relationship between x and y and serves as an estimate of ρ
+- **Correlation Coefficient (r)** [0.8] : interpret r by describing its sign and magnitude in terms of the direction and strength of the sample’s linear relationship, recognizing that sample size affects its significance
+- **Population Correlation Coefficient (ρ)** [0.7] : define ρ as the unknown population correlation coefficient that quantifies the linear association between x and y in the population
+- **Population Correlation Coefficient (ρ)** [0.7] : interpret ρ relative to zero as indicating whether a linear relationship exists in the population, acknowledging that r from the sample is used to test whether ρ ≠ 0
+- **Significance Test For Correlation Coefficient** [1.0] : state the hypotheses H0: ρ = 0 and Ha: ρ ≠ 0 and the two equivalent decision frameworks (p-value or critical values)
+- **Significance Test For Correlation Coefficient** [1.0] : calculate, given r and n, the test statistic and p-value (or compare r to critical values) to decide whether ρ is significantly different from zero
+- **Null Hypothesis (H0: ρ = 0)** [0.8] : state H0: ρ = 0
+- **Null Hypothesis (H0: ρ = 0)** [0.8] : describe in words that under H0 the population correlation is not significantly different from zero and there is no significant linear relationship between x and y
+- **Alternative Hypothesis (Ha: ρ ≠ 0)** [0.7] : state Ha: ρ ≠ 0
+- **Alternative Hypothesis (Ha: ρ ≠ 0)** [0.7] : describe in words that under Ha the population correlation is significantly different from zero and there is a significant linear relationship between x and y
+- **Significance Level (α)** [0.6] : use α (e.g., 0.05) to make reject or do-not-reject decisions by comparing the p-value to α or by selecting the appropriate critical values
+- **Significance Level (α)** [0.6] : compare the p-value to α to decide whether to reject H0 in the two-tailed test for ρ
+- **Significance Level (α)** [0.6] : state the significance level used in this section (α = 0.05) when applying the test or tables
+- **P-Value Method** [0.9] : define the p-value method for testing H0: ρ = 0 versus Ha: ρ ≠ 0 as rejecting H0 when the two-tailed p-value from a t-distribution with n − 2 degrees of freedom is less than α
+- **P-Value Method** [0.9] : calculate the p-value for r using technology (such as LinRegTTEST) or t with df = n − 2 and use it to make the decision
+- **Critical Values Method** [0.7] : compare r to the positive and negative critical values for df = n − 2 at α = 0.05 to determine whether r is significant
+- **Critical Values Method** [0.7] : use the 95% critical values table for r (df = n − 2) to decide if the correlation is significant and whether the regression line may be used for prediction
+- **Test Statistic (t) For Correlation** [0.7] : compute t = r√(n − 2) / √(1 − r²) for a given r and n
+- **Test Statistic (t) For Correlation** [0.7] : describe that t has the same sign as r, follows a t-distribution with n − 2 degrees of freedom, and yields a two-tailed p-value
+- **Degrees Of Freedom** [0.6] : calculate the degrees of freedom for the test as df = n − 2
+- **Significant Correlation Coefficient** [0.7] : calculate whether r is significant using the p-value or critical value method and conclude that a significant linear relationship exists and the regression line can be used for prediction within the observed x-domain when the scatter plot is linear
+- **Not Significant Correlation Coefficient** [0.7] : interpret a non-significant r as insufficient evidence of a linear relationship and avoid using the regression line for modeling or prediction
+- **Not Significant Correlation Coefficient** [0.7] : calculate that r is not significant when the p-value is not less than α or when r lies between the negative and positive critical values
+- **Conditions For Using The Regression Line For Prediction** [0.7] : list the conditions for prediction: r is significant, the scatter plot shows a linear trend, and predictions are made only within the observed x-domain
+- **Conditions For Using The Regression Line For Prediction** [0.7] : explain why significance and a linear trend are required and why extrapolation beyond the observed x-domain may be inappropriate or unreliable
+- **Linearity In The Population** [0.6] : define the linearity assumption as the expected value of y for each x lying on a straight line in the population
+- **Linearity In The Population** [0.6] : describe how this assumption underpins using the sample regression line as an estimate of the population line
+- **Normality Of Y About The Line** [0.6] : state that for each x, the y values are normally distributed about the line with means on the line
+- **Normality Of Y About The Line** [0.6] : describe how normality implies more y values lie near the line than farther away
+- **Equal Standard Deviations** [0.6] : define the equal-variance (homoscedasticity) assumption as the standard deviations of y about the line being the same for all x
+- **Equal Standard Deviations** [0.6] : explain that equal spread of y about the line across x supports the validity of the correlation significance test
+- **Independence Of Residuals** [0.6] : define the independence assumption as residual errors being mutually independent with no pattern
+- **Random Sampling Or Randomized Experiment** [0.6] : identify whether the data were produced by a well-designed random sample or randomized experiment as required for the test’s assumptions
+
+---
+# Section: seg_167 Heading：12.5 prediction
+- **Prediction Using Least-Squares Regression** [1.0] : Calculate a predicted mean response by substituting a specified x within the observed x range into the least-squares regression equation.
+- **Prediction Using Least-Squares Regression** [1.0] : Identify when the least-squares regression line can be used for prediction based on whether the specified x lies within the observed x range.
+- **Least-Squares Regression Line** [0.6] : Calculate a predicted y-value from a given least-squares regression line for a specified x within the observed x domain.
+- **Least-Squares Regression Line** [0.6] : Differentiate predictions made with the least-squares regression line as interpolation versus extrapolation.
+- **Domain Of Observed X Values** [0.8] : Identify the domain of observed x-values for a dataset used in regression.
+- **Domain Of Observed X Values** [0.8] : Classify a specified x-value as inside or outside the domain of observed x-values.
+- **Interpolation** [0.6] : Define interpolation as predicting within the observed x-values of the data.
+- **Interpolation** [0.6] : Calculate an interpolated prediction by substituting an x-value within the observed range into the regression equation.
+- **Extrapolation** [0.8] : Define extrapolation as predicting outside the observed x-values of the data.
+- **Extrapolation** [0.8] : Classify a proposed prediction as extrapolation when the specified x-value lies outside the observed x range.
+
+---
+# Section: seg_169 Heading：12.6 outliers
+- **Outliers** [1.0] : identify potential outliers in a scatterplot by using residuals and the ±2s guideline around the least squares line.
+- **Outliers** [1.0] : calculate residual magnitudes and the 2s cutoff to determine which points qualify as potential outliers.
+- **Outliers** [1.0] : examine flagged outliers to decide whether they arise from data errors or contain meaningful information and whether to exclude or retain them.
+- **Residual (Error)** [0.9] : define a residual as the vertical distance y − ŷ from an observed point to the line of best fit.
+- **Residual (Error)** [0.9] : calculate residuals for each observation using the regression equation’s predicted values.
+- **Influential Points** [0.5] : define an influential point as an observation far in the x-direction that can substantially change the regression slope.
+- **Influential Points** [0.5] : differentiate outliers from influential points by focusing on large vertical residuals versus extreme horizontal positions that alter slope.
+- **Standard Deviation Of Residuals (s)** [0.8] : calculate s from SSE and sample size using n − 2 degrees of freedom.
+- **Standard Deviation Of Residuals (s)** [0.8] : identify s in regression or calculator output (e.g., LinRegTTest) for use in outlier detection.
+- **Sum Of Squared Errors (SSE)** [0.6] : define SSE as the sum of squared residuals across all data points.
+- **Sum Of Squared Errors (SSE)** [0.6] : calculate SSE by squaring each residual and summing the results.
+- **Sum Of Squared Errors (SSE)** [0.6] : explain how SSE is used to compute s and how a smaller SSE indicates a line that better fits the data.
+- **Two-Standard-Deviation Rule For Outliers** [0.9] : calculate the outlier cutoff 2s from the standard deviation of the residuals.
+- **Two-Standard-Deviation Rule For Outliers** [0.9] : compare each residual’s magnitude to 2s to decide if the point is a potential outlier.
+- **Two-Standard-Deviation Rule For Outliers** [0.9] : identify data points with |y − ŷ| ≥ 2s as potential outliers.
+- **Graphical Identification Of Outliers** [0.7] : identify potential outliers by graphing lines parallel to the best-fit line at ±2s and seeing which points fall outside them.
+- **Graphical Identification Of Outliers** [0.7] : calculate equations for the ±2s lines (same slope as the best-fit line with intercept shifted by ±2s) to support graphical outlier detection.
+- **Numerical Identification Of Outliers** [0.7] : calculate each residual and the value 2s to support numerical outlier checks.
+- **Numerical Identification Of Outliers** [0.7] : compare computed residuals to ±2s and note which exceed the threshold.
+- **Numerical Identification Of Outliers** [0.7] : identify which observations are potential outliers based on the numerical |residual| ≥ 2s rule.
+- **Handling Outliers** [0.8] : identify appropriate actions after flagging outliers, including verifying data, correcting errors, deleting erroneous points, retaining informative points, and documenting decisions.
+- **Handling Outliers** [0.8] : calculate a new regression line and correlation coefficient after removing a verified erroneous outlier.
+- **Handling Outliers** [0.8] : examine how removing an outlier changes the slope, SSE, and correlation, and whether predictions improve.
+
+---
+# Section: seg_171 Heading：12.7 regression (distance from school)
+- **Line Of Best Fit** [0.9] : calculate the line of best fit between distance from school and cost of supplies using collected class data.
+- **Significant Relationship** [0.8] : justify whether the observed correlation indicates a significant relationship between distance and cost based on the analysis results.
+- **Bivariate Data** [0.6] : calculate regression parameters (a, b), the correlation, and the sample size from the bivariate data on distance and cost.
+- **Linear Equation** [0.8] : calculate the linear equation ŷ = a + bx from the class data, rounding coefficients to four decimal places.
+- **Correlation** [0.8] : calculate the correlation coefficient for distance and cost using the sample data.
+- **Correlation** [0.8] : interpret the sign and magnitude of the correlation to describe the relationship between distance and cost.
+- **Regression Line** [0.7] : construct the regression line on a scatterplot of distance versus cost and sketch it from calculator or computer output.
+- **Outlier** [0.5] : identify any outlier in the distance–cost data set or scatterplot.
+- **Outlier** [0.5] : justify whether an identified outlier should be removed by explaining its effect on the fit and conclusions.
+- **Dependent Variable** [0.6] : identify the dependent variable when modeling the relationship between distance and cost.
+- **Dependent Variable** [0.6] : justify the selection of the dependent variable in this context.
+- **Independent Variable** [0.6] : identify the independent variable when modeling the relationship between distance and cost.
+- **Independent Variable** [0.6] : classify the variables as independent and dependent in the context of distance versus cost.
+- **Independent Variable** [0.6] : justify the selection of the independent variable for analyzing the relationship.
+
+---
+# Section: seg_173 Heading：12.8 regression (textbook cost)
+- **Bivariate Data** [0.8] : calculate values to complete the bivariate data table of textbook pages and textbook cost.
+- **Independent Variable** [0.6] : identify the independent variable in the pages versus cost analysis.
+- **Independent Variable** [0.6] : explain why the chosen variable should serve as the independent variable when analyzing pages versus cost.
+- **Independent Variable** [0.6] : use the independent variable to make predictions with the linear equation.
+- **Dependent Variable** [0.6] : identify the dependent variable in the pages versus cost analysis.
+- **Dependent Variable** [0.6] : justify the choice of the dependent variable with reference to the prediction goal.
+- **Line Of Best Fit** [0.9] : calculate the line of best fit between pages and cost from the collected data.
+- **Linear Equation** [0.8] : calculate the linear equation y = ____ from the data, rounding coefficients to four decimal places.
+- **Linear Equation** [0.8] : state the fitted linear equation y = ____ with coefficients rounded to four decimal places.
+- **Coefficient A** [0.6] : calculate coefficient a for the linear equation from the pages versus cost data.
+- **Coefficient B** [0.6] : calculate coefficient b for the linear equation from the pages versus cost data.
+- **Correlation** [0.8] : calculate the correlation coefficient for pages and cost.
+- **Correlation** [0.8] : interpret the correlation to describe the direction and strength of the relationship between pages and cost.
+- **Significance Of Correlation** [0.7] : calculate whether the correlation is significant using calculator or computer output.
+- **Significance Of Correlation** [0.7] : justify the conclusion about the significance of the correlation in complete sentences.
+- **Prediction** [0.7] : use the linear equation to predict textbook cost for specified page counts (for example, 400 or 600 pages).
+- **Regression Line** [0.7] : calculate the regression line for the pages versus cost data.
+- **Line Fit** [0.5] : explain whether the regression line seems to fit the data and why.
+- **Outlier** [0.6] : identify any outliers in the pages versus cost scatterplot.
+- **Outlier** [0.6] : detect outliers by examining the scatterplot of pages versus cost.
+- **Outlier** [0.6] : justify whether a detected outlier should be removed or retained and why.
+
+---
+# Section: seg_175 Heading：12.9 regression (fuel efficiency)
+- **Linear Equation** [0.6] : Classify equations and relationships as linear by recognizing the forms y = mx + b and y = a + bx in context.
+- **Linear Equation** [0.6] : Calculate predicted y values for specified x using a given linear equation in the form y = a + bx.
+- **Independent Variable** [0.6] : Define the independent variable as the x variable used to predict or explain changes in y.
+- **Independent Variable** [0.6] : Explain why a variable should be treated as independent in a study (for example, year or weight).
+- **Dependent Variable** [0.6] : Define the dependent variable as the y variable whose values depend on x.
+- **Dependent Variable** [0.6] : Explain how the dependent variable responds to changes in the independent variable in context.
+- **Slope** [0.7] : Calculate the slope b of a linear or regression equation from data or output.
+- **Slope** [0.7] : Interpret the slope b as the average change in y for each one-unit increase in x within the given context.
+- **Slope** [0.7] : Define slope as the coefficient b representing the rate of change between x and y in y = a + bx.
+- **Y-Intercept** [0.5] : Calculate the y-intercept a from a given linear or regression equation.
+- **Y-Intercept** [0.5] : Interpret the y-intercept as the value of y when x = 0 and discuss its practical meaning in context.
+- **Y-Intercept** [0.5] : Identify the y-intercept on a graph as the point where the line crosses the y-axis.
+- **Scatter Plot** [0.7] : Construct a scatter plot of x versus y with accurately scaled and labeled axes.
+- **Scatter Plot** [0.7] : Interpret a scatter plot to assess direction, linearity, and strength of the relationship between x and y.
+- **Regression Line (Line Of Best Fit)** [0.8] : Calculate the regression line equation ŷ = a + bx for a data set using technology.
+- **Least-Squares Regression Line** [0.9] : Calculate the least-squares regression line that minimizes the Sum of Squared Errors for the data.
+- **Least-Squares Regression Line** [0.9] : Interpret the least-squares line to make predictions within the observed x-range and describe the linear trend.
+- **Residuals** [0.6] : Define residuals as the differences between observed y values and predicted values ŷ from the regression line.
+- **Residuals** [0.6] : Calculate residuals for given data points using a computed regression line.
+- **Residuals** [0.6] : Interpret residuals to evaluate model fit and to flag unusual points.
+- **Sum Of Squared Errors** [0.5] : Define the Sum of Squared Errors (SSE) as the sum of squared residuals.
+- **Sum Of Squared Errors** [0.5] : Explain how minimizing SSE determines the least-squares regression line.
+- **Sum Of Squared Errors** [0.5] : Use SSE to compute the standard deviation of residuals s and to compare the fit of linear models.
+- **Coefficient Of Correlation** [0.8] : Calculate the correlation coefficient r for a data set using technology and verify that −1 ≤ r ≤ 1.
+- **Coefficient Of Correlation** [0.8] : Interpret r to describe the strength and direction (positive or negative) of the linear association between x and y.
+- **Coefficient Of Determination** [0.5] : Define the coefficient of determination r² as the proportion of variation in y explained by x via the regression line.
+- **Coefficient Of Determination** [0.5] : Interpret r² as the percent of variability in y accounted for by the linear model.
+- **Standard Deviation Of Residuals** [0.5] : Calculate the standard deviation of residuals s from SSE and the sample size n.
+- **Standard Deviation Of Residuals** [0.5] : Detect potential outliers by comparing absolute residuals to 2s or by checking points above a + bx + 2s or below a + bx − 2s.
+- **Significance Testing Of Correlation Coefficient** [0.8] : State the null and alternative hypotheses for testing the population correlation (for example, H0: ρ = 0 versus Ha: ρ ≠ 0).
+- **Significance Testing Of Correlation Coefficient** [0.8] : Explain how a linear regression t-test and its p-value are used to determine whether the correlation is statistically significant.
+- **Prediction Using Regression** [0.7] : Use the least-squares regression line to predict y for specified x-values within the observed data range.
+- **Prediction Using Regression** [0.7] : Explain when regression-based predictions are appropriate after confirming a sufficiently strong correlation.
+- **Outlier** [0.6] : Define an outlier as an observation that does not fit the pattern of the rest of the data.
+- **Outlier** [0.6] : Explain procedures for identifying outliers using residuals and the 2s cutoff or calculator-based bounds.
+- **Extrapolation** [0.7] : Identify predictions as extrapolation when the x-value is outside the range of the observed data.
+- **Extrapolation** [0.7] : Explain why extrapolation beyond the observed data range can yield unreliable predictions in linear regression.
+
+---
+# Chapter: seg_177 Heading：chapter 13: f distribution and one-way anova
+
+---
+# Section: seg_179 Heading：13.1 one-way anova
+- **One-Way ANOVA** [1.0] : define one-way ANOVA as a test that determines whether there is a statistically significant difference among several group means using variances.
+- **Assumptions Of One-Way ANOVA** [0.9] : list the five assumptions required to perform a one-way ANOVA: normal populations; random, independent samples; equal population standard deviations (variances); a categorical factor; and a numerical response.
+- **Null Hypothesis (One-Way ANOVA)** [0.8] : define the null hypothesis for a one-way ANOVA as equality of all group population means (μ1 = μ2 = ... = μk).
+- **Null Hypothesis (One-Way ANOVA)** [0.8] : compare the null and alternative hypotheses for a one-way ANOVA in terms of equality versus inequality of group means.
+- **Alternative Hypothesis (One-Way ANOVA)** [0.8] : define the alternative hypothesis for a one-way ANOVA as the statement that at least two group means differ (μi ≠ μj for some i ≠ j).
+- **Alternative Hypothesis (One-Way ANOVA)** [0.8] : contrast the null and alternative hypotheses by highlighting that H0 asserts all group means are equal while Ha asserts that at least two are not equal.
+- **Factor** [0.5] : define a factor as a categorical variable in a one-way ANOVA.
+- **Factor** [0.5] : differentiate the factor from the response by noting that the factor is categorical whereas the response is numerical.
+- **Response** [0.5] : define a response as a numerical variable in a one-way ANOVA.
+- **Response** [0.5] : classify variables as factors or responses in a one-way ANOVA context based on whether they are categorical or numerical.
+
+---
+# Section: seg_181 Heading：13.2 the f distribution and the f-ratio
+- **F Distribution** [0.8] : define the F distribution as a family derived from squared t-values with separate numerator and denominator degrees of freedom and notation F ~ Fdf(num),df(denom).
+- **F Distribution** [0.8] : describe how the F distribution is parameterized by df(num) and df(denom), is used for F-tests such as ANOVA, and relates to the t-distribution.
+- **F Distribution** [0.8] : calculate the mean of an F distribution using μ = df(denom)/(df(denom) − 2).
+- **F Statistic (F-Ratio)** [0.9] : define the F statistic as the ratio F = MSbetween/MSwithin.
+- **F Statistic (F-Ratio)** [0.9] : calculate the F statistic from an ANOVA table as MSbetween divided by MSwithin.
+- **F Statistic (F-Ratio)** [0.9] : interpret an observed F ratio near 1 as consistent with H0 and larger values in the right tail as evidence against H0.
+- **One-Way ANOVA** [0.9] : calculate SS, df, MS, and F for a one-way ANOVA from grouped data or software output using the given formulas.
+- **One-Way ANOVA** [0.9] : state that one-way ANOVA compares more than two group means, is preferred over multiple t-tests to limit Type I error, and uses a right-tailed F test.
+- **Null Hypothesis (One-Way ANOVA)** [0.7] : define the null hypothesis for one-way ANOVA as all group population means are equal.
+- **Null Hypothesis (One-Way ANOVA)** [0.7] : explain that if the null hypothesis is true, MSbetween and MSwithin estimate the same variance and the F ratio is approximately 1.
+- **Alternative Hypothesis (One-Way ANOVA)** [0.6] : define the alternative hypothesis for one-way ANOVA as at least two group population means differ (populations have different normal distributions).
+- **Variance Between Samples (Between-Groups Variation)** [0.8] : define variance between samples as the variance of the sample means multiplied by n when group sizes are equal (weighted otherwise), also called explained variation.
+- **Variance Between Samples (Between-Groups Variation)** [0.8] : calculate the variance between samples from the variance of group means multiplied by n for equal group sizes or by a weighted approach for unequal sizes.
+- **Variance Between Samples (Between-Groups Variation)** [0.8] : describe how MSbetween reflects explained variation and increases when population group means truly differ.
+- **Variance Within Samples (Within-Groups Variation)** [0.8] : define variance within samples as the pooled average of sample variances (weighted when sizes differ), also called unexplained variation.
+- **Variance Within Samples (Within-Groups Variation)** [0.8] : calculate the variance within samples as the mean of the sample variances (pooled variance) or as MSwithin = SSwithin/dfwithin.
+- **Variance Within Samples (Within-Groups Variation)** [0.8] : describe that MSwithin estimates the common population variance and is unaffected by differences among group means.
+- **Sum Of Squares Between (SSbetween)** [0.7] : define SSbetween as the sum of squares representing variation among different samples.
+- **Sum Of Squares Between (SSbetween)** [0.7] : describe how to obtain SSbetween from group sums and sizes using the provided expression.
+- **Sum Of Squares Between (SSbetween)** [0.7] : calculate SSbetween using SSbetween = Σ[(s_j)²/n_j] − (Σ s_j)²/n.
+- **Sum Of Squares Within (SSwithin)** [0.7] : define SSwithin as the sum of squares representing variation within samples due to chance.
+- **Sum Of Squares Within (SSwithin)** [0.7] : calculate SSwithin as SStotal − SSbetween.
+- **Total Sum Of Squares (SStotal)** [0.6] : define SStotal as the total sum of squares of all values minus the square of the total sum divided by n.
+- **Total Sum Of Squares (SStotal)** [0.6] : calculate SStotal from raw data using SStotal = Σx² − (Σx)²/n.
+- **Mean Square (MS)** [0.8] : define MSbetween and MSwithin as variance estimates computed by dividing the corresponding sum of squares by its degrees of freedom.
+- **Mean Square (MS)** [0.8] : calculate MSbetween = SSbetween/dfbetween and MSwithin = SSwithin/dfwithin.
+- **Degrees Of Freedom Between (dfbetween)** [0.6] : state that dfbetween = k − 1.
+- **Degrees Of Freedom Between (dfbetween)** [0.6] : calculate dfbetween from the number of groups as k − 1.
+- **Degrees Of Freedom Within (dfwithin)** [0.6] : define dfwithin as n − k.
+- **Degrees Of Freedom Within (dfwithin)** [0.6] : calculate dfwithin from the total sample size and number of groups as n − k.
+
+---
+# Section: seg_183 Heading：13.3 facts about the f distribution
+- **F Distribution Shape** [0.5] : state that the F distribution is not symmetrical and is skewed to the right.
+- **F Distribution Shape** [0.5] : describe the right-skewed, non-symmetrical shape of the F distribution.
+- **F Distribution Degrees Of Freedom** [0.7] : calculate the appropriate numerator and denominator degrees of freedom to select the correct F distribution curve for a one-way ANOVA.
+- **F Distribution Degrees Of Freedom** [0.7] : identify the numerator and denominator degrees of freedom that determine a specific F distribution curve.
+- **F Distribution Notation** [0.5] : state the notation Fdf(num),df(denom) for the F distribution.
+- **F Distribution Notation** [0.5] : interpret Fdf(num),df(denom) by linking the first degrees of freedom to the numerator and the second to the denominator.
+- **Degrees Of Freedom In One-Way ANOVA F-Test** [0.9] : calculate df(num) = k − 1 and df(denom) = n − k for a given number of groups k and total sample size n.
+- **Degrees Of Freedom In One-Way ANOVA F-Test** [0.9] : state that in one-way ANOVA, df(num) = k − 1 and df(denom) = n − k.
+- **F Statistic (F Ratio)** [0.8] : define the F statistic as the ratio of the between-group mean square (MSbetween) to the within-group mean square (MSwithin).
+- **F Statistic (F Ratio)** [0.8] : calculate the F statistic from an ANOVA table using MSbetween and MSwithin.
+- **P-Value For F Test** [0.8] : calculate the p-value for an F test as P(F > observed F) using the right tail of the F distribution with the appropriate degrees of freedom.
+- **P-Value For F Test** [0.8] : state that the p-value for an F test is the right-tail probability P(F > observed F).
+
+---
+# Section: seg_185 Heading：13.4 test of two variances
+- **F Test Of Two Variances** [0.9] : Calculate the F test statistic and p-value to compare two population variances from independent normal samples.
+- **F Test Of Two Variances** [0.9] : Compare two sample variances using the F ratio to assess evidence for or against equal population variances.
+- **Assumptions For Two-Variance F Test** [0.8] : State that the F test of two variances requires independent populations that are normally distributed.
+- **Assumptions For Two-Variance F Test** [0.8] : Explain why deviations from normality can invalidate the F test by producing unpredictably high or low p-values.
+- **F Statistic For Two Variances** [0.8] : Define the F statistic for two variances as F = (s1^2/σ1^2) / (s2^2/σ2^2) and, under H0: σ1^2 = σ2^2, as F = s1^2 / s2^2.
+- **F Statistic For Two Variances** [0.8] : Calculate F from sample variances as s1^2/s2^2 when testing σ1^2 = σ2^2.
+- **F Statistic For Two Variances** [0.8] : Interpret the F statistic as a ratio of scaled sample variances that reflects relative variability between two groups.
+- **F Distribution And Degrees Of Freedom** [0.7] : State that the test statistic follows F ~ F(n1 − 1, n2 − 1) with numerator degrees of freedom n1 − 1 and denominator degrees of freedom n2 − 1.
+- **F Distribution And Degrees Of Freedom** [0.7] : Calculate the numerator and denominator degrees of freedom for an F test given sample sizes n1 and n2.
+- **Hypotheses And Tail Direction** [0.6] : State the null hypothesis σ1^2 = σ2^2 and the possible alternatives σ1^2 < σ2^2, σ1^2 > σ2^2, or σ1^2 ≠ σ2^2.
+- **Hypotheses And Tail Direction** [0.6] : Classify an F test as left-tailed, right-tailed, or two-tailed based on the form of the alternative hypothesis.
+- **Orientation Of F Ratio** [0.5] : Recognize whether to compute s1^2/s2^2 or s2^2/s1^2 by identifying which sample variance is larger and the direction of the alternative hypothesis.
+- **Orientation Of F Ratio** [0.5] : Explain how the orientation of the F ratio depends on the alternative hypothesis and why placing the larger sample variance in the numerator yields F ≥ 1.
+- **Orientation Of F Ratio** [0.5] : Calculate the correctly oriented F ratio (s1^2/s2^2 or s2^2/s1^2) for given sample variances and a stated alternative.
+- **Interpretation Of F Magnitude** [0.5] : Interpret F values close to one as supporting equal variances and much larger F (with the larger sample variance in the numerator) as evidence against equality.
+- **Sensitivity To Non-Normality** [0.7] : State that the F test for two variances is highly sensitive to non-normality and may yield misleading p-values.
+- **Sensitivity To Non-Normality** [0.7] : Describe how non-normal population distributions can produce p-values that are unpredictably too high or too low in the F test of two variances.
+
+---
+# Section: seg_187 Heading：13.5 lab: one-way anova
+- **Analysis Of Variance (ANOVA)** [0.7] : state the purpose of ANOVA and the conditions under which it is applicable (normality, equal variances, random and independent sampling).
+- **Analysis Of Variance (ANOVA)** [0.7] : compute ANOVA components (SSbetween, SSwithin, MSbetween, MSwithin) and the resulting F-ratio for grouped data.
+- **Analysis Of Variance (ANOVA)** [0.7] : justify the decision to reject or not reject the null hypothesis by comparing the ANOVA p-value to a stated significance level.
+- **One-Way ANOVA** [1.0] : state the null and alternative hypotheses for a one-way ANOVA comparing three or more group means.
+- **One-Way ANOVA** [1.0] : compute group means, sample variances, degrees of freedom, mean squares, and the F statistic for a one-way ANOVA.
+- **One-Way ANOVA** [1.0] : interpret the F statistic and p-value to conclude whether at least one group mean differs from the others.
+- **Variance** [0.6] : define variance as the mean of the squared deviations from the mean and as the square of the standard deviation.
+- **Variance** [0.6] : calculate a sample variance from raw data using the sum of squared deviations divided by n minus 1.
+- **F Distribution** [0.8] : describe the F distribution as positive and right-skewed with numerator and denominator degrees of freedom.
+- **F Distribution** [0.8] : state the F distribution and its two degrees of freedom used for the ANOVA test statistic.
+- **F Statistic (F-Ratio)** [0.9] : define the F statistic as the ratio of between-group variation to within-group variation.
+- **F Statistic (F-Ratio)** [0.9] : calculate the F statistic as MSbetween divided by MSwithin (or using balanced-design shortcuts when applicable).
+- **F Statistic (F-Ratio)** [0.9] : interpret the magnitude of an F statistic in terms of evidence against equal means (large F implies small p-value; small F implies large p-value).
+- **Assumptions For One-Way ANOVA** [0.9] : list the assumptions for one-way ANOVA: normal populations, random and independent samples, and equal variances.
+- **Hypotheses In One-Way ANOVA** [0.9] : state H0 that all group means are equal and Ha that at least one group mean differs.
+- **Degrees Of Freedom (F Distribution)** [0.8] : compute df for the F distribution as df(num) = k − 1 and df(denom) = n − k for a one-way ANOVA.
+- **Degrees Of Freedom (F Distribution)** [0.8] : state the numerator and denominator degrees of freedom associated with a given one-way ANOVA design.
+- **Degrees Of Freedom (F Distribution)** [0.8] : describe how the degrees of freedom in the F distribution relate to the number of groups and the total number of observations.
+- **Sum Of Squares Between (SSbetween)** [0.7] : compute SSbetween from grouped data using group sizes and means or an equivalent computational formula.
+- **Sum Of Squares Between (SSbetween)** [0.7] : identify SSbetween as the measure of variation among group means in an ANOVA table.
+- **Sum Of Squares Within (SSwithin)** [0.7] : compute SSwithin as SStotal minus SSbetween or by summing within-group sums of squares.
+- **Sum Of Squares Within (SSwithin)** [0.7] : state that SSwithin measures variation within groups in one-way ANOVA.
+- **Total Sum Of Squares (SStotal)** [0.6] : compute SStotal across all observations using a computational formula or deviations from the grand mean.
+- **Mean Square Between (MSbetween)** [0.8] : compute MSbetween by dividing SSbetween by its corresponding degrees of freedom.
+- **Mean Square Within (MSwithin)** [0.8] : define MSwithin as SSwithin divided by its corresponding degrees of freedom.
+- **Mean Square Within (MSwithin)** [0.8] : compute MSwithin from SSwithin and its degrees of freedom.
+- **Test Of Two Variances** [0.5] : state the hypotheses, assumptions, and degrees of freedom for an F test comparing two population variances.
+- **Test Of Two Variances** [0.5] : compute the F statistic and p-value for a test of two variances using the appropriate numerator and denominator degrees of freedom.
+- **Pooled Variance** [0.5] : define pooled variance as the mean of the sample variances across groups.
+- **Pooled Variance** [0.5] : calculate the pooled variance from given group sample variances.
